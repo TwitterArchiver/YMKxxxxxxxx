@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2043289301543501824"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2043290358763905145",
+    "created_at": "2026-04-12T11:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043290358763905145"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 39,
+          "tag": "milthm"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "音乐游戏"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/qSNIW1B2Zp",
+          "end": 76,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2043290358763905145/video/1",
+          "media_key": "13_2043289301543501824",
+          "start": 53,
+          "url": "https://t.co/qSNIW1B2Zp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043290358763905145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "来看看CB12劲爆双指full combo手元！\n把手手不好看的地方剪掉了）\n#milthm #音乐游戏 https://t.co/qSNIW1B2Zp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 50387,
+        "height": 1080,
+        "media_key": "13_2043289301543501824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043289301543501824/img/UUIqMaHDeOBhKxN8.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043289301543501824/vid/avc1/360x270/A0MwRNI2MZPGgM1v.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043289301543501824/vid/avc1/480x360/Cv4r6TP7XslRXicX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043289301543501824/vid/avc1/960x720/zdRD32V9-V-rpLnQ.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043289301543501824/pl/rUxuCm3cTWDSKiKm.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043289301543501824"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2043290358763905145",
+        "created_at": "2026-04-12T11:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043290358763905145"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 39,
+              "tag": "milthm"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "音乐游戏"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qSNIW1B2Zp",
+              "end": 76,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2043290358763905145/video/1",
+              "media_key": "13_2043289301543501824",
+              "start": 53,
+              "url": "https://t.co/qSNIW1B2Zp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043290358763905145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来看看CB12劲爆双指full combo手元！\n把手手不好看的地方剪掉了）\n#milthm #音乐游戏 https://t.co/qSNIW1B2Zp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 861,
+          "following_count": 590,
+          "like_count": 6281,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1444
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

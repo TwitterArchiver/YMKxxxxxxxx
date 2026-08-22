@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059871143172157440"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2059871163476852745",
+    "created_at": "2026-05-28T05:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T06:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059871163476852745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "owofox.com",
+          "end": 52,
+          "expanded_url": "http://owofox.com",
+          "start": 29,
+          "status": 200,
+          "title": "OwoFox",
+          "unwound_url": "https://owofox.com/",
+          "url": "https://t.co/BAovddp2EC"
+        },
+        {
+          "display_url": "pic.x.com/hoEWdA9AjD",
+          "end": 105,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2059871163476852745/photo/1",
+          "media_key": "3_2059871143172157440",
+          "start": 82,
+          "url": "https://t.co/hoEWdA9AjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059871163476852745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "找到了一堆好萌的域名，还都有.COM版本\n然后冲动消费买了https://t.co/BAovddp2EC，花了39.79元，续费9.98USD &gt; &lt; https://t.co/hoEWdA9AjD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2460,
+        "media_key": "3_2059871143172157440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJYh5BvasAA00rH.jpg",
+        "width": 1058
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059871143172157440"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059871163476852745",
+        "created_at": "2026-05-28T05:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059871163476852745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "owofox.com",
+              "end": 52,
+              "expanded_url": "http://owofox.com",
+              "start": 29,
+              "status": 200,
+              "title": "OwoFox",
+              "unwound_url": "https://owofox.com/",
+              "url": "https://t.co/BAovddp2EC"
+            },
+            {
+              "display_url": "pic.x.com/hoEWdA9AjD",
+              "end": 105,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2059871163476852745/photo/1",
+              "media_key": "3_2059871143172157440",
+              "start": 82,
+              "url": "https://t.co/hoEWdA9AjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059871163476852745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了一堆好萌的域名，还都有.COM版本\n然后冲动消费买了https://t.co/BAovddp2EC，花了39.79元，续费9.98USD &gt; &lt; https://t.co/hoEWdA9AjD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 653,
+          "like_count": 8541,
+          "listed_count": 2,
+          "media_count": 175,
+          "tweet_count": 1878
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

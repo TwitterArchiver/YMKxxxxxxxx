@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2083882204565057969",
+    "created_at": "2026-08-04T16:27:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:27:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084677691895365927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708116381005434880",
+          "start": 0,
+          "username": "origamicmic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084677691895365927",
+    "in_reply_to_user_id": "1708116381005434880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083882204565057969",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@origamicmic 妈妈！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2083882192045015041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtv0BKbAAEJJrT.jpg",
+        "width": 1199
+      },
+      {
+        "height": 480,
+        "media_key": "3_2083882198638415872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtv0ZuaUAAfo6_.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2083882204565057969",
+        "created_at": "2026-08-04T16:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084677691895365927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708116381005434880",
+              "start": 0,
+              "username": "origamicmic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084677691895365927",
+        "in_reply_to_user_id": "1708116381005434880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882204565057969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@origamicmic 妈妈！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083882192045015041",
+            "3_2083882198638415872"
+          ]
+        },
+        "author_id": "1708116381005434880",
+        "conversation_id": "2083882204565057969",
+        "created_at": "2026-08-02T11:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083882204565057969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cbj7r2B5p2",
+              "end": 27,
+              "expanded_url": "https://x.com/origamicmic/status/2083882204565057969/photo/1",
+              "media_key": "3_2083882192045015041",
+              "start": 4,
+              "url": "https://t.co/cbj7r2B5p2"
+            },
+            {
+              "display_url": "pic.x.com/cbj7r2B5p2",
+              "end": 27,
+              "expanded_url": "https://x.com/origamicmic/status/2083882204565057969/photo/1",
+              "media_key": "3_2083882198638415872",
+              "start": 4,
+              "url": "https://t.co/cbj7r2B5p2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083882204565057969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 857,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶诶？ https://t.co/cbj7r2B5p2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 697,
+          "like_count": 9700,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-30T13:47:44.000Z",
+        "description": "■学中|■■抑■■虑■ADH■｜双■｜■■■■|■■｜■■■■■|■■■■■■■■",
+        "id": "1708116381005434880",
+        "name": "𝕜𝕪𝕦𝕜𝕪𝕦（淡淡淡淡淡淡推",
+        "pinned_tweet_id": "2070524498177396743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050554628711100417/WCMTkF4N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 475,
+          "like_count": 24993,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 1624
+        },
+        "url": "",
+        "username": "origamicmic",
+        "verified": false
+      }
+    ]
+  }
+}

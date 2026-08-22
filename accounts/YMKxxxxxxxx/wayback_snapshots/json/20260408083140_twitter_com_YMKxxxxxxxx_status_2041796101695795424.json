@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2041784267471253514",
+    "created_at": "2026-04-08T08:31:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T09:31:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041796101695795424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2023061228432605184",
+          "start": 0,
+          "username": "xinya091027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041796101695795424",
+    "in_reply_to_user_id": "2023061228432605184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041784267471253514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinya091027 抱紧，我喜欢你，不许讨厌自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2041784267471253514",
+        "created_at": "2026-04-08T08:31:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T09:31:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041796101695795424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2023061228432605184",
+              "start": 0,
+              "username": "xinya091027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041796101695795424",
+        "in_reply_to_user_id": "2023061228432605184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041784267471253514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinya091027 抱紧，我喜欢你，不许讨厌自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023061228432605184",
+        "conversation_id": "2041784267471253514",
+        "created_at": "2026-04-08T07:44:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T08:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041784267471253514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041784267471253514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我好像已经开始无法接受自己的一切了，好讨厌自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 585,
+          "like_count": 5998,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1382
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T15:46:10.000Z",
+        "description": "09年/无证含糖/身高158/体重42.5kg\n/hrt∶25.12.24一只在学心理学的小药娘～可以经常找鑫雅聊天喵～TG∶@songxinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 63,
+                "username": "songxinya"
+              }
+            ]
+          }
+        },
+        "id": "2023061228432605184",
+        "location": "山西太原",
+        "name": "鑫雅🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2023631273160221005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023063974770569217/ek3DGQZc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 493,
+          "like_count": 230,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 526
+        },
+        "username": "xinya091027",
+        "verified": false
+      }
+    ]
+  }
+}

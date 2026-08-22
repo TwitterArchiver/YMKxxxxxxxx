@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2032032261579890877",
+    "created_at": "2026-03-13T06:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032347974760906762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "40668949",
+          "start": 0,
+          "username": "nanxiaobei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032347974760906762",
+    "in_reply_to_user_id": "40668949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032032261579890877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanxiaobei 你已经精准的指出了问题的核心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2032032261579890877",
+        "created_at": "2026-03-13T06:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032347974760906762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "40668949",
+              "start": 0,
+              "username": "nanxiaobei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032347974760906762",
+        "in_reply_to_user_id": "40668949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032032261579890877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanxiaobei 你已经精准的指出了问题的核心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "40668949",
+        "conversation_id": "2032032261579890877",
+        "created_at": "2026-03-12T09:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T10:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032032261579890877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032032261579890877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4990,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我已经有 \"不是 ... 而是 ...\" PTSD 了，一看到就觉得是 AI 写的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 466,
+          "like_count": 2883,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2009-05-17T14:40:34.000Z",
+        "description": "making 🪄 https://t.co/UW1PjbaBCs ⚡️ https://t.co/gKta9BBd9P 🐥 https://t.co/lrtJEEaQmQ 🪶 https://t.co/bC6M4QLN8q 🫐 https://t.co/qW52sz43UD 📻 https://t.co/grWwLyhmvM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lee.so",
+                "end": 32,
+                "expanded_url": "https://lee.so",
+                "start": 9,
+                "url": "https://t.co/UW1PjbaBCs"
+              },
+              {
+                "display_url": "kee.so",
+                "end": 59,
+                "expanded_url": "https://kee.so",
+                "start": 36,
+                "url": "https://t.co/gKta9BBd9P"
+              },
+              {
+                "display_url": "sotake.com",
+                "end": 85,
+                "expanded_url": "https://sotake.com",
+                "start": 62,
+                "url": "https://t.co/lrtJEEaQmQ"
+              },
+              {
+                "display_url": "21beats.com",
+                "end": 111,
+                "expanded_url": "https://21beats.com",
+                "start": 88,
+                "url": "https://t.co/bC6M4QLN8q"
+              },
+              {
+                "display_url": "github.com/nanxiaobei",
+                "end": 137,
+                "expanded_url": "https://github.com/nanxiaobei",
+                "start": 114,
+                "url": "https://t.co/qW52sz43UD"
+              },
+              {
+                "display_url": "21beats.lemonsqueezy.com",
+                "end": 163,
+                "expanded_url": "https://21beats.lemonsqueezy.com",
+                "start": 140,
+                "url": "https://t.co/grWwLyhmvM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kee.so/nanxiaobei",
+                "end": 23,
+                "expanded_url": "http://kee.so/nanxiaobei",
+                "start": 0,
+                "url": "https://t.co/P2napMQqdt"
+              }
+            ]
+          }
+        },
+        "id": "40668949",
+        "name": "南小北",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597367387317493760/fkBrRQri_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4131,
+          "following_count": 301,
+          "like_count": 2450,
+          "listed_count": 42,
+          "media_count": 2197,
+          "tweet_count": 7551
+        },
+        "url": "https://t.co/P2napMQqdt",
+        "username": "nanxiaobei",
+        "verified": false
+      }
+    ]
+  }
+}

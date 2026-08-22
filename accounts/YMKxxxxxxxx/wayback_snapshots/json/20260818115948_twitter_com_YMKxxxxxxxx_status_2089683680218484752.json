@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2089651077834739787",
+    "created_at": "2026-08-18T11:59:48.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089683680218484752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089683680218484752",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089651079973908779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 来抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2089651077834739787",
+        "created_at": "2026-08-18T11:59:48.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089683680218484752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089683680218484752",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089651079973908779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 来抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2089651077834739787",
+        "created_at": "2026-08-18T09:50:15.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089651079973908779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089651079973908779",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089651077834739787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好想在我难受的时候，在我哭的时候，有个人能抱住我，安慰我，告诉我没事的 没什么大事的 以后什么都会过去的，我们的未来是光明的，虽然我知道我的前途是一片黑暗，但是这些安慰真的很有用，对我来说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2089683680218484752",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 714,
+          "like_count": 10124,
+          "listed_count": 2,
+          "media_count": 213,
+          "tweet_count": 2167
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍 /  重度抑郁 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / ACGN 爱好者✨ / DE BG4VW 🛰 / 我真的很想有人和我说话😣 / 🏳️‍⚧️MTF / 联系方式https://t.co/F230Ex3GxN / ❤️@BD3RER / OM91 / 戳链接了解更多↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 125,
+                "username": "BD3RER"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn/about",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn/about",
+                "start": 0,
+                "url": "https://t.co/FpIiClNZI4"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "is_identity_verified": false,
+        "location": "你家里",
+        "most_recent_tweet_id": "2089651079973908779",
+        "name": "锦木祈杰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1605724119156260866/1766807734",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 341,
+          "like_count": 11872,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 1076
+        },
+        "url": "https://t.co/FpIiClNZI4",
+        "username": "qijieya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2033480656756576524",
+    "created_at": "2026-03-16T09:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T10:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033480656756576524"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2033400061049397402",
+          "start": 5,
+          "url": "https://t.co/lRt4J0qfWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033480656756576524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033400061049397402",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "来抱我嘛 https://t.co/lRt4J0qfWj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033480656756576524",
+        "created_at": "2026-03-16T09:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T10:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033480656756576524"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2033400061049397402",
+              "start": 5,
+              "url": "https://t.co/lRt4J0qfWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033480656756576524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033400061049397402",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来抱我嘛 https://t.co/lRt4J0qfWj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033400061049397402",
+        "created_at": "2026-03-16T04:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T05:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033400061049397402"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033400061049397402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 95,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "总是习惯压抑自己的情绪，可是上午的时候连这股力气都没有了，好像只是没电了，要抱抱摸摸就能好起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 471,
+          "like_count": 3117,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

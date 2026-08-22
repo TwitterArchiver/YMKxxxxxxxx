@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2045872760073904315",
+    "created_at": "2026-04-19T15:35:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T16:35:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045888954529169903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045888954529169903",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045886230328680515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 🐱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2045872760073904315",
+        "created_at": "2026-04-19T15:35:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:35:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045888954529169903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045888954529169903",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045886230328680515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 🐱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2045872760073904315",
+        "created_at": "2026-04-19T15:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T16:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045886230328680515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045886230328680515",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045872760073904315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 大佬恐怖如斯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 865,
+          "following_count": 591,
+          "like_count": 6641,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1514
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍  / 天依❤️ / 重度抑郁&双相 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / acg 爱好者✨ /无线电BG4VW 🛰 /我真的很想有人和我说话😣 / 🏳️‍⚧️ / 联系方式https://t.co/F230Ex3GxN 最可爱的对象 https://t.co/MRTjyN5vTH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 124,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 101,
+                "url": "https://t.co/F230Ex3GxN"
+              },
+              {
+                "display_url": "x.com/BD3RER",
+                "end": 155,
+                "expanded_url": "https://x.com/BD3RER",
+                "start": 132,
+                "url": "https://t.co/MRTjyN5vTH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn",
+                "start": 0,
+                "url": "https://t.co/RJ607Ae9MX"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "2045683283166683347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041346924171952128/9liNcTpp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 226,
+          "like_count": 7542,
+          "listed_count": 2,
+          "media_count": 80,
+          "tweet_count": 466
+        },
+        "url": "https://t.co/RJ607Ae9MX",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

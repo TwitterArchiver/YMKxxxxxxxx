@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2024315785699873146",
+    "created_at": "2026-02-19T09:14:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T10:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024412277404062201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992038421318205440",
+          "start": 0,
+          "username": "tingxinzhongyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024412277404062201",
+    "in_reply_to_user_id": "1992038421318205440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024315785699873146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tingxinzhongyu 好可怕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2024315785699873146",
+        "created_at": "2026-02-19T09:14:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T10:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024412277404062201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024412277404062201",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024315785699873146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 好可怕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1992038421318205440",
+        "conversation_id": "2024315785699873146",
+        "created_at": "2026-02-19T02:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024315785699873146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tingxinzhongyu…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/tingxinzhongyu/status/2024313758169125161",
+              "start": 154,
+              "url": "https://t.co/cNydL6c2qS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024315785699873146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2175,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024313758169125161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超级mtf噩梦预警3\n悲伤之下，你好像又能发出声音了，只不过说出来的话带着哭腔断断续续\n“我明明已经在妥协停糖，为什么我想留个长发都不可以！”\n可四周一大家子十几号人没人回答，只留下\n“诶，这种头发才精神嘛”\n“又是小帅哥了哦”\n“终于跟楼下聊天不用担心人问起来了”\n“我们还是喜欢你这样子”\n惊醒 end https://t.co/cNydL6c2qS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 371,
+          "like_count": 1372,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 406
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-22T01:12:34.000Z",
+        "description": "02 176 65kg//mtf hrt 2025.11.21-2026.2.13🍥//我想要很多很多的爱 欢迎聊天互fo 永远的可爱姐姐@jikeOjk7623",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "jikeOjk7623"
+              }
+            ]
+          }
+        },
+        "id": "1992038421318205440",
+        "name": "听羽 🏳️‍⚧️",
+        "pinned_tweet_id": "2018898357348155536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023721600491925504/NLPFudYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 398,
+          "like_count": 2963,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 1550
+        },
+        "username": "tingxinzhongyu",
+        "verified": false
+      }
+    ]
+  }
+}

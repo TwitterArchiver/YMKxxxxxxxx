@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052227391175733248"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2052227415511052621",
+    "created_at": "2026-05-07T03:21:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052227415511052621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/p0gWmj7MKP",
+          "end": 181,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2052227415511052621/photo/1",
+          "media_key": "3_2052227391175733248",
+          "start": 158,
+          "url": "https://t.co/p0gWmj7MKP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052227415511052621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "半夜嘴馋买了一堆好吃的，馋馋推友\n\n无糖魔爪饮料全口味 330ml x6 / 15.8元\n三养经典火鸡面140g x10 / 48元\n带鱼罐头100g x12 / 27.55元\n烧烤味金针菇 36g x14 / 15.66元\n90%午餐肉 30g x22 / 28.9元\n山椒猪皮 26g x20 / 12.33元 https://t.co/p0gWmj7MKP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2052227391175733248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHr58GlbMAAukDV.jpg",
+        "width": 3728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052227391175733248"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2052227415511052621",
+        "created_at": "2026-05-07T03:21:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052227415511052621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p0gWmj7MKP",
+              "end": 181,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2052227415511052621/photo/1",
+              "media_key": "3_2052227391175733248",
+              "start": 158,
+              "url": "https://t.co/p0gWmj7MKP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052227415511052621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜嘴馋买了一堆好吃的，馋馋推友\n\n无糖魔爪饮料全口味 330ml x6 / 15.8元\n三养经典火鸡面140g x10 / 48元\n带鱼罐头100g x12 / 27.55元\n烧烤味金针菇 36g x14 / 15.66元\n90%午餐肉 30g x22 / 28.9元\n山椒猪皮 26g x20 / 12.33元 https://t.co/p0gWmj7MKP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 915,
+          "following_count": 635,
+          "like_count": 8085,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1770
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

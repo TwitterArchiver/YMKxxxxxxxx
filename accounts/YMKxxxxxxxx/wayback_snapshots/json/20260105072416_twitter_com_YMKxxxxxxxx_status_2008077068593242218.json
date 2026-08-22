@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2007743107618709649",
+    "created_at": "2026-01-05T07:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-05T08:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008077068593242218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271652280438308864",
+          "start": 0,
+          "username": "Jaciezyt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008077068593242218",
+    "in_reply_to_user_id": "1271652280438308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007743107618709649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jaciezyt 抱紧紧紧紧紧紧紧紧~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2007743107618709649",
+        "created_at": "2026-01-05T07:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T08:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008077068593242218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271652280438308864",
+              "start": 0,
+              "username": "Jaciezyt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008077068593242218",
+        "in_reply_to_user_id": "1271652280438308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007743107618709649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jaciezyt 抱紧紧紧紧紧紧紧紧~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2007743107618709649",
+        "created_at": "2026-01-04T09:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007743107618709649"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007743107618709649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4604,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要抱抱……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT:void | __ / SAN: 100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 277,
+          "like_count": 519,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 事电波系少女 | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 曾经的蒟蒻 OIer | 📷 业余摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅🚢 | Formerly at @levimc_org | 愿望是大家都能天天开心❤ | 里@__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "levimc_org"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFiZW"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 ❄🏳️",
+        "pinned_tweet_id": "1997887382092443786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3282,
+          "following_count": 809,
+          "like_count": 54771,
+          "listed_count": 7,
+          "media_count": 1123,
+          "tweet_count": 13552
+        },
+        "url": "https://t.co/v1k3icFiZW",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

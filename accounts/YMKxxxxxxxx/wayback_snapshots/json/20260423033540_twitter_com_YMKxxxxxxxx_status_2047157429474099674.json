@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047157232350203904"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2047157429474099674",
+    "created_at": "2026-04-23T03:35:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T04:35:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047157429474099674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/klxpiao1",
+          "end": 36,
+          "expanded_url": "https://ngl.link/klxpiao1",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 13,
+          "status": 200,
+          "title": "@klxpiao: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/klxpiao1",
+          "url": "https://t.co/gMd6EuyUhV"
+        },
+        {
+          "display_url": "pic.x.com/756yt2aleA",
+          "end": 60,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2047157429474099674/photo/1",
+          "media_key": "3_2047157232350203904",
+          "start": 37,
+          "url": "https://t.co/756yt2aleA"
+        },
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2045837173321265511",
+          "start": 61,
+          "url": "https://t.co/Me3h6YbTL3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047157429474099674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045837173321265511",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ngl匿名提问【3/n】\nhttps://t.co/gMd6EuyUhV https://t.co/756yt2aleA https://t.co/Me3h6YbTL3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1752,
+        "media_key": "3_2047157232350203904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGj2qBGbEAA4eXh.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047157232350203904"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047157429474099674",
+        "created_at": "2026-04-23T03:35:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047157429474099674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/klxpiao1",
+              "end": 36,
+              "expanded_url": "https://ngl.link/klxpiao1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 13,
+              "status": 200,
+              "title": "@klxpiao: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/klxpiao1",
+              "url": "https://t.co/gMd6EuyUhV"
+            },
+            {
+              "display_url": "pic.x.com/756yt2aleA",
+              "end": 60,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2047157429474099674/photo/1",
+              "media_key": "3_2047157232350203904",
+              "start": 37,
+              "url": "https://t.co/756yt2aleA"
+            },
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2045837173321265511",
+              "start": 61,
+              "url": "https://t.co/Me3h6YbTL3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047157429474099674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045837173321265511",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ngl匿名提问【3/n】\nhttps://t.co/gMd6EuyUhV https://t.co/756yt2aleA https://t.co/Me3h6YbTL3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2045837173321265511",
+        "created_at": "2026-04-19T12:09:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:09:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045837173321265511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/klxpiao1",
+              "end": 76,
+              "expanded_url": "https://ngl.link/klxpiao1",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2045837240983781376/l4V4g522?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "@klxpiao: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/klxpiao1",
+              "url": "https://t.co/gMd6EuyUhV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045837173321265511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 971,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "大家会想认识梦花多一点吗？\n第一次玩这个ngl匿名提问 &gt;&lt;\n大家来问问题嘛，或者说点什么？\nhttps://t.co/gMd6EuyUhV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 599,
+          "like_count": 6907,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1569
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

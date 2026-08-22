@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025557976917176325",
+    "created_at": "2026-02-22T13:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T14:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025561741606985882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1815683229023866880",
+          "start": 0,
+          "username": "Huluhuhululuhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025561741606985882",
+    "in_reply_to_user_id": "1815683229023866880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025557976917176325",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huluhuhululuhu Duo 好厉害，做我老婆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2025557960777478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw6O8QbMAAwvYd.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025557962694303744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw6PDZboAAQfZI.jpg",
+        "width": 477
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025557960949420032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw6O85a0AADMPh.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025557961096261632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBw6O9cbcAA55vn.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025557976917176325",
+        "created_at": "2026-02-22T13:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025561741606985882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1815683229023866880",
+              "start": 0,
+              "username": "Huluhuhululuhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025561741606985882",
+        "in_reply_to_user_id": "1815683229023866880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025557976917176325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huluhuhululuhu Duo 好厉害，做我老婆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025557960777478144",
+            "3_2025557962694303744",
+            "3_2025557960949420032",
+            "3_2025557961096261632"
+          ]
+        },
+        "author_id": "1815683229023866880",
+        "conversation_id": "2025557976917176325",
+        "created_at": "2026-02-22T13:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T14:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025557976917176325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c81OR3S7vB",
+              "end": 72,
+              "expanded_url": "https://x.com/Huluhuhululuhu/status/2025557976917176325/photo/1",
+              "media_key": "3_2025557960777478144",
+              "start": 49,
+              "url": "https://t.co/c81OR3S7vB"
+            },
+            {
+              "display_url": "pic.x.com/c81OR3S7vB",
+              "end": 72,
+              "expanded_url": "https://x.com/Huluhuhululuhu/status/2025557976917176325/photo/1",
+              "media_key": "3_2025557962694303744",
+              "start": 49,
+              "url": "https://t.co/c81OR3S7vB"
+            },
+            {
+              "display_url": "pic.x.com/c81OR3S7vB",
+              "end": 72,
+              "expanded_url": "https://x.com/Huluhuhululuhu/status/2025557976917176325/photo/1",
+              "media_key": "3_2025557960949420032",
+              "start": 49,
+              "url": "https://t.co/c81OR3S7vB"
+            },
+            {
+              "display_url": "pic.x.com/c81OR3S7vB",
+              "end": 72,
+              "expanded_url": "https://x.com/Huluhuhululuhu/status/2025557976917176325/photo/1",
+              "media_key": "3_2025557961096261632",
+              "start": 49,
+              "url": "https://t.co/c81OR3S7vB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025557976917176325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给「在群聊中绘制数学图像drf」做了升级♥️\n现在在群聊里面就能绘制显函数、隐函数、参数方程了🍰 https://t.co/c81OR3S7vB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=98%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 393,
+          "like_count": 1533,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 481
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T09:40:10.000Z",
+        "description": "MathForest官方🌲|程序及数学可视化✨|不定时掉落日常🍉|项目进度🍇|涩涩图文🎀|对标GeoGebra重构信息化数学教育🦍|屑魔女游世界🔮",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mduo.cloud",
+                "end": 23,
+                "expanded_url": "https://mduo.cloud",
+                "start": 0,
+                "url": "https://t.co/eDq4jByJXA"
+              }
+            ]
+          }
+        },
+        "id": "1815683229023866880",
+        "name": "Duo🫐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011841049845735424/rA4hJ4LD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 415,
+          "like_count": 2073,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 100
+        },
+        "url": "https://t.co/eDq4jByJXA",
+        "username": "Huluhuhululuhu",
+        "verified": false
+      }
+    ]
+  }
+}

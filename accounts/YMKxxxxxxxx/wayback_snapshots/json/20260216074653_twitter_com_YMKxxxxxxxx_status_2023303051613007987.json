@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2023302622648868983",
+    "created_at": "2026-02-16T07:46:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T08:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023303051613007987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621552410048237569",
+          "start": 0,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023303051613007987",
+    "in_reply_to_user_id": "1621552410048237569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023302622648868983",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amecandy_x 应该很大概率是不会阻止我HRT的www"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023302622648868983",
+        "created_at": "2026-02-16T07:46:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023303051613007987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023303051613007987",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023302622648868983",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 应该很大概率是不会阻止我HRT的www"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "2023302622648868983",
+        "created_at": "2026-02-16T07:45:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T08:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023302622648868983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2023281589841797590",
+              "start": 29,
+              "url": "https://t.co/hAWCNJbPJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023302622648868983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023281589841797590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "顺利的开出小证之后需要做什么呢？\n实际上就是做不了什么。 https://t.co/hAWCNJbPJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 346,
+          "like_count": 1193,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 369
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ transfem / communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020149012624732160/-JptmRgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5514,
+          "following_count": 1916,
+          "like_count": 24959,
+          "listed_count": 16,
+          "media_count": 1162,
+          "tweet_count": 8716
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

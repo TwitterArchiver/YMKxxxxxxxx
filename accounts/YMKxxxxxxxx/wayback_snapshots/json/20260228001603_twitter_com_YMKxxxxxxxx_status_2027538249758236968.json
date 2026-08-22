@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2027517521944056242",
+    "created_at": "2026-02-28T00:16:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:16:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027538249758236968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965448764686303235",
+          "start": 0,
+          "username": "mio_negimeow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027538249758236968",
+    "in_reply_to_user_id": "1965448764686303235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027517521944056242",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mio_negimeow 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2027517521944056242",
+        "created_at": "2026-02-28T00:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027538249758236968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965448764686303235",
+              "start": 0,
+              "username": "mio_negimeow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027538249758236968",
+        "in_reply_to_user_id": "1965448764686303235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027517521944056242",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mio_negimeow 抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965448764686303235",
+        "conversation_id": "2027517521944056242",
+        "created_at": "2026-02-27T22:53:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T23:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027517521944056242"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027517521944056242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好怕我单相思 但我和她真的已经越来越近了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 410,
+          "like_count": 1783,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 585
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T16:14:58.000Z",
+        "description": "aka. Snowmiku❄️｜姛｜Feminist ｜喜欢探索世界的理工女 ｜ 日常碎碎念\n是什么呢？顾名思义是一只葱，那为什么是酱葱呢，因为葱酱很可爱！（无端//）",
+        "id": "1965448764686303235",
+        "name": "酱葱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993376877587972104/nec22BPP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 48,
+          "like_count": 328,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 231
+        },
+        "username": "mio_negimeow",
+        "verified": false
+      }
+    ]
+  }
+}

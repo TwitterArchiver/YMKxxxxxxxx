@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2048021549723316317",
+    "created_at": "2026-04-26T05:21:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T06:21:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048271164460687594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1729090153124376576",
+          "start": 0,
+          "username": "sallyOVO05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048271164460687594",
+    "in_reply_to_user_id": "1729090153124376576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048021549723316317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sallyOVO05 啥比确诊了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2048021540021866497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwIvWFaEAE2UPy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1340,
+        "media_key": "3_2048021540000964608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwIvWAbIAAA7EH.jpg",
+        "width": 1194
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2048021549723316317",
+        "created_at": "2026-04-26T05:21:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:21:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048271164460687594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1729090153124376576",
+              "start": 0,
+              "username": "sallyOVO05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048271164460687594",
+        "in_reply_to_user_id": "1729090153124376576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048021549723316317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sallyOVO05 啥比确诊了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048021540021866497",
+            "3_2048021540000964608"
+          ]
+        },
+        "author_id": "1729090153124376576",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048021549723316317",
+        "created_at": "2026-04-25T12:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048021549723316317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u6mtenqDMf",
+              "end": 41,
+              "expanded_url": "https://x.com/sallyOVO05/status/2048021549723316317/photo/1",
+              "media_key": "3_2048021540021866497",
+              "start": 18,
+              "url": "https://t.co/u6mtenqDMf"
+            },
+            {
+              "display_url": "pic.x.com/u6mtenqDMf",
+              "end": 41,
+              "expanded_url": "https://x.com/sallyOVO05/status/2048021549723316317/photo/1",
+              "media_key": "3_2048021540000964608",
+              "start": 18,
+              "url": "https://t.co/u6mtenqDMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048021549723316317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9826,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "崩不住….\n从翻车顺男到传奇劳保😂 https://t.co/u6mtenqDMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 890,
+          "following_count": 607,
+          "like_count": 7166,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1618
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-27T10:50:02.000Z",
+        "description": "是男孩子/05\n有什么想问的tg联系https://t.co/uWEHdlCpvu\n目前不会回复私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/sal00502",
+                "end": 41,
+                "expanded_url": "https://t.me/sal00502",
+                "start": 18,
+                "url": "https://t.co/uWEHdlCpvu"
+              }
+            ]
+          }
+        },
+        "id": "1729090153124376576",
+        "location": "重庆，成都🚪150 ",
+        "name": "Sally",
+        "pinned_tweet_id": "2007101408131309773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039239022497943552/vFE4Ra8T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27477,
+          "following_count": 166,
+          "like_count": 1178,
+          "listed_count": 85,
+          "media_count": 202,
+          "tweet_count": 723
+        },
+        "username": "sallyOVO05",
+        "verified": true
+      }
+    ]
+  }
+}

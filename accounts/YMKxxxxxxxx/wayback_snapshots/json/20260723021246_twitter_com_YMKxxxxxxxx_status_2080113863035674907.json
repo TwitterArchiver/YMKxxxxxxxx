@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2079892653320323438",
+    "created_at": "2026-07-23T02:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080113863035674907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2079266657667526656",
+          "start": 0,
+          "username": "d1mqu"
+        },
+        {
+          "end": 17,
+          "id": "1859514443362861056",
+          "start": 7,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080113863035674907",
+    "in_reply_to_user_id": "2079266657667526656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080006552233165097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d1mqu @nami16386 看看历史帖子是怎么导致的，翻书包，偷偷被打小报告，没有任何边界感，然后就像发现了毒品一样，丝毫不给沟通的机会。又是衣服全丢了，又是赖以生存药差点全被丢但抢回来了。家长冲动很难接受是正常的，但人要是受不了死了还正常吗。但凡家长动点脑子聪明一点情绪管理强一点也不会做出这么愚蠢的事情。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-23T02:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080113863035674907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2079266657667526656",
+              "start": 0,
+              "username": "d1mqu"
+            },
+            {
+              "end": 17,
+              "id": "1859514443362861056",
+              "start": 7,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080113863035674907",
+        "in_reply_to_user_id": "2079266657667526656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080006552233165097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d1mqu @nami16386 看看历史帖子是怎么导致的，翻书包，偷偷被打小报告，没有任何边界感，然后就像发现了毒品一样，丝毫不给沟通的机会。又是衣服全丢了，又是赖以生存药差点全被丢但抢回来了。家长冲动很难接受是正常的，但人要是受不了死了还正常吗。但凡家长动点脑子聪明一点情绪管理强一点也不会做出这么愚蠢的事情。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079266657667526656",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-22T19:06:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T20:06:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080006552233165097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 23,
+              "id": "1859514443362861056",
+              "start": 13,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080006552233165097",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079912525664309590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx @nami16386 你他妈说话也是不过脑子，什么冒犯，冒你妈了戈壁，家长很难接受这是正常的，楼主很可怜也是真的，什么叫思考都不思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 690,
+          "like_count": 9551,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 2087
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-20T18:06:38.000Z",
+        "description": "",
+        "id": "2079266657667526656",
+        "name": "段起",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080012484010778624/P8RLxmvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 60,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "d1mqu",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF \n身高168cm / 50kg  已炸柜  离家出走 不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2KyDXD"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 818,
+          "following_count": 590,
+          "like_count": 3548,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/QNHz2KyDXD",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}

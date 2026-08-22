@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2072365327573553364",
+    "created_at": "2026-07-01T17:10:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T18:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072367308614643868"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1748903395464032256",
+          "start": 0,
+          "username": "369158qa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072367308614643868",
+    "in_reply_to_user_id": "1748903395464032256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072365327573553364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@369158qa 抱抱！闭上眼睛眯一下吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2072365327573553364",
+        "created_at": "2026-07-01T17:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072367308614643868"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1748903395464032256",
+              "start": 0,
+              "username": "369158qa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072367308614643868",
+        "in_reply_to_user_id": "1748903395464032256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072365327573553364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@369158qa 抱抱！闭上眼睛眯一下吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748903395464032256",
+        "conversation_id": "2072365327573553364",
+        "created_at": "2026-07-01T17:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072365327573553364"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072365327573553364",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累了，睡不着，诶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  HRTing🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 684,
+          "like_count": 9333,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2042
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-21T03:01:01.000Z",
+        "description": "一个白日做梦的",
+        "id": "1748903395464032256",
+        "location": "山东省聊城市",
+        "name": "一只白日豹",
+        "pinned_tweet_id": "1839556730344395261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750333203628605440/4X0gZZ9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 161,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 368
+        },
+        "url": "",
+        "username": "369158qa",
+        "verified": false
+      }
+    ]
+  }
+}

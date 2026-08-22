@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2037224353721622663",
+    "created_at": "2026-03-26T17:45:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:45:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037224353721622663"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2037190645010612341",
+          "start": 57,
+          "url": "https://t.co/x3GqdVBrw4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037224353721622663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037190645010612341",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一直都有粉红色泡泡的，哪怕身体还没跟上，甚至没有hrt的时候也会有www\n羞耻心爆炸，又是个欲求不满的坏孩子…… https://t.co/x3GqdVBrw4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2037224353721622663",
+        "created_at": "2026-03-26T17:45:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:45:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037224353721622663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2037190645010612341",
+              "start": 57,
+              "url": "https://t.co/x3GqdVBrw4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037224353721622663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037190645010612341",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一直都有粉红色泡泡的，哪怕身体还没跟上，甚至没有hrt的时候也会有www\n羞耻心爆炸，又是个欲求不满的坏孩子…… https://t.co/x3GqdVBrw4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2037190645010612341",
+        "created_at": "2026-03-26T15:31:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T16:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037190645010612341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037190645010612341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 422,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇真的发力了，刚刚听涩涩的ASMR的时候，那里自动充血了两分钟，也没有丝毫欲望去碰，再过两分钟又自动萎了。\n才短短几天，就把睾酮驱动的欲望和冲动干掉了，雌二醇好强！\n\n不过依然会感到舒舒服服的，自己原本就探索过好多属于女孩子的体验，以前甚至还通过精神力搭配文字高潮过www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=100%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 538,
+          "like_count": 4549,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

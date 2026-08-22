@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2004775609055203685",
+    "created_at": "2025-12-27T04:45:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-27T05:45:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004775609055203685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1571835424729104385",
+          "start": 3,
+          "username": "xing50062753"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004775609055203685",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004377102968299543",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xing50062753: 一定要梳头洗脸刷牙 这些真的可以帮助缓解身体的抑郁情绪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2004775609055203685",
+        "created_at": "2025-12-27T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004775609055203685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1571835424729104385",
+              "start": 3,
+              "username": "xing50062753"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004775609055203685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004377102968299543",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xing50062753: 一定要梳头洗脸刷牙 这些真的可以帮助缓解身体的抑郁情绪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571835424729104385",
+        "conversation_id": "2004377102968299543",
+        "created_at": "2025-12-26T02:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004377102968299543"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004377102968299543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 45465,
+          "like_count": 490,
+          "quote_count": 3,
+          "reply_count": 28,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "一定要梳头洗脸刷牙 这些真的可以帮助缓解身体的抑郁情绪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧」「喜欢这个世界、宇宙和物理」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 204,
+          "like_count": 294,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 227
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-19T12:15:58.000Z",
+        "description": "自由是个相对的概念 人生是场孤独的修行",
+        "id": "1571835424729104385",
+        "location": "❤️",
+        "name": "未命名",
+        "pinned_tweet_id": "1964951667369238841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003983357567434752/mxcNPbPC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1472,
+          "following_count": 39,
+          "like_count": 28535,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 94
+        },
+        "username": "xing50062753",
+        "verified": false
+      }
+    ]
+  }
+}

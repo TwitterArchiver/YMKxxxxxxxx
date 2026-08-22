@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2040890006223597597",
+    "created_at": "2026-04-06T16:56:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T17:56:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041198409353499045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934880636319485955",
+          "start": 0,
+          "username": "mrsk_sy_xueling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041198409353499045",
+    "in_reply_to_user_id": "1934880636319485955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041194987896148295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mrsk_sy_xueling 我们都好美呜呜呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2040890006223597597",
+        "created_at": "2026-04-06T16:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041198409353499045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsk_sy_xueling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041198409353499045",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041194987896148295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsk_sy_xueling 我们都好美呜呜呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2040890006223597597",
+        "created_at": "2026-04-06T16:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T17:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041194987896148295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041194987896148295",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041056857234772011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 姐姐泥也好美呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 580,
+          "like_count": 5818,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1346
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 拒见证和黄",
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 243,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "username": "mrsk_sy_xueling",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "INFP-T｜MtF🏳️‍⚧️｜深柜｜无证无糖｜生日2009.10｜176cm｜中焦｜社恐｜二次元（番/漫/术/音游 百合向）｜横幅与头像侵删｜不od｜不割手（至少现在不了）｜不见证｜同类互fo 拒见证和黄",
+        "id": "1934880636319485955",
+        "name": "雪泠🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 243,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "username": "mrsk_sy_xueling",
+        "verified": true
+      }
+    ]
+  }
+}

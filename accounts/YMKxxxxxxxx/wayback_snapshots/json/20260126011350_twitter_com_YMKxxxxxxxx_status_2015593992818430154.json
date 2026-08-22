@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2015360840929792048",
+    "created_at": "2026-01-26T01:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015593992818430154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 29,
+          "id": "1604260027677581312",
+          "start": 16,
+          "username": "huasheng1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015593992818430154",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015476570451067182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo @huasheng1225 你也抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2015360840929792048",
+        "created_at": "2026-01-26T01:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015593992818430154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 29,
+              "id": "1604260027677581312",
+              "start": 16,
+              "username": "huasheng1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015593992818430154",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015476570451067182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo @huasheng1225 你也抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882563916632666112",
+        "conversation_id": "2015360840929792048",
+        "created_at": "2026-01-25T17:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015476570451067182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1604260027677581312",
+              "start": 0,
+              "username": "huasheng1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015476570451067182",
+        "in_reply_to_user_id": "1604260027677581312",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015360840929792048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huasheng1225 抱抱花生🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 315,
+          "like_count": 858,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "我已经不需要用语言去证明我的善良了。🍵😋",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 713,
+          "like_count": 416744,
+          "listed_count": 8,
+          "media_count": 213,
+          "tweet_count": 34836
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-17T23:39:38.000Z",
+        "description": "| MTF |  169 50kg | 小证，家长不爆金币党｜🍥2024 11.6 | 同类会互fo其他看成分fo | 想要结交更多朋友 | 在郑州随机刷新",
+        "id": "1604260027677581312",
+        "location": "距离521m",
+        "name": "花生🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885144708714029057/nHoL0voq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1276,
+          "following_count": 1440,
+          "like_count": 1261,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 343
+        },
+        "username": "huasheng1225",
+        "verified": false
+      }
+    ]
+  }
+}

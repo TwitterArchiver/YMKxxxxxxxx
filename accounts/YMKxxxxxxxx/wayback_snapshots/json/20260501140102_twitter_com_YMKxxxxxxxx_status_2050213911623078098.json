@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050213544516616192"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2050213911623078098",
+    "created_at": "2026-05-01T14:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T15:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050213911623078098"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "音乐游戏"
+        },
+        {
+          "end": 46,
+          "start": 40,
+          "tag": "Phira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i0ii9KJeoJ",
+          "end": 70,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2050213911623078098/video/1",
+          "media_key": "13_2050213544516616192",
+          "start": 47,
+          "url": "https://t.co/i0ii9KJeoJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050213911623078098",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好劲爆的双指谱面。这次把马蹄音录进去了\n后面一点也连不上所以没录。\n#音乐游戏 #Phira https://t.co/i0ii9KJeoJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26683,
+        "height": 1080,
+        "media_key": "13_2050213544516616192",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050213544516616192/img/VUAfWrciWc3DWtLy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050213544516616192/vid/avc1/480x270/TQ7rxfPGZk9Lnugz.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050213544516616192/vid/avc1/640x360/4tNOIODMtfegmiUx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050213544516616192/vid/avc1/1280x720/XVaCK52nB8pEsMqy.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050213544516616192/pl/VS3vqiZZUsI1RZje.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050213544516616192"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2050213911623078098",
+        "created_at": "2026-05-01T14:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T15:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050213911623078098"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "音乐游戏"
+            },
+            {
+              "end": 46,
+              "start": 40,
+              "tag": "Phira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i0ii9KJeoJ",
+              "end": 70,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2050213911623078098/video/1",
+              "media_key": "13_2050213544516616192",
+              "start": 47,
+              "url": "https://t.co/i0ii9KJeoJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050213911623078098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好劲爆的双指谱面。这次把马蹄音录进去了\n后面一点也连不上所以没录。\n#音乐游戏 #Phira https://t.co/i0ii9KJeoJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 908,
+          "following_count": 619,
+          "like_count": 7581,
+          "listed_count": 0,
+          "media_count": 161,
+          "tweet_count": 1692
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

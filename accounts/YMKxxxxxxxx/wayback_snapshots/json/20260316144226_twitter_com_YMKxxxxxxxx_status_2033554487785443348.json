@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2033554161510621184",
+        "3_2033554161506422784"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2033554487785443348",
+    "created_at": "2026-03-16T14:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T15:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033554487785443348"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LMnDn447ie",
+          "end": 43,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2033554487785443348/photo/1",
+          "media_key": "3_2033554161510621184",
+          "start": 20,
+          "url": "https://t.co/LMnDn447ie"
+        },
+        {
+          "display_url": "pic.x.com/LMnDn447ie",
+          "end": 43,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2033554487785443348/photo/1",
+          "media_key": "3_2033554161506422784",
+          "start": 20,
+          "url": "https://t.co/LMnDn447ie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033554487785443348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个游戏好好玩，可惜没有录手元用的东西 https://t.co/LMnDn447ie"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2120,
+        "media_key": "3_2033554161510621184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiivFRboAA_E_L.jpg",
+        "width": 3000
+      },
+      {
+        "height": 2120,
+        "media_key": "3_2033554161506422784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDiivFQbkAAYnn8.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033554161510621184",
+            "3_2033554161506422784"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2033554487785443348",
+        "created_at": "2026-03-16T14:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T15:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033554487785443348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMnDn447ie",
+              "end": 43,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2033554487785443348/photo/1",
+              "media_key": "3_2033554161510621184",
+              "start": 20,
+              "url": "https://t.co/LMnDn447ie"
+            },
+            {
+              "display_url": "pic.x.com/LMnDn447ie",
+              "end": 43,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2033554487785443348/photo/1",
+              "media_key": "3_2033554161506422784",
+              "start": 20,
+              "url": "https://t.co/LMnDn447ie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033554487785443348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个游戏好好玩，可惜没有录手元用的东西 https://t.co/LMnDn447ie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 473,
+          "like_count": 3165,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

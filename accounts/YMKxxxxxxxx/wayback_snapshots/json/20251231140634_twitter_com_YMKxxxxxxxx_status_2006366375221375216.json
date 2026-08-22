@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2005646856534294744",
+    "created_at": "2025-12-31T14:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T15:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006366375221375216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1632809157039640576",
+          "start": 0,
+          "username": "FXZdqd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006366375221375216",
+    "in_reply_to_user_id": "1632809157039640576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006041964890947599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FXZdqd 前景是neovide，背景播放着ghostty的shader一边调试，写代码超级沉浸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2005646856534294744",
+        "created_at": "2025-12-31T14:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T15:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006366375221375216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1632809157039640576",
+              "start": 0,
+              "username": "FXZdqd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006366375221375216",
+        "in_reply_to_user_id": "1632809157039640576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006041964890947599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FXZdqd 前景是neovide，背景播放着ghostty的shader一边调试，写代码超级沉浸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1632809157039640576",
+        "conversation_id": "2005646856534294744",
+        "created_at": "2025-12-30T16:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T17:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006041964890947599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006041964890947599",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005646856534294744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx nvim😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 274,
+          "like_count": 452,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 257
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-06T18:23:42.000Z",
+        "description": "",
+        "id": "1632809157039640576",
+        "name": "FXZdqd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632809744258994176/WhsWKgOb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 41,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "FXZdqd",
+        "verified": false
+      }
+    ]
+  }
+}

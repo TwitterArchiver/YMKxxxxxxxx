@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968365378373042178"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "1968365380684103829",
+    "created_at": "2025-09-17T17:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T18:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968365380684103829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wLvPwjS1wR",
+          "end": 46,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/1968365380684103829/photo/1",
+          "media_key": "3_1968365378373042178",
+          "start": 23,
+          "url": "https://t.co/wLvPwjS1wR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968365380684103829",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打算写一篇置顶的自我介绍，先放这里作为占位符 https://t.co/wLvPwjS1wR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 624,
+        "media_key": "3_1968365378373042178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1EJ4f4aQAIu-jt.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968365378373042178"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "1968365380684103829",
+        "created_at": "2025-09-17T17:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968365380684103829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wLvPwjS1wR",
+              "end": 46,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/1968365380684103829/photo/1",
+              "media_key": "3_1968365378373042178",
+              "start": 23,
+              "url": "https://t.co/wLvPwjS1wR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968365380684103829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算写一篇置顶的自我介绍，先放这里作为占位符 https://t.co/wLvPwjS1wR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "Yumeka 🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 104,
+          "like_count": 167,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

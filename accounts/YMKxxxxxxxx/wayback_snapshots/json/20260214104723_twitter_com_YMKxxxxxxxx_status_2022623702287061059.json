@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2022588754234589599",
+    "created_at": "2026-02-14T10:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T11:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022623702287061059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1569933180270161920",
+          "start": 0,
+          "username": "AcdeAsdff"
+        },
+        {
+          "end": 22,
+          "id": "1621552410048237569",
+          "start": 11,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022623702287061059",
+    "in_reply_to_user_id": "1569933180270161920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022619566443237789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AcdeAsdff @amecandy_x 那完了我只和AI有话题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2022588754234589599",
+        "created_at": "2026-02-14T10:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022623702287061059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1569933180270161920",
+              "start": 0,
+              "username": "AcdeAsdff"
+            },
+            {
+              "end": 22,
+              "id": "1621552410048237569",
+              "start": 11,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022623702287061059",
+        "in_reply_to_user_id": "1569933180270161920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022619566443237789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AcdeAsdff @amecandy_x 那完了我只和AI有话题"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569933180270161920",
+        "conversation_id": "2022588754234589599",
+        "created_at": "2026-02-14T10:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T11:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022619566443237789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621552410048237569",
+              "start": 0,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022619566443237789",
+        "in_reply_to_user_id": "1621552410048237569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022588754234589599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amecandy_x 那完了我和人基本上没话题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 341,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 353
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-14T06:17:08.000Z",
+        "description": "gf:@AnqilaSong \ntgID:@Algebraic39\ngender:cis.Mikufan.\ncn/en.Cant japanese :(\n\nfull description: https://t.co/WqfQ8O5hgi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "AnqilaSong"
+              },
+              {
+                "end": 33,
+                "start": 21,
+                "username": "Algebraic39"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/AcdeAsdff/Acde…",
+                "end": 119,
+                "expanded_url": "http://github.com/AcdeAsdff/AcdeAsdff",
+                "start": 96,
+                "url": "https://t.co/WqfQ8O5hgi"
+              }
+            ]
+          }
+        },
+        "id": "1569933180270161920",
+        "location": "39,39,39",
+        "name": "AcdeAsdff🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1913861360020308384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998327605788082176/wWqEOTX2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 256,
+          "like_count": 9901,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 955
+        },
+        "username": "AcdeAsdff",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "「In solitude where we are least alone」/ transfem / communist / ally / ai4fun🤖 / 競馬🏇🏻 / vocaloid🎶 / 也许是铁道迷🚅 / @whitecloud_ybw ❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 109,
+                "username": "whitecloud_ybw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqG4uh"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "济南",
+        "name": "小雨🏳️‍⚧️",
+        "pinned_tweet_id": "2021946997042008389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020149012624732160/-JptmRgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5476,
+          "following_count": 1909,
+          "like_count": 24900,
+          "listed_count": 16,
+          "media_count": 1144,
+          "tweet_count": 8674
+        },
+        "url": "https://t.co/Ul32kqG4uh",
+        "username": "amecandy_x",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065719032091947008"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2065399697720713246",
+    "created_at": "2026-06-13T08:52:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065719034784645173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1770415363034869761",
+          "start": 0,
+          "username": "Merveesavciii1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RdY7fIT5VZ",
+          "end": 48,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2065719034784645173/photo/1",
+          "media_key": "3_2065719032091947008",
+          "start": 25,
+          "url": "https://t.co/RdY7fIT5VZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065719034784645173",
+    "in_reply_to_user_id": "1770415363034869761",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065399697720713246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Merveesavciii1 2x6x6=72 https://t.co/RdY7fIT5VZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1032,
+        "media_key": "3_2065719032091947008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrog9masAAQv-7.jpg",
+        "width": 1116
+      },
+      {
+        "height": 1030,
+        "media_key": "3_2065399691689304064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnGE55XoAAYsCo.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065719032091947008"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2065399697720713246",
+        "created_at": "2026-06-13T08:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065719034784645173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1770415363034869761",
+              "start": 0,
+              "username": "Merveesavciii1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RdY7fIT5VZ",
+              "end": 48,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2065719034784645173/photo/1",
+              "media_key": "3_2065719032091947008",
+              "start": 25,
+              "url": "https://t.co/RdY7fIT5VZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065719034784645173",
+        "in_reply_to_user_id": "1770415363034869761",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065399697720713246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Merveesavciii1 2x6x6=72 https://t.co/RdY7fIT5VZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065399691689304064"
+          ]
+        },
+        "author_id": "1770415363034869761",
+        "conversation_id": "2065399697720713246",
+        "created_at": "2026-06-12T11:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T12:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065399697720713246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fd7srM5psl",
+              "end": 91,
+              "expanded_url": "https://x.com/Merveesavciii1/status/2065399697720713246/photo/1",
+              "media_key": "3_2065399691689304064",
+              "start": 68,
+              "url": "https://t.co/Fd7srM5psl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065399697720713246",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 236,
+          "impression_count": 52163,
+          "like_count": 464,
+          "quote_count": 29,
+          "reply_count": 1159,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "bunu çözersen, IQ seviyen ortalamanın üstündedir.\n\nçözebilir misin? https://t.co/Fd7srM5psl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 668,
+          "like_count": 8994,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 1977
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-20T11:41:44.000Z",
+        "description": "",
+        "id": "1770415363034869761",
+        "name": "merve",
+        "pinned_tweet_id": "2043624270241190207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049166515283369984/60EshaFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3797,
+          "following_count": 2156,
+          "like_count": 129365,
+          "listed_count": 3,
+          "media_count": 496,
+          "tweet_count": 20927
+        },
+        "username": "Merveesavciii1",
+        "verified": true
+      }
+    ]
+  }
+}

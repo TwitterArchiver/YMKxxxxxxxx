@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2023602039641829562",
+    "created_at": "2026-02-17T10:24:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T11:24:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023705211613925734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1792933283040284673",
+          "start": 0,
+          "username": "tuamitx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023705211613925734",
+    "in_reply_to_user_id": "1792933283040284673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023602039641829562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuamitx0 我喜欢加小星星✨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023602039641829562",
+        "created_at": "2026-02-17T10:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T11:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023705211613925734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1792933283040284673",
+              "start": 0,
+              "username": "tuamitx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023705211613925734",
+        "in_reply_to_user_id": "1792933283040284673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023602039641829562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuamitx0 我喜欢加小星星✨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1792933283040284673",
+        "conversation_id": "2023602039641829562",
+        "created_at": "2026-02-17T03:34:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:34:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023602039641829562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023602039641829562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前在昵称上加了个🏳️‍⚧️，会多十倍的fo，但我不喜欢那样，不喜欢任何形式的符号化的东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 362,
+          "like_count": 1287,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 388
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-21T15:00:28.000Z",
+        "description": "我希望我爱的人都好好的🥺♥️/裏垢：https://t.co/q7AzGVPC4y /联络方式：https://t.co/2eUjAnLNoF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pari.cafe/@poi",
+                "end": 41,
+                "expanded_url": "https://pari.cafe/@poi",
+                "start": 18,
+                "url": "https://t.co/q7AzGVPC4y"
+              },
+              {
+                "display_url": "matrix.to/#/@ai0bsw6k:ma…",
+                "end": 71,
+                "expanded_url": "https://matrix.to/#/@ai0bsw6k:matrix.org",
+                "start": 48,
+                "url": "https://t.co/2eUjAnLNoF"
+              }
+            ]
+          }
+        },
+        "id": "1792933283040284673",
+        "location": "🌕月球",
+        "name": "catalyst🍫",
+        "pinned_tweet_id": "2021648158405931264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013987958014296065/ZXpt5StP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 720,
+          "like_count": 21573,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 14656
+        },
+        "username": "tuamitx0",
+        "verified": false
+      }
+    ]
+  }
+}

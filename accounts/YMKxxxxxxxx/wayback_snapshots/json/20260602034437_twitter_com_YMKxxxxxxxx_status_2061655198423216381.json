@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2061653334109618664",
+    "created_at": "2026-06-02T03:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T04:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061655198423216381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "786174501427957761",
+          "start": 0,
+          "username": "amiaoapp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061655198423216381",
+    "in_reply_to_user_id": "786174501427957761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061653334109618664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiaoapp 文案有亿点点长，没有阅读欲望"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 854,
+        "media_key": "3_2061653245865668608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJx2tDnasAAZ1bj.png",
+        "width": 1568
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2061653334109618664",
+        "created_at": "2026-06-02T03:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061655198423216381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "786174501427957761",
+              "start": 0,
+              "username": "amiaoapp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061655198423216381",
+        "in_reply_to_user_id": "786174501427957761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061653334109618664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiaoapp 文案有亿点点长，没有阅读欲望"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061653245865668608"
+          ]
+        },
+        "author_id": "786174501427957761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2061653334109618664",
+        "created_at": "2026-06-02T03:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T04:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061653334109618664"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W70mY3XoxM",
+              "end": 101,
+              "expanded_url": "https://x.com/amiaoapp/status/2061653334109618664/photo/1",
+              "media_key": "3_2061653245865668608",
+              "start": 78,
+              "url": "https://t.co/W70mY3XoxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061653334109618664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 632,
+                "start": 627,
+                "tag": "安卓神器"
+              },
+              {
+                "end": 647,
+                "start": 633,
+                "tag": "TorrentSearch"
+              },
+              {
+                "end": 651,
+                "start": 648,
+                "tag": "开源"
+              },
+              {
+                "end": 659,
+                "start": 652,
+                "tag": "GitHub"
+              },
+              {
+                "end": 665,
+                "start": 660,
+                "tag": "磁力搜索"
+              },
+              {
+                "end": 671,
+                "start": 666,
+                "tag": "BT种子"
+              },
+              {
+                "end": 677,
+                "start": 672,
+                "tag": "效率工具"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/prajwalch/Torr…",
+                "end": 625,
+                "expanded_url": "https://github.com/prajwalch/TorrentSearch",
+                "start": 602,
+                "url": "https://t.co/4rerxWGFyV"
+              }
+            ]
+          },
+          "text": "天天为了找个稀缺软件、下部高清电影，在各种弹窗满天飞、病毒遍地的低劣种子网站里当小白鼠？赶紧把那种割裂体验、折磨眼球的远古找资源姿势连夜送进火葬场！ ⚰️\n\n聚合搜索届的真·全能杀手，安卓端极客必备的磁力搜索神兵：TorrentSearch。这货直接给那些满是牛皮癣广告的流氓磁力站抽了一记响亮的耳光！👋\n\n🚀 把全网资源“生吞活剥”的逆天骚操作：\n多路并发，无情狂暴轰炸：输入一个关键词，同时向全网几十个第三方站点发起降维大搜捕！结果实时 progressive 吐出，管你是动漫、软件、游戏还是影视，死链、假链直接当场物理超度。\n\n原生详情，绝不社死：点开就能直接在 App 内看海报、 description 和截图预览，根本不用跳转浏览器。最骚的是，它自带 NSFW 自动模糊功能，在公共场合找资源也能保持优雅。\n\n极客生态狂暴缝合：不仅内置大量神仙站点，它还支持通过 Torznab API 挂载你的私人 Jackett 和 Prowlarr！直接把你的手机调教成全天候、高能输出的移动 PT/BT 搜索核武。\n\n颜值与纯净度拉满：纯血 Material 3 优雅设计，跟随系统壁纸动态换肤。完全开源，没有一丝广告和恶心权限，没有下载器也会贴心推荐开源客户端。\n\n别再当那个被垃圾网站耍得团团转的赛博难民了。安卓机主防身必备的顶级白嫖圣经，赶紧去把它狠狠焊死在你的手机里👇\n\n🔗 开源仓库直达：https://t.co/4rerxWGFyV\n\n#安卓神器 #TorrentSearch #开源 #GitHub #磁力搜索 #BT种子 #效率工具"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "天天为了找个稀缺软件、下部高清电影，在各种弹窗满天飞、病毒遍地的低劣种子网站里当小白鼠？赶紧把那种割裂体验、折磨眼球的远古找资源姿势连夜送进火葬场！ ⚰️ https://t.co/W70mY3XoxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 663,
+          "like_count": 8817,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 1937
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-12T11:59:42.000Z",
+        "description": "分享软件资源，APP发烧友，AI技能技巧收集学习ING，ERP程序员\n电报频道：https://t.co/XvgNXMZzNM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/amiaoapp",
+                "end": 63,
+                "expanded_url": "https://t.me/amiaoapp",
+                "start": 40,
+                "url": "https://t.co/XvgNXMZzNM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amiao.app",
+                "end": 23,
+                "expanded_url": "https://amiao.app",
+                "start": 0,
+                "url": "https://t.co/kSncc6pe0Y"
+              }
+            ]
+          }
+        },
+        "id": "786174501427957761",
+        "location": "防失联👉🏻",
+        "name": "APP喵",
+        "pinned_tweet_id": "2056553472062107773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1636188090942517249/clmLhuF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4812,
+          "following_count": 77,
+          "like_count": 223,
+          "listed_count": 27,
+          "media_count": 1336,
+          "tweet_count": 1789
+        },
+        "url": "https://t.co/kSncc6pe0Y",
+        "username": "amiaoapp",
+        "verified": true
+      }
+    ]
+  }
+}

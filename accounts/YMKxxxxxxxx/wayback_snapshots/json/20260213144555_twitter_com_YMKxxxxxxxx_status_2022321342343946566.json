@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2022292014956695609",
+    "created_at": "2026-02-13T14:45:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T15:45:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022321342343946566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1998006140286935041",
+          "start": 0,
+          "username": "QingQ77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022321342343946566",
+    "in_reply_to_user_id": "1998006140286935041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022292014956695609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QingQ77 用了几年，自带的瓜体中文很不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2022292014956695609",
+        "created_at": "2026-02-13T14:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T15:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022321342343946566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1998006140286935041",
+              "start": 0,
+              "username": "QingQ77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022321342343946566",
+        "in_reply_to_user_id": "1998006140286935041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022292014956695609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QingQ77 用了几年，自带的瓜体中文很不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998006140286935041",
+        "conversation_id": "2022292014956695609",
+        "created_at": "2026-02-13T12:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T13:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022292014956695609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Open-source third-party Telegram client with not many but useful modifications. - Nekogram/Nekogram",
+              "display_url": "github.com/Nekogram/Nekog…",
+              "end": 111,
+              "expanded_url": "https://github.com/Nekogram/Nekogram",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2020073052999241729/PzIqrhpO?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2020073052999241729/PzIqrhpO?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 88,
+              "status": 200,
+              "title": "GitHub - Nekogram/Nekogram: Open-source third-party Telegram client with not many but useful modifications.",
+              "unwound_url": "https://github.com/Nekogram/Nekogram",
+              "url": "https://t.co/0WnNxF2opF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022292014956695609",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 549,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "安利个 Telegram 客户端界的清流\n\n一款第三方 Telegram 客户端，基于官方 Telegram 客户端进行修改，添加了一些实用但不过度的功能，不多不少刚刚好。\n\nhttps://t.co/0WnNxF2opF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 335,
+          "like_count": 1087,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-08T12:26:15.000Z",
+        "description": "✨不要等待 | 🌱持续创作 | 👨‍💻分享互动 | 🔋快版Geek |",
+        "id": "1998006140286935041",
+        "name": "Geek Lite",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004028412730789892/4IFUGOl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5754,
+          "following_count": 530,
+          "like_count": 376,
+          "listed_count": 45,
+          "media_count": 525,
+          "tweet_count": 842
+        },
+        "username": "QingQ77",
+        "verified": true
+      }
+    ]
+  }
+}

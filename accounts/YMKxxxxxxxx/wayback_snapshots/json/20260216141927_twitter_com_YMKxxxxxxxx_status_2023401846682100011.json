@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023401812892815360"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2023401846682100011",
+    "created_at": "2026-02-16T14:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T15:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023401846682100011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0jA2wL6xs",
+          "end": 52,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2023401846682100011/photo/1",
+          "media_key": "3_2023401812892815360",
+          "start": 29,
+          "url": "https://t.co/P0jA2wL6xs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023401846682100011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你输入的字符未显示任何结果，请稍候再试\n\n我的𝕏怎么炸了 https://t.co/P0jA2wL6xs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1114,
+        "media_key": "3_2023401812892815360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBSROndbkAAILcF.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023401812892815360"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023401846682100011",
+        "created_at": "2026-02-16T14:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T15:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023401846682100011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0jA2wL6xs",
+              "end": 52,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2023401846682100011/photo/1",
+              "media_key": "3_2023401812892815360",
+              "start": 29,
+              "url": "https://t.co/P0jA2wL6xs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023401846682100011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你输入的字符未显示任何结果，请稍候再试\n\n我的𝕏怎么炸了 https://t.co/P0jA2wL6xs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 355,
+          "like_count": 1227,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 376
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

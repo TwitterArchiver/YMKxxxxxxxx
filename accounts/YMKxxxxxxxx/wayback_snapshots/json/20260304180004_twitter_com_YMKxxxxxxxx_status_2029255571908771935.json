@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2029124668544958914",
+    "created_at": "2026-03-04T18:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T19:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029255571908771935"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2029255571908771935",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029124668544958914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "AST抽象语法树解析渲染引擎也有了，用人工智能好高的生产力，直接现搓了一个带优化的轻量版引擎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2029124659921469444",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjmIJ-awAQ3MHC.jpg",
+        "width": 1193
+      },
+      {
+        "height": 555,
+        "media_key": "3_2029124660173099008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjmIK6aUAAqbIa.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2029124668544958914",
+        "created_at": "2026-03-04T18:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029255571908771935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029255571908771935",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029124668544958914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "AST抽象语法树解析渲染引擎也有了，用人工智能好高的生产力，直接现搓了一个带优化的轻量版引擎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029124659921469444",
+            "3_2029124660173099008"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2029124668544958914",
+        "created_at": "2026-03-04T09:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029124668544958914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "🌸 极简、唯美、无需构建的纯前端碎碎念日记框架. Contribute to miniyu157/petal-note development by creating an account on GitHub.",
+              "display_url": "github.com/miniyu157/peta…",
+              "end": 106,
+              "expanded_url": "https://github.com/miniyu157/petal-note",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2026936369290031107/euTc4x87?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2026936369290031107/euTc4x87?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 83,
+              "status": 200,
+              "title": "GitHub - miniyu157/petal-note: 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架",
+              "unwound_url": "https://github.com/miniyu157/petal-note",
+              "url": "https://t.co/8o6KRZBoM4"
+            },
+            {
+              "display_url": "pic.x.com/Uoe2nSPwmA",
+              "end": 168,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2029124668544958914/photo/1",
+              "media_key": "3_2029124659921469444",
+              "start": 145,
+              "url": "https://t.co/Uoe2nSPwmA"
+            },
+            {
+              "display_url": "pic.x.com/Uoe2nSPwmA",
+              "end": 168,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2029124668544958914/photo/1",
+              "media_key": "3_2029124660173099008",
+              "start": 145,
+              "url": "https://t.co/Uoe2nSPwmA"
+            },
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2026936321084961212",
+              "start": 169,
+              "url": "https://t.co/L1kFGZuGZc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029124668544958914",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1126,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026936321084961212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新概念富文本编辑器/渲染器，一切奇妙语法、按钮图标模板，甚至是工具栏的合并行为都在 TOML 里定义。设计了一套跨技术栈的抽象，落地究极开闭原则 (OCP)\n仓库: https://t.co/8o6KRZBoM4\n碎碎念：两个星期140次提交，还写了2400个汉字的文档，我在干什么QAQ https://t.co/Uoe2nSPwmA https://t.co/L1kFGZuGZc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2027717967153344552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 428,
+          "like_count": 2074,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 641
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

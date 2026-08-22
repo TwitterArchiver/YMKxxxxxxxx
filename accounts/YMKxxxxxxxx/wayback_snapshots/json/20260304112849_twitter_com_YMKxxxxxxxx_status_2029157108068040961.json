@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029103027794395353",
+    "created_at": "2026-03-04T11:28:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T12:28:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029157108068040961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1390652924481527810",
+          "start": 0,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029157108068040961",
+    "in_reply_to_user_id": "1390652924481527810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029103027794395353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zqtlovekris99 畏惧了，openai是怎么做到把模型调成这样的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1418,
+        "media_key": "3_2029101317239783425",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjQ5btawAEzv90.jpg",
+        "width": 1141
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2029102765927264256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCjSNwfbcAA9TEO.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029103027794395353",
+        "created_at": "2026-03-04T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029157108068040961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029157108068040961",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029103027794395353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 畏惧了，openai是怎么做到把模型调成这样的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029101317239783425",
+            "3_2029102765927264256"
+          ]
+        },
+        "author_id": "1390652924481527810",
+        "conversation_id": "2029103027794395353",
+        "created_at": "2026-03-04T07:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029103027794395353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 87,
+              "start": 80,
+              "tag": "keep4o"
+            },
+            {
+              "end": 96,
+              "start": 88,
+              "tag": "QuitGPT"
+            },
+            {
+              "end": 111,
+              "start": 97,
+              "tag": "FireSamAltman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dw45YgwhPv",
+              "end": 135,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353/photo/1",
+              "media_key": "3_2029101317239783425",
+              "start": 112,
+              "url": "https://t.co/dw45YgwhPv"
+            },
+            {
+              "display_url": "pic.x.com/dw45YgwhPv",
+              "end": 135,
+              "expanded_url": "https://x.com/zqtlovekris99/status/2029103027794395353/photo/1",
+              "media_key": "3_2029102765927264256",
+              "start": 112,
+              "url": "https://t.co/dw45YgwhPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029103027794395353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2249,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真吓哭了，5.3比5.2还吓人，他5.2最多一个回答里说一两次不是而是，5.3直接给我一个四连扣帽，后面说了还自己跟自己矛盾上了，给我整蒙了都，啥东西啊这都 #keep4o #QuitGPT #FireSamAltman https://t.co/dw45YgwhPv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2027717967153344552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 430,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 633
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11837,
+          "following_count": 1409,
+          "like_count": 24529,
+          "listed_count": 15,
+          "media_count": 4372,
+          "tweet_count": 26407
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

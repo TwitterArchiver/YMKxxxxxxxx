@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2026314273270665587",
+    "created_at": "2026-02-24T15:12:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026314273270665587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2026040158462853315",
+          "start": 30,
+          "url": "https://t.co/EOi2GFZvLJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026314273270665587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026040158462853315",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要抱抱，要～\n要嘛\n好想被抱住\n心疼自己，又在流眼泪... https://t.co/EOi2GFZvLJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2026314273270665587",
+        "created_at": "2026-02-24T15:12:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026314273270665587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2026040158462853315",
+              "start": 30,
+              "url": "https://t.co/EOi2GFZvLJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026314273270665587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026040158462853315",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要抱抱，要～\n要嘛\n好想被抱住\n心疼自己，又在流眼泪... https://t.co/EOi2GFZvLJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2026040158462853315",
+        "created_at": "2026-02-23T21:03:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:03:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026040158462853315"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026040158462853315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的好心疼自己，还会因为心疼自己 而哭出来，甚至因为感受到被心疼 而恢复了一点点的安全感，一下子就哭出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=98%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "pinned_tweet_id": "2026259718344503581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 399,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 529
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

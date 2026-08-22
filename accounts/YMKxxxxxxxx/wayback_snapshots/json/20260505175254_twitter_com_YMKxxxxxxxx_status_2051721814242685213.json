@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2051715049568559454",
+    "created_at": "2026-05-05T17:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051721814242685213"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843618783937937408",
+          "start": 0,
+          "username": "IllusoryKyoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051721814242685213",
+    "in_reply_to_user_id": "1843618783937937408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051715049568559454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IllusoryKyoka 那种莫名其妙冲动和欲望没了\n情绪到位的话，雌激素驱动的性欲还是很强烈很舒服的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_2051715046808686592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkn9vFbEAA0PHT.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2051715049568559454",
+        "created_at": "2026-05-05T17:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051721814242685213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843618783937937408",
+              "start": 0,
+              "username": "IllusoryKyoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051721814242685213",
+        "in_reply_to_user_id": "1843618783937937408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051715049568559454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IllusoryKyoka 那种莫名其妙冲动和欲望没了\n情绪到位的话，雌激素驱动的性欲还是很强烈很舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051715046808686592"
+          ]
+        },
+        "author_id": "1843618783937937408",
+        "conversation_id": "2051715049568559454",
+        "created_at": "2026-05-05T17:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051715049568559454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HOcnyG4geG",
+              "end": 54,
+              "expanded_url": "https://x.com/IllusoryKyoka/status/2051715049568559454/photo/1",
+              "media_key": "3_2051715046808686592",
+              "start": 31,
+              "url": "https://t.co/HOcnyG4geG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051715049568559454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "HRT似乎能顺便把性欲给戒了……现在的我好像翻不起一丝波澜。 https://t.co/HOcnyG4geG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 633,
+          "like_count": 7994,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-08T11:45:55.000Z",
+        "description": "ISFJ-坚实守护者🛡️/产地:广东/深柜/174cm-75Kg/无证含糖/内侧服MTF/HRT:26.2.1/💊E2+CPA/心理健康/不烟不酒/成分纯白/地理-英语-历史-Steam",
+        "id": "1843618783937937408",
+        "location": "北海道 小樽市",
+        "name": "鏡花Kyoka🍥 ଘ(੭ˊᵕˋ)੭*",
+        "pinned_tweet_id": "2051355418874781954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047022672824107008/xKp7IRw4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 73,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 34
+        },
+        "username": "IllusoryKyoka",
+        "verified": false
+      }
+    ]
+  }
+}

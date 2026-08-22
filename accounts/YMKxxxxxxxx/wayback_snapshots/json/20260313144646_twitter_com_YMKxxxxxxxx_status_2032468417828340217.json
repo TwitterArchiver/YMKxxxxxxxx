@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2032296180923974072",
+    "created_at": "2026-03-13T14:46:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T15:46:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032468417828340217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1672670387409395712",
+          "start": 0,
+          "username": "YENA_QWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032468417828340217",
+    "in_reply_to_user_id": "1672670387409395712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032296180923974072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YENA_QWQ 抱抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2032296180923974072",
+        "created_at": "2026-03-13T14:46:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:46:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032468417828340217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1672670387409395712",
+              "start": 0,
+              "username": "YENA_QWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032468417828340217",
+        "in_reply_to_user_id": "1672670387409395712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032296180923974072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YENA_QWQ 抱抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672670387409395712",
+        "conversation_id": "2032296180923974072",
+        "created_at": "2026-03-13T03:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T04:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032296180923974072"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032296180923974072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1205,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要人陪伴，想有人安慰，想有人抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 645,
+          "following_count": 470,
+          "like_count": 2979,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 777
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-24T18:18:15.000Z",
+        "description": "柳州 广州/167 48/可以叫我奈奈/QQ2696873143/❤️@tianwen5258❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "tianwen5258"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yena32946",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yena32946",
+                "start": 0,
+                "url": "https://t.co/4xazGiGNqa"
+              }
+            ]
+          }
+        },
+        "id": "1672670387409395712",
+        "location": "0772",
+        "name": "叶奈–YENA",
+        "pinned_tweet_id": "2015541587477233856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974917109974274049/U92OWFV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3169,
+          "following_count": 775,
+          "like_count": 1026,
+          "listed_count": 4,
+          "media_count": 151,
+          "tweet_count": 1401
+        },
+        "url": "https://t.co/4xazGiGNqa",
+        "username": "YENA_QWQ",
+        "verified": false
+      }
+    ]
+  }
+}

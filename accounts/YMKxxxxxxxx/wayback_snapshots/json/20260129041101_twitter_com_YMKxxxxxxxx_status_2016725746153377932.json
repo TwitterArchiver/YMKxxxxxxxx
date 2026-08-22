@@ -1,0 +1,153 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2016376432616996955",
+    "created_at": "2026-01-29T04:11:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T05:11:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1445400963632750596",
+          "start": 0,
+          "username": "Im_Just__Girl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016725746153377932",
+    "in_reply_to_user_id": "1445400963632750596",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016376432616996955",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Im_Just__Girl 你帖子引用图中的人明显属于 男娘/伪娘/CD 范畴，和需要医疗干预的MtF完全是两个物种，你拿非性少数的个体例子，去暴力定义整个默默生活、甚至由于幸存者偏差而不想发声的计算机专业跨性别女性。她们依然在承受焦虑、努力生活，你看不见她们，是因为她们在当正常人，不想被发现，不是因为她们不存在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1445400963632750596",
+        "conversation_id": "2016376432616996955",
+        "created_at": "2026-01-28T05:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-28T06:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Im_Just__Girl/…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/Im_Just__Girl/status/2015711869902950683",
+              "start": 97,
+              "url": "https://t.co/UXh6eyyg94"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016376432616996955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1362,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015711869902950683",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我已经了解了事情的全貌。我将拒绝撤回对计算机mtf的所有言论。在我眼里，所有选择学计算机ai的mtf都是男人，百分之一百的男人，我不会把你们当作女性或者跨女看待，你们和男人没有任何区别。以上。 https://t.co/UXh6eyyg94"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 322,
+          "like_count": 979,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 329
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读，女留|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|pass跨妹OK|打舞萌的MTF永远是男人，AI计算机理工MTF永远是男人。|男娘拯救世界！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 668,
+          "like_count": 10257,
+          "listed_count": 4,
+          "media_count": 106,
+          "tweet_count": 5208
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      }
+    ]
+  }
+}

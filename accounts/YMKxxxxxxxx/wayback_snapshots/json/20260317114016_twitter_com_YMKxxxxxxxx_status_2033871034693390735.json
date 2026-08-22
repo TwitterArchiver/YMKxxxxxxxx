@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2033843614619672954",
+    "created_at": "2026-03-17T11:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T12:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033871034693390735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541248951843663873",
+          "start": 0,
+          "username": "Anermoka"
+        },
+        {
+          "end": 23,
+          "id": "1907031442103943168",
+          "start": 10,
+          "username": "hoshinemu123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033871034693390735",
+    "in_reply_to_user_id": "1541248951843663873",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033844880041251099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anermoka @hoshinemu123 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033843614619672954",
+        "created_at": "2026-03-17T11:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T12:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033871034693390735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541248951843663873",
+              "start": 0,
+              "username": "Anermoka"
+            },
+            {
+              "end": 23,
+              "id": "1907031442103943168",
+              "start": 10,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033871034693390735",
+        "in_reply_to_user_id": "1541248951843663873",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033844880041251099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anermoka @hoshinemu123 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541248951843663873",
+        "conversation_id": "2033843614619672954",
+        "created_at": "2026-03-17T09:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T10:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033844880041251099"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907031442103943168",
+              "start": 0,
+              "username": "hoshinemu123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033844880041251099",
+        "in_reply_to_user_id": "1907031442103943168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033843614619672954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinemu123 我没有染色体焦虑，是因为高中生物课教过我，生物的性状是由基因和环境共同决定的，而不是由基因单独决定的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 480,
+          "like_count": 3259,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-27T02:36:10.000Z",
+        "description": "只是恰好路过这个世界",
+        "id": "1541248951843663873",
+        "location": "驻马店",
+        "name": "而已",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1931245645597380608/xHAWTaMg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 188,
+          "like_count": 11857,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 271
+        },
+        "username": "Anermoka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-01T11:25:12.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈🍥含糖女同。我曾淋我来时雪，亦将长歌去时晖。星眠的生活号，不定期推音乐/美术作品，爱好古风。汉服复兴运动。北京/长春，欢迎小女孩们来找我玩。\n素素：@ciyou9443 叶老师：@ilobius",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 83,
+                "username": "ciyou9443"
+              },
+              {
+                "end": 106,
+                "start": 98,
+                "username": "ilobius"
+              }
+            ]
+          }
+        },
+        "id": "1907031442103943168",
+        "location": "在你附近",
+        "name": "星眠ほしねむ",
+        "pinned_tweet_id": "2021956150368104748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907031660929118208/sNlrsVC3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2986,
+          "following_count": 3214,
+          "like_count": 3357,
+          "listed_count": 2,
+          "media_count": 849,
+          "tweet_count": 9155
+        },
+        "username": "hoshinemu123",
+        "verified": true
+      }
+    ]
+  }
+}

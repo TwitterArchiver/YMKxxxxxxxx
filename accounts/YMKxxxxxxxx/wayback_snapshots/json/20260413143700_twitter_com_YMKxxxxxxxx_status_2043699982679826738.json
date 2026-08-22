@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2043699980754731513",
+    "created_at": "2026-04-13T14:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T15:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043699982679826738"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043699982679826738",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043699980754731513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "上课的时候突然想到，如果我死了，在那之前，是留恋这个世界，还是坦然的接受呢？\n如果在全身麻醉中被剪断，连死亡都不会经历，只是悄悄被划上了终止符。\n\n不过是意识的涌现停止。\n不过是回归了宇宙的星辰。\n不过是耗散结构达到了它的终极目标。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2043699980754731513",
+        "created_at": "2026-04-13T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043699982679826738"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043699982679826738",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043699980754731513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上课的时候突然想到，如果我死了，在那之前，是留恋这个世界，还是坦然的接受呢？\n如果在全身麻醉中被剪断，连死亡都不会经历，只是悄悄被划上了终止符。\n\n不过是意识的涌现停止。\n不过是回归了宇宙的星辰。\n不过是耗散结构达到了它的终极目标。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2043699980754731513",
+        "created_at": "2026-04-13T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043699980754731513"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 75,
+              "start": 66,
+              "tag": "梦花Yumeka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043699980754731513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "主观地球OL下线，终极的虚无。\n和出生前，和死后完全一样。\n唯一的观察者熄灭，宇宙对我而言，瞬间到达了热寂，时间的尽头。【1/n】\n#梦花Yumeka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 860,
+          "following_count": 589,
+          "like_count": 6366,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 1464
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

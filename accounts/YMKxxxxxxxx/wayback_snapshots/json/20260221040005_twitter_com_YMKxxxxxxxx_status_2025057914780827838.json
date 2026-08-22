@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025056531977560085",
+    "created_at": "2026-02-21T04:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T05:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025057914780827838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984997071435489280",
+          "start": 0,
+          "username": "NianKui59953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025057914780827838",
+    "in_reply_to_user_id": "1984997071435489280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025057754503872642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NianKui59953 谢谢！gemini 3.1确实好强qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025056531977560085",
+        "created_at": "2026-02-21T04:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T05:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025057914780827838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984997071435489280",
+              "start": 0,
+              "username": "NianKui59953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025057914780827838",
+        "in_reply_to_user_id": "1984997071435489280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025057754503872642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NianKui59953 谢谢！gemini 3.1确实好强qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984997071435489280",
+        "conversation_id": "2025056531977560085",
+        "created_at": "2026-02-21T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025057754503872642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025057754503872642",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025056531977560085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 好看喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=87%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "pinned_tweet_id": "2024797293615169662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 382,
+          "like_count": 1449,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T14:52:51.000Z",
+        "description": "mtf🏳️‍⚧️（无证无糖）|179cm/47kg|社恐&表达障碍（不怎么会说话...）|永远14岁|互fo欢迎|可交朋友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikuzuy",
+                "end": 23,
+                "expanded_url": "http://t.me/mikuzuy",
+                "start": 0,
+                "url": "https://t.co/aLPRrkCTSF"
+              }
+            ]
+          }
+        },
+        "id": "1984997071435489280",
+        "name": "葉落風隨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018571020467392512/c8dZJopO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 844,
+          "like_count": 3878,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 269
+        },
+        "url": "https://t.co/aLPRrkCTSF",
+        "username": "NianKui59953",
+        "verified": false
+      }
+    ]
+  }
+}

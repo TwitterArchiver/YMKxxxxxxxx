@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2059278361009045693",
+    "created_at": "2026-05-26T20:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T21:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059369055736492337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 26,
+          "id": "1974380290031132672",
+          "start": 11,
+          "username": "kawail_Yachiyo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 56,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2059368696586592548?s=20",
+          "start": 33,
+          "url": "https://t.co/wfTlnEg93O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059369055736492337",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059368696586592548",
+        "type": "quoted"
+      },
+      {
+        "id": "2059367790726025641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaepheia @kawail_Yachiyo 很懵T^T\nhttps://t.co/wfTlnEg93O"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059367790726025641].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059367790726025641",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059367790726025641"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059278361009045693",
+        "created_at": "2026-05-26T20:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059369055736492337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 26,
+              "id": "1974380290031132672",
+              "start": 11,
+              "username": "kawail_Yachiyo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 56,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2059368696586592548?s=20",
+              "start": 33,
+              "url": "https://t.co/wfTlnEg93O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059369055736492337",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059368696586592548",
+            "type": "quoted"
+          },
+          {
+            "id": "2059367790726025641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaepheia @kawail_Yachiyo 很懵T^T\nhttps://t.co/wfTlnEg93O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059278361009045693",
+        "created_at": "2026-05-26T20:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T21:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059368696586592548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_Yachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059368696586592548",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059278361009045693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_Yachiyo 对不起真没有印象了，我一直都不会屏蔽不敏感又不讨厌的账号的，估计是哪里出问题了。\n刚刚点取消屏蔽失败了，也不知道是什么原因，显示x报错\n造成了困扰，真的对不起T^T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 965,
+          "following_count": 647,
+          "like_count": 8469,
+          "listed_count": 2,
+          "media_count": 173,
+          "tweet_count": 1863
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ\n/ɪˈfiːə/\n好累。\n评论&备用账号@epheiamoe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "epheiamoe"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2058194191491236035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 840,
+          "like_count": 23621,
+          "listed_count": 3,
+          "media_count": 390,
+          "tweet_count": 4464
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥（8964）",
+        "pinned_tweet_id": "2059264214229794831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 539,
+          "like_count": 3393,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      }
+    ]
+  }
+}

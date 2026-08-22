@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064649409787551744",
+        "3_2064649402124537856",
+        "3_2064649427764260864"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2064649435687309422",
+    "created_at": "2026-06-10T10:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064649435687309422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SRLIf2xL1E",
+          "end": 84,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+          "media_key": "3_2064649409787551744",
+          "start": 61,
+          "url": "https://t.co/SRLIf2xL1E"
+        },
+        {
+          "display_url": "pic.x.com/SRLIf2xL1E",
+          "end": 84,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+          "media_key": "3_2064649402124537856",
+          "start": 61,
+          "url": "https://t.co/SRLIf2xL1E"
+        },
+        {
+          "display_url": "pic.x.com/SRLIf2xL1E",
+          "end": 84,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+          "media_key": "3_2064649427764260864",
+          "start": 61,
+          "url": "https://t.co/SRLIf2xL1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064649435687309422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "安卓平板跑的完整 linux 容器\n现在竟然简单刷一个AnyKernel3 就可以开启被阉割的内核功能了，社区大佬真厉害 https://t.co/SRLIf2xL1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064649409787551744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcbswAbYAAkR3L.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1447,
+        "media_key": "3_2064649402124537856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcbsTdbEAAZwts.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2064649427764260864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcbty-aMAAgtyd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064649409787551744",
+            "3_2064649402124537856",
+            "3_2064649427764260864"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2064649435687309422",
+        "created_at": "2026-06-10T10:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064649435687309422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SRLIf2xL1E",
+              "end": 84,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+              "media_key": "3_2064649409787551744",
+              "start": 61,
+              "url": "https://t.co/SRLIf2xL1E"
+            },
+            {
+              "display_url": "pic.x.com/SRLIf2xL1E",
+              "end": 84,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+              "media_key": "3_2064649402124537856",
+              "start": 61,
+              "url": "https://t.co/SRLIf2xL1E"
+            },
+            {
+              "display_url": "pic.x.com/SRLIf2xL1E",
+              "end": 84,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2064649435687309422/photo/1",
+              "media_key": "3_2064649427764260864",
+              "start": 61,
+              "url": "https://t.co/SRLIf2xL1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064649435687309422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "安卓平板跑的完整 linux 容器\n现在竟然简单刷一个AnyKernel3 就可以开启被阉割的内核功能了，社区大佬真厉害 https://t.co/SRLIf2xL1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 664,
+          "like_count": 8911,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1956
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

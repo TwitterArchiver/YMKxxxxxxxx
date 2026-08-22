@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2023326447428075767",
+    "created_at": "2026-02-17T01:01:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T02:01:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023563544147710107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1952257824664485888",
+          "start": 0,
+          "username": "LibailuOne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023563544147710107",
+    "in_reply_to_user_id": "1952257824664485888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023326447428075767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LibailuOne 不想被拉着去拜年，会耗费能量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023326447428075767",
+        "created_at": "2026-02-17T01:01:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T02:01:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023563544147710107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1952257824664485888",
+              "start": 0,
+              "username": "LibailuOne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023563544147710107",
+        "in_reply_to_user_id": "1952257824664485888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023326447428075767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LibailuOne 不想被拉着去拜年，会耗费能量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952257824664485888",
+        "conversation_id": "2023326447428075767",
+        "created_at": "2026-02-16T09:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023326447428075767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023326447428075767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我tm最讨厌过年了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 358,
+          "like_count": 1263,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 383
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-04T06:38:58.000Z",
+        "description": "😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭绝望mtf，目前168cm/63kg，不断减肥中。（可提供雌二醇凝胶制作方法及指导，纯免费）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/ybSVcXZYco"
+              }
+            ]
+          }
+        },
+        "id": "1952257824664485888",
+        "location": "亚神瑞亚尼赛亚（Asenruia Nisaa）",
+        "name": "Libailu🍥🏳️‍⚧️（绝望中……）",
+        "pinned_tweet_id": "2023267304520454510",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961437963768008704/HjAWynxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 280,
+          "like_count": 5619,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 607
+        },
+        "url": "https://t.co/ybSVcXZYco",
+        "username": "LibailuOne",
+        "verified": false
+      }
+    ]
+  }
+}

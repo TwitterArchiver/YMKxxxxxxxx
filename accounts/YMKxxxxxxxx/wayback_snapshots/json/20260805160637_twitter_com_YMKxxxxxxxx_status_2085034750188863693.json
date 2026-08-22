@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2085022415739027804",
+    "created_at": "2026-08-05T16:06:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T17:06:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085034750188863693"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085034750188863693",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085022415739027804",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 那就要看搭配的上下文是怎么说的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2085022415739027804",
+        "created_at": "2026-08-05T16:06:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T17:06:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085034750188863693"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085034750188863693",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085022415739027804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 那就要看搭配的上下文是怎么说的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "2085022415739027804",
+        "created_at": "2026-08-05T15:17:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T16:17:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085022415739027804"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085022415739027804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在mtf/mtx的gd发作的时候给她/ta发天赋党的帖子算不算一种自杀促进？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 705,
+          "like_count": 9822,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 2115
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "hrt：26.2.18/家暴党·天残党·非资深oder\n舞萌重度依赖♡｜同类友跨互fo\n想聊天倾诉想被抱抱都可以来找我喵♡/地雷系重力系警告\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2082938278714703944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 589,
+          "like_count": 1309,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 713
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

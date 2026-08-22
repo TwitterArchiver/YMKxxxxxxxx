@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2041138380092887497",
+    "created_at": "2026-04-06T14:24:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041160126909034579"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1605724119156260866",
+          "start": 0,
+          "username": "qijieya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041160126909034579",
+    "in_reply_to_user_id": "1605724119156260866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041138380092887497",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qijieya 科幻片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2041138380092887497",
+        "created_at": "2026-04-06T14:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041160126909034579"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1605724119156260866",
+              "start": 0,
+              "username": "qijieya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041160126909034579",
+        "in_reply_to_user_id": "1605724119156260866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041138380092887497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qijieya 科幻片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605724119156260866",
+        "conversation_id": "2041138380092887497",
+        "created_at": "2026-04-06T12:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041138380092887497"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041138380092887497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 53,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我测激素六项的时候因为忘记了互联网医院还登录在我爸手机上，他能查到我的就诊记录，然后我炸柜了，不过我属于家长不管党，我差点以为我要炸柜了，我爹还说允许我穿女装，啊建议我吃药，我妈就说吃药伤害身体，最后说了一句你自己选择的别怪我们到时候没提醒你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 579,
+          "like_count": 5793,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T00:37:37.000Z",
+        "description": "阿宅 / 敲代码的🔍  / 天依❤️ / 重度抑郁&双相 / 最强的邪王真眼🌸 / 你可以叫我祈杰 / acg 爱好者✨ /无线电BG4VW 🛰 /我真的很想有人和我说话😣 / 🏳️‍⚧️\n  https://t.co/F230Ex3GxN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qijieya",
+                "end": 120,
+                "expanded_url": "http://t.me/qijieya",
+                "start": 97,
+                "url": "https://t.co/F230Ex3GxN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qijieya.cn",
+                "end": 23,
+                "expanded_url": "https://qijieya.cn",
+                "start": 0,
+                "url": "https://t.co/RJ607Ae9MX"
+              }
+            ]
+          }
+        },
+        "id": "1605724119156260866",
+        "location": "你家里",
+        "name": "锦木祈杰",
+        "pinned_tweet_id": "1990296320142364708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988480278290198528/nMXWjvYW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 220,
+          "like_count": 7324,
+          "listed_count": 2,
+          "media_count": 65,
+          "tweet_count": 410
+        },
+        "url": "https://t.co/RJ607Ae9MX",
+        "username": "qijieya",
+        "verified": false
+      }
+    ]
+  }
+}

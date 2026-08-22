@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2082074610246533184",
+    "created_at": "2026-07-29T09:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082392720161808562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1595655567623831552",
+          "start": 0,
+          "username": "aaaamingming"
+        },
+        {
+          "end": 25,
+          "id": "1796192059495219200",
+          "start": 14,
+          "username": "celadon000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082392720161808562",
+    "in_reply_to_user_id": "1595655567623831552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082075029081411611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaaamingming @celadon000 给自己开药无论是什么药肯定都会很警觉的，会害怕把身体吃坏，或者担心没了解副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2082074610246533184",
+        "created_at": "2026-07-29T09:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082392720161808562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1595655567623831552",
+              "start": 0,
+              "username": "aaaamingming"
+            },
+            {
+              "end": 25,
+              "id": "1796192059495219200",
+              "start": 14,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082392720161808562",
+        "in_reply_to_user_id": "1595655567623831552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082075029081411611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaaamingming @celadon000 给自己开药无论是什么药肯定都会很警觉的，会害怕把身体吃坏，或者担心没了解副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1595655567623831552",
+        "conversation_id": "2082074610246533184",
+        "created_at": "2026-07-28T12:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T13:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082075029081411611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1796192059495219200",
+              "start": 0,
+              "username": "celadon000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082075029081411611",
+        "in_reply_to_user_id": "1796192059495219200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 879,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082074610246533184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@celadon000 不好说，以经验来看这个不要偷偷用药意思可能包含了拒绝hrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 692,
+          "like_count": 9610,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 2089
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T05:48:36.000Z",
+        "description": "武汉 任务型理性mtf /现实比照片好看/声音和外貌pass/直接强制爱索要微信🚪99/接sm约调",
+        "id": "1595655567623831552",
+        "location": "武汉",
+        "name": "明明快要睡着了",
+        "pinned_tweet_id": "2080897384025063777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960740118777749509/v1DRZq85_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5646,
+          "following_count": 236,
+          "like_count": 825,
+          "listed_count": 29,
+          "media_count": 140,
+          "tweet_count": 608
+        },
+        "url": "",
+        "username": "aaaamingming",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-30T14:49:04.000Z",
+        "description": "无证含糖🍥 | 跨直女🏳️‍⚧️ | ArchLinux | 生产日期2008 | 前oier | INFP-T",
+        "id": "1796192059495219200",
+        "location": "Internet",
+        "name": "Celadon🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055488818493652992/x2Be0AsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 289,
+          "like_count": 433,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "celadon000",
+        "verified": true
+      }
+    ]
+  }
+}

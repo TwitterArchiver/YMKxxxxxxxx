@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2022582715732890019",
+    "created_at": "2026-02-14T08:10:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T09:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022584262835532069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1676228046247038976",
+          "start": 0,
+          "username": "ElP15_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022584262835532069",
+    "in_reply_to_user_id": "1676228046247038976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022582715732890019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElP15_ 抱～如果心里不舒服可以找梦花来倾诉哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2022582715732890019",
+        "created_at": "2026-02-14T08:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022584262835532069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1676228046247038976",
+              "start": 0,
+              "username": "ElP15_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022584262835532069",
+        "in_reply_to_user_id": "1676228046247038976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022582715732890019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElP15_ 抱～如果心里不舒服可以找梦花来倾诉哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1676228046247038976",
+        "conversation_id": "2022582715732890019",
+        "created_at": "2026-02-14T08:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T09:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022582715732890019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022582715732890019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受好想哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 341,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 351
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-04T13:55:00.000Z",
+        "description": "maimai/好朋友@Quitewaterqwq | @Allknowbody2 |@aya__maimai/最喜欢的姐姐@FusiKayoko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 10,
+                "username": "Quitewaterqwq"
+              },
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Allknowbody2"
+              },
+              {
+                "end": 54,
+                "start": 42,
+                "username": "aya__maimai"
+              },
+              {
+                "end": 72,
+                "start": 61,
+                "username": "FusiKayoko"
+              }
+            ]
+          }
+        },
+        "id": "1676228046247038976",
+        "location": "Internet",
+        "name": "0_an",
+        "pinned_tweet_id": "1942815353442066715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012559813092212736/40ospGT2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1117,
+          "following_count": 1347,
+          "like_count": 34626,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 11380
+        },
+        "username": "ElP15_",
+        "verified": false
+      }
+    ]
+  }
+}

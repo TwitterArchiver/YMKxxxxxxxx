@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2033891612414382096",
+    "created_at": "2026-03-17T15:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T16:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033923198484680931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1893167873209856000",
+          "start": 0,
+          "username": "mxyzcdb"
+        },
+        {
+          "end": 19,
+          "id": "1368897611672018953",
+          "start": 9,
+          "username": "XUEQIUxka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033923198484680931",
+    "in_reply_to_user_id": "1893167873209856000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033891612414382096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mxyzcdb @XUEQIUxka 很好看！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2033891600636776455",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDnVon-bEAciFEV.jpg",
+        "width": 1958
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033891612414382096",
+        "created_at": "2026-03-17T15:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T16:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033923198484680931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1893167873209856000",
+              "start": 0,
+              "username": "mxyzcdb"
+            },
+            {
+              "end": 19,
+              "id": "1368897611672018953",
+              "start": 9,
+              "username": "XUEQIUxka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033923198484680931",
+        "in_reply_to_user_id": "1893167873209856000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033891612414382096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mxyzcdb @XUEQIUxka 很好看！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033891600636776455"
+          ]
+        },
+        "author_id": "1893167873209856000",
+        "conversation_id": "2033891612414382096",
+        "created_at": "2026-03-17T13:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033891612414382096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1368897611672018953",
+              "start": 4,
+              "username": "XUEQIUxka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NdkJ8bUrIw",
+              "end": 59,
+              "expanded_url": "https://x.com/mxyzcdb/status/2033891612414382096/photo/1",
+              "media_key": "3_2033891600636776455",
+              "start": 36,
+              "url": "https://t.co/NdkJ8bUrIw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033891612414382096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "雪球的 @XUEQIUxka \n呜呜我的大写字母基本没练过所以写的很丑 https://t.co/NdkJ8bUrIw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2033839358680437225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 490,
+          "like_count": 3343,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T05:16:27.000Z",
+        "description": "高中在读｜前信息竞赛之AI大手子｜mtf/mtx?｜随时找我聊天哦～｜看成分回fo｜张臂以爱拥世人，惟愿温润暖乾坤｜愿我们都能带着温柔走很远很远(๑•̀ㅂ•́)و✧｜大号 @axzamyzed ｜好姐姐 @Kiss_light233 @tingxinzhongyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 96,
+                "start": 86,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 116,
+                "start": 102,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 132,
+                "start": 117,
+                "username": "tingxinzhongyu"
+              }
+            ]
+          }
+        },
+        "id": "1893167873209856000",
+        "name": "翅翅膀喵喵喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366819802300422/sVzhVvEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 100,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 77
+        },
+        "username": "mxyzcdb",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "欢迎互关，逃生舱：@Xyliaxka，淡圈 ，SRS：2025/11/12\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的内容\n#家长党，#MTF，#HRT，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 87,
+                "start": 83,
+                "tag": "家长党"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTF"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "HRT"
+              },
+              {
+                "end": 102,
+                "start": 98,
+                "tag": "Les"
+              },
+              {
+                "end": 106,
+                "start": 103,
+                "tag": "双相"
+              },
+              {
+                "end": 112,
+                "start": 107,
+                "tag": "ADHD"
+              },
+              {
+                "end": 119,
+                "start": 113,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 18,
+                "start": 9,
+                "username": "Xyliaxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球&玥玥&鱼喵喵的小窝（曾经是）",
+        "name": "雪秋小可爱",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935338907803045888/GxM_vk8E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6184,
+          "following_count": 1713,
+          "like_count": 21250,
+          "listed_count": 26,
+          "media_count": 367,
+          "tweet_count": 1954
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      }
+    ]
+  }
+}

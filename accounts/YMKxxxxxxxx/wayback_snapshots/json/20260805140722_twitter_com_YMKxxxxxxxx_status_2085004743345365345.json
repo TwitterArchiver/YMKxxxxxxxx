@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085004731148386304"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2084886771888963940",
+    "created_at": "2026-08-05T14:07:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:07:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085004743345365345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047155443613704192",
+          "start": 0,
+          "username": "dem0427"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gTHA7j1wXW",
+          "end": 43,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2085004743345365345/photo/1",
+          "media_key": "3_2085004731148386304",
+          "start": 20,
+          "url": "https://t.co/gTHA7j1wXW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085004743345365345",
+    "in_reply_to_user_id": "2047155443613704192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084886771888963940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dem0427 读完了。给你看小猫🐱 https://t.co/gTHA7j1wXW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2085004731148386304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO9swZMbwAAYS13.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085004731148386304"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2084886771888963940",
+        "created_at": "2026-08-05T14:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085004743345365345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047155443613704192",
+              "start": 0,
+              "username": "dem0427"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTHA7j1wXW",
+              "end": 43,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2085004743345365345/photo/1",
+              "media_key": "3_2085004731148386304",
+              "start": 20,
+              "url": "https://t.co/gTHA7j1wXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085004743345365345",
+        "in_reply_to_user_id": "2047155443613704192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084886771888963940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dem0427 读完了。给你看小猫🐱 https://t.co/gTHA7j1wXW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047155443613704192",
+        "conversation_id": "2084886771888963940",
+        "created_at": "2026-08-05T06:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084886771888963940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084886771888963940",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "喜欢敏感的人。\n敏感意味着什么？意味着感官敏锐，能捕捉到更多的信息，敏感的人相较于钝感的人似乎会更聪明，因为聪明这个词从字面上来看就是耳聪目明，就是感官更加清晰和敏锐，更擅长从外界中获取更多的信息。敏感似乎常常和内向联系在一起，虽然二者有一定的相关性，但并没有必然联系，敏感的人也可能外向，敏感只关乎对信息的感受，而不关乎思维，当我们说一个人内心敏感的时候，其实是在说他思维的内向性和易受外界影响。\n由此我们可以区分出两种敏感，感官敏感和思维敏感。外向的人更倾向感官敏感，内向的人更倾向思维敏感。\n在各种网络语境中讨论的敏感其实都是思维敏感而非感官敏感。\n思维敏感的人比不敏感的人感受到的痛苦要多得多，也更容易在人际关系中受伤，但却容易被那些不敏感的人误读为脆弱和无病呻吟。敏感的人只在床上受欢迎。\n对我而言，我只喜欢敏感的人，我完全无法理解那些钝感的人的生活状态，虽然也有嫉妒，我嫉妒他们能那么轻松的没心没肺的活着，但更多的是一种鄙夷，他们所感受到的世界是多么的肤浅和片面。最重要的是，只有敏感的人呈现出的细节才能让我感到世界的真实。我生命中出现过的人多半都不敏感不深刻不真实，这总让我觉得生活无趣，我受不了多数芸芸众生的粗糙的关系粗糙的内心。曾经我和一位难得能进行deeptalk的朋友聊天表达这样的想法时，ta 说虽然生命总是无聊和痛苦的，但生活中总有一些微小的细节能让ta感受到关系的真实，世界的真实。我是很羡慕ta这种感受的，不知道是我不够敏感，还是我的生活中确实没有这样的细节。\n只有细节是真的，其他的都可以演，一个人的行为、语言和思想，全都可以是假的，是演的，但你没法持续地演出那些真实的细节，细节是不会骗人的。这就需要我们的敏感，不管是感官的敏感还是思维的敏感，只有你足够敏感，你才能根据细节分辨出这个世界上各种人和事物的真假善恶。\n不敏感不能感受和捕捉到足够多的信息的人是不可能有成就的。\n画家是视觉信息过载的人，音乐家是听觉信息过载的人，美食家是味觉信息过载的人，文学家是想象力信息过载的人，思想家是信息本身过载的人。总之，他们都是敏感的人。\n虽然敏感如此重要，但与敏感随之而来的，是对痛苦的敏感，敏感的人总是能感受到远多于常人的痛苦，常人眼中的快乐，对敏感的人来说可能也是痛苦和磨难。对于天才来说，这些痛苦和磨难可以说是天才的磨刀石和催化剂，可是对于那些并没有突出天赋的敏感的人来说，苦难就只是苦难而已。为了缓解敏感带来的痛苦，非常有必要重新审视和发掘钝感的价值。对于敏感的人来说，维持钝感的状态是非常困难的，但这极有价值，长期保持敏感的人是很容易被痛苦压垮的。那么，怎样培养钝感的能力呢？什么时候我们会觉得钝感？我的答案是专注。敏感和钝感是相对的，当我们对外界的其他信息在感官和思维上都钝感时，往往是我们在专注做一件事情的时候，这时我们对这件事非常敏感，但对这件事以外的事却钝感的浑然不觉。这时，敏感和钝感达到了某种秩序的统一与和谐。所以关键不在于要不要敏感，而在于我们应该让敏感专注于某件有价值的事，只对这件事敏感，对其他的事物自然而然会钝感。那些对所有事物都敏感的人，往往对所有事物都不够敏感。这说明敏感背后的关键是注意力，只要你的注意力足够集中于某一件事，敏感就不会对你造成困扰反而会成为你的天赋。而如果你的注意力涣散，你的敏感就会让你感受到各种信息过载的痛苦。\n最后，敏感是一种天赋，敏感的人可以通过专注培养远超常人的能力，敏感的人可以在某件事上敏感，而在其他事上钝感。但是那些天生钝感的人，很难变得敏感，除非足够痛苦。\n\n希望我对敏感的思考能对你有所启发和帮助。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢敏感的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 705,
+          "like_count": 9755,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2104
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-23T03:28:03.000Z",
+        "description": "这世界有那么多人",
+        "id": "2047155443613704192",
+        "location": "子宫",
+        "name": "绯世",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083561093692370945/aHOxkAOq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 11,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "dem0427",
+        "verified": false
+      }
+    ]
+  }
+}

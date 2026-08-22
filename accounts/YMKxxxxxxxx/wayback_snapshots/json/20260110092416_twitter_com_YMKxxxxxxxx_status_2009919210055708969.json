@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2009918682819105179",
+    "created_at": "2026-01-10T09:24:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T10:24:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009919210055708969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1553638217936945153",
+          "start": 0,
+          "username": "tpdsmz11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009919210055708969",
+    "in_reply_to_user_id": "1553638217936945153",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009918682819105179",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tpdsmz11 我都不看折叠私信的，运气不好被折叠看不到也不怪我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 261,
+        "media_key": "3_2009918667782533122",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-SqYRyasAILLJ5.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2009918682819105179",
+        "created_at": "2026-01-10T09:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009919210055708969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1553638217936945153",
+              "start": 0,
+              "username": "tpdsmz11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009919210055708969",
+        "in_reply_to_user_id": "1553638217936945153",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009918682819105179",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tpdsmz11 我都不看折叠私信的，运气不好被折叠看不到也不怪我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009918667782533122"
+          ]
+        },
+        "author_id": "1553638217936945153",
+        "conversation_id": "2009918682819105179",
+        "created_at": "2026-01-10T09:22:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T10:22:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009918682819105179"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbV3ykhsz0",
+              "end": 41,
+              "expanded_url": "https://x.com/tpdsmz11/status/2009918682819105179/photo/1",
+              "media_key": "3_2009918667782533122",
+              "start": 18,
+              "url": "https://t.co/AbV3ykhsz0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009918682819105179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "……………………我不该点开私信的。 https://t.co/AbV3ykhsz0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT:void | __ / SAN: 100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 282,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 278
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-31T07:06:52.000Z",
+        "description": "喜欢女孩子 ^ ^日常随便发帖记录📝",
+        "id": "1553638217936945153",
+        "location": "Amsterdam, The Netherlands",
+        "name": "逃跑的三明治",
+        "pinned_tweet_id": "1987190273127162159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004553989673873409/I-09y7Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 44,
+          "like_count": 1717,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 488
+        },
+        "username": "tpdsmz11",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2037137059228639407",
+    "created_at": "2026-03-26T12:03:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:03:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037138385828274371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361516790040330241",
+          "start": 0,
+          "username": "wuwuwuwu_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037138385828274371",
+    "in_reply_to_user_id": "1361516790040330241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037137059228639407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuwuwuwu_u 来点茶苯海明片，坐车前30分钟服用1-2片"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2037137059228639407",
+        "created_at": "2026-03-26T12:03:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:03:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037138385828274371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361516790040330241",
+              "start": 0,
+              "username": "wuwuwuwu_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037138385828274371",
+        "in_reply_to_user_id": "1361516790040330241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037137059228639407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuwuwuwu_u 来点茶苯海明片，坐车前30分钟服用1-2片"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361516790040330241",
+        "conversation_id": "2037137059228639407",
+        "created_at": "2026-03-26T11:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037137059228639407"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037137059228639407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt了后感觉更容易晕车了🤮"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=100%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 780,
+          "following_count": 535,
+          "like_count": 4491,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-16T03:24:43.000Z",
+        "description": "没想到用什么作为我的简介",
+        "id": "1361516790040330241",
+        "name": "呜呜呜🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901760221296619521/AUFLZMIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 319,
+          "like_count": 1428,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 220
+        },
+        "username": "wuwuwuwu_u",
+        "verified": false
+      }
+    ]
+  }
+}

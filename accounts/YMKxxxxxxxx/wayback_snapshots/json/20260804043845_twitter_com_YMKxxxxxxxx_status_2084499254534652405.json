@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2084299747855315321",
+    "created_at": "2026-08-04T04:38:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T05:38:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084499254534652405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084499254534652405",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084299747855315321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 抱紧紧紧紧紧！！梦花一直都在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2084299747855315321",
+        "created_at": "2026-08-04T04:38:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T05:38:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084499254534652405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084499254534652405",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084299747855315321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 抱紧紧紧紧紧！！梦花一直都在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2084299747855315321",
+        "created_at": "2026-08-03T15:25:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:25:48.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084299703022456888",
+          "2084299747855315321"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084299747855315321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1181,
+          "like_count": 43,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好孤独……\n妳能陪陪我吗\n家里好安静的……\n只剩下蝉和空调的声音了……好可怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 694,
+          "like_count": 9647,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 2093
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM01gGw\nhttps://t.co/gIYkKuCa8q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 119,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 96,
+                "url": "https://t.co/qIlOM01gGw"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 143,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 120,
+                "url": "https://t.co/gIYkKuCa8q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRTfKc"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 386,
+          "like_count": 1242,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 1306
+        },
+        "url": "https://t.co/atwlxRTfKc",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

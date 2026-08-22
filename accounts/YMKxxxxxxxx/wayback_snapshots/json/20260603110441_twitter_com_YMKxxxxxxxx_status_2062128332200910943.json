@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2062128332200910943",
+    "created_at": "2026-06-03T11:04:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T12:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062128332200910943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1942218528100134912",
+          "start": 3,
+          "username": "youling_qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062128332200910943",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061944474855670225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @youling_qaq: 吃钡失败，没死成功，今天再试一遍，要是还没死我真没招了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2062128332200910943",
+        "created_at": "2026-06-03T11:04:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T12:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062128332200910943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1942218528100134912",
+              "start": 3,
+              "username": "youling_qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062128332200910943",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061944474855670225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @youling_qaq: 吃钡失败，没死成功，今天再试一遍，要是还没死我真没招了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942218528100134912",
+        "conversation_id": "2061944474855670225",
+        "created_at": "2026-06-02T22:54:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T23:54:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061944474855670225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061944474855670225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 348,
+          "like_count": 16,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "吃钡失败，没死成功，今天再试一遍，要是还没死我真没招了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1036,
+          "following_count": 666,
+          "like_count": 8872,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1947
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T13:46:08.000Z",
+        "description": "……？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "basibatuo.fun",
+                "end": 23,
+                "expanded_url": "http://basibatuo.fun/",
+                "start": 0,
+                "url": "https://t.co/po9ukaW6p6"
+              }
+            ]
+          }
+        },
+        "id": "1942218528100134912",
+        "name": "basibatuo🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022914453998891008/mwmzVtyR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 979,
+          "like_count": 3626,
+          "listed_count": 2,
+          "media_count": 57,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/po9ukaW6p6",
+        "username": "youling_qaq",
+        "verified": true
+      }
+    ]
+  }
+}

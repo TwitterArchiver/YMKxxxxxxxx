@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1968434142644940840",
+    "created_at": "2025-09-19T00:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T01:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968829837574897710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1772580755174236160",
+          "start": 0,
+          "username": "sftqss1998"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968829837574897710",
+    "in_reply_to_user_id": "1772580755174236160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968748681798050026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sftqss1998 笨蛋！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1968434142644940840",
+        "created_at": "2025-09-19T00:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T01:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968829837574897710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1772580755174236160",
+              "start": 0,
+              "username": "sftqss1998"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968829837574897710",
+        "in_reply_to_user_id": "1772580755174236160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968748681798050026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sftqss1998 笨蛋！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772580755174236160",
+        "conversation_id": "1968434142644940840",
+        "created_at": "2025-09-18T18:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T19:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968748681798050026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968748681798050026",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968696938368225473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 下辈子一定(❁´◡`❁)*✲ﾟ*"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "pinned_tweet_id": "1968365380684103829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 106,
+          "like_count": 170,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T11:06:08.000Z",
+        "description": "08.7.10，目前进行过zc，吞药，洗胃，MECT。重度中二病，hrt2025.8.12\n（计划执行中...）活到20就算胜利",
+        "id": "1772580755174236160",
+        "name": "時🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1957374828802928941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954804665620500481/ZVrPHwpb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 183,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 127
+        },
+        "username": "sftqss1998",
+        "verified": false
+      }
+    ]
+  }
+}

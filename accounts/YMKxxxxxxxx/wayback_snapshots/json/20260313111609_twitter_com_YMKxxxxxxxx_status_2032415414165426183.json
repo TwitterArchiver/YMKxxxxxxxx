@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2032047004327821579",
+    "created_at": "2026-03-13T11:16:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T12:16:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032415414165426183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740708998524141568",
+          "start": 0,
+          "username": "gaga860166912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032415414165426183",
+    "in_reply_to_user_id": "1740708998524141568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032383080028356715",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga860166912 本文已列出相关科学参考文献供探讨。医学与科学在不断进步，性别认同的成因远比单一的活体影像学检测复杂。对于使用‘垃圾’、‘无耻’等侮辱性词汇的情绪化宣泄，不具有学术探讨价值，恕不赘述"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2032047004327821579",
+        "created_at": "2026-03-13T11:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T12:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032415414165426183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740708998524141568",
+              "start": 0,
+              "username": "gaga860166912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032415414165426183",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032383080028356715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga860166912 本文已列出相关科学参考文献供探讨。医学与科学在不断进步，性别认同的成因远比单一的活体影像学检测复杂。对于使用‘垃圾’、‘无耻’等侮辱性词汇的情绪化宣泄，不具有学术探讨价值，恕不赘述"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "conversation_id": "2032047004327821579",
+        "created_at": "2026-03-13T09:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T10:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032383080028356715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032383080028356715",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032047004327821579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 所謂跨性別科學就一坨自欺欺人垃圾！\n沒有任何　實質上根據！　就要求所有人當真理事實！\n\n退一百萬部時間年代　這偽科學論述跟跨性別當法律換證！　跨性別先強制公權力法律換證！教育！醫療！\n幾十年後出來證據薄弱到不行偽科學！\n連醫療也是如此，降低自殺率這些都是後來補上～至今連三期雙盲都沒有"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 469,
+          "like_count": 2944,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 767
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 9,
+          "like_count": 18,
+          "listed_count": 1,
+          "media_count": 429,
+          "tweet_count": 5116
+        },
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

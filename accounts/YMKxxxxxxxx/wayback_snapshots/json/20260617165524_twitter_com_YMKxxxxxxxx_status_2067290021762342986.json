@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2067289545952125367",
+    "created_at": "2026-06-17T16:55:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:55:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067290021762342986"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2067290021762342986",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067289545952125367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在被窝里哭得乱七八糟，这是受了天大的委屈呀，发丝乱乱的混着泪水贴在脸上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2067289545952125367",
+        "created_at": "2026-06-17T16:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067290021762342986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067290021762342986",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067289545952125367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在被窝里哭得乱七八糟，这是受了天大的委屈呀，发丝乱乱的混着泪水贴在脸上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2067289545952125367",
+        "created_at": "2026-06-17T16:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067289545952125367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2067275651112145125",
+              "start": 85,
+              "url": "https://t.co/Oxka3K8bxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067289545952125367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067275651112145125",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "记录了自己的情绪，记录了记录本身的思考。\n没有人疼，流好多眼泪，想到这里又开始心疼自己。\n怎么可怜兮兮的，我好可爱呀，都要哭成小花猫了，在被子里缩成一团，就漏出个小脑袋 https://t.co/Oxka3K8bxQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  HRTing🍥  能量: 温和",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 676,
+          "like_count": 9138,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 2000
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

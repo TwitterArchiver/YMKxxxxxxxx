@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2005857445344588065",
+    "created_at": "2025-12-30T04:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-30T05:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005865455181795587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1999221893287804932",
+          "start": 0,
+          "username": "youzitea520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005865455181795587",
+    "in_reply_to_user_id": "1999221893287804932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005857445344588065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youzitea520 qwq技术相关帖子一点流量没有"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2117,
+        "media_key": "3_2005857285197774848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Y8kspXwAAs-Au.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2005857445344588065",
+        "created_at": "2025-12-30T04:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005865455181795587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1999221893287804932",
+              "start": 0,
+              "username": "youzitea520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005865455181795587",
+        "in_reply_to_user_id": "1999221893287804932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005857445344588065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youzitea520 qwq技术相关帖子一点流量没有"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005857285197774848"
+          ]
+        },
+        "author_id": "1999221893287804932",
+        "conversation_id": "2005857445344588065",
+        "created_at": "2025-12-30T04:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-30T05:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005857445344588065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xg213A6OBM",
+              "end": 40,
+              "expanded_url": "https://x.com/youzitea520/status/2005857445344588065/photo/1",
+              "media_key": "3_2005857285197774848",
+              "start": 17,
+              "url": "https://t.co/xg213A6OBM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005857445344588065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 64,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "很明显，账号有没有推流看纯靠运气 https://t.co/xg213A6OBM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 262,
+          "like_count": 418,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T20:57:09.000Z",
+        "description": "❤️数值156cm41kg35码，喜欢玩cos和绘画，谢谢关注和支持！\n❤️赞赏码或口令红包可以解锁好友照片视频约稿，\n❤️门槛29/49/88/200，❤️I’m of legal age.\n❤️备用防迷路@youning521",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 104,
+                "username": "youning521"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youning.usells.com",
+                "end": 23,
+                "expanded_url": "https://youning.usells.com",
+                "start": 0,
+                "url": "https://t.co/2qNvvHxiUO"
+              }
+            ]
+          }
+        },
+        "id": "1999221893287804932",
+        "location": "谢谢支持付费作品↓↓↓",
+        "name": "柚子茶",
+        "pinned_tweet_id": "1999239333086384147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999222436852633602/NlW0fiUh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 3,
+          "like_count": 23,
+          "listed_count": 3,
+          "media_count": 18,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/2qNvvHxiUO",
+        "username": "youzitea520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2026316768982253719",
+    "created_at": "2026-02-24T15:22:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:22:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026316768982253719"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2026039377848389759",
+          "start": 78,
+          "url": "https://t.co/uui70g3LU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026316768982253719",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026039377848389759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个温柔细腻的自己其实一直都在，只是觉得世界还没有那么安全。如果一直不能被温柔对待，只会越来越变成讨厌的样子，直到把一直向往的温柔也拦在了外面，才不要这样 https://t.co/uui70g3LU1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2026316768982253719",
+        "created_at": "2026-02-24T15:22:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:22:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026316768982253719"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2026039377848389759",
+              "start": 78,
+              "url": "https://t.co/uui70g3LU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026316768982253719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026039377848389759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个温柔细腻的自己其实一直都在，只是觉得世界还没有那么安全。如果一直不能被温柔对待，只会越来越变成讨厌的样子，直到把一直向往的温柔也拦在了外面，才不要这样 https://t.co/uui70g3LU1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2026039377848389759",
+        "created_at": "2026-02-23T21:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T22:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026039377848389759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026039377848389759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在不断的压力环境中，为了保全自己，长久以来的防御即使再强，又有什么用呢？还不如就这样脆弱下去，只负责委屈和掉眼泪就好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=98%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 399,
+          "like_count": 1641,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

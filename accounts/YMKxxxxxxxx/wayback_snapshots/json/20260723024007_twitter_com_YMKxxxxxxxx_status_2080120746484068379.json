@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2079892653320323438",
+    "created_at": "2026-07-23T02:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T03:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080120746484068379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1859514443362861056",
+          "start": 0,
+          "username": "nami16386"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080120746484068379",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079912525664309590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nami16386 家长活在自己的坐标系里，觉得自己才是对的，只凭自己的恐惧和偏见就做出了伤人的事，而孩子又只是拼命想活下去，却被逼到绝境。痛苦又是如此真实，凭什么要有人遭受痛苦，这不是悲剧是什么，太荒谬了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-23T02:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T03:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080120746484068379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859514443362861056",
+              "start": 0,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080120746484068379",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079912525664309590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nami16386 家长活在自己的坐标系里，觉得自己才是对的，只凭自己的恐惧和偏见就做出了伤人的事，而孩子又只是拼命想活下去，却被逼到绝境。痛苦又是如此真实，凭什么要有人遭受痛苦，这不是悲剧是什么，太荒谬了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2079892653320323438",
+        "created_at": "2026-07-22T12:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079912525664309590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1859514443362861056",
+              "start": 0,
+              "username": "nami16386"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079912525664309590",
+        "in_reply_to_user_id": "1859514443362861056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 678,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079892653320323438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nami16386 抱抱抱！才不是呢，是他们太过分太冒犯了，连沟通都不会沟通，思考都不思考，直接产生了这一堆讨厌的话。如果还有机会，一定要想办法再努力沟通一下呀。实在不行的话，也必须要保护好自己才行，梳理一下各个情况。不许对自己不好一点哦！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1071,
+          "following_count": 690,
+          "like_count": 9551,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 2088
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-21T08:29:44.000Z",
+        "description": "17岁🍥 | MTF \n身高168cm / 50kg  已炸柜  离家出走 不割手不od  重度焦虑 有时候笨笨的 \nHRT 2026.5.3\n梦想吃好吃的+玩电脑  喜欢贴贴抱抱 \n时间能不能过快一点😭我理想的生活还在后面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nami16386",
+                "end": 23,
+                "expanded_url": "http://t.me/nami16386",
+                "start": 0,
+                "url": "https://t.co/QNHz2KyDXD"
+              }
+            ]
+          }
+        },
+        "id": "1859514443362861056",
+        "location": "湖北省黄冈市",
+        "name": "nami🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989874381770952705/DFv-z20u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 820,
+          "following_count": 590,
+          "like_count": 3548,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 933
+        },
+        "url": "https://t.co/QNHz2KyDXD",
+        "username": "nami16386",
+        "verified": false
+      }
+    ]
+  }
+}

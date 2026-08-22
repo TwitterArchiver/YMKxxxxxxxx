@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2033483429124440438",
+    "created_at": "2026-03-18T07:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034172252019986833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1921935866114756608",
+          "start": 0,
+          "username": "MomoneChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034172252019986833",
+    "in_reply_to_user_id": "1921935866114756608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033901517221335289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MomoneChino 喜欢自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033483429124440438",
+        "created_at": "2026-03-18T07:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034172252019986833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1921935866114756608",
+              "start": 0,
+              "username": "MomoneChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034172252019986833",
+        "in_reply_to_user_id": "1921935866114756608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033901517221335289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MomoneChino 喜欢自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921935866114756608",
+        "conversation_id": "2033483429124440438",
+        "created_at": "2026-03-17T13:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T14:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033901517221335289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033901517221335289",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033483429124440438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 如果真的能做到自己爱自己，那也是极好的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2033839358680437225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 672,
+          "following_count": 500,
+          "like_count": 3441,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 851
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-12T14:30:06.000Z",
+        "description": "aka. 深柠｜面朝大海，春暖花开",
+        "id": "1921935866114756608",
+        "location": "China",
+        "name": "智乃",
+        "pinned_tweet_id": "2033806371704189157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029565022121435136/-Hhf4UKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 197,
+          "like_count": 1859,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 591
+        },
+        "username": "MomoneChino",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025149204914708864",
+    "created_at": "2026-02-22T01:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025380978219442221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1889695481938448384",
+          "start": 0,
+          "username": "PnKoZCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025380978219442221",
+    "in_reply_to_user_id": "1889695481938448384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025149204914708864",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PnKoZCN 感到累累的时候，也可以让我陪着你，不是自己一个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025149204914708864",
+        "created_at": "2026-02-22T01:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025380978219442221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025380978219442221",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025149204914708864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 感到累累的时候，也可以让我陪着你，不是自己一个人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889695481938448384",
+        "conversation_id": "2025149204914708864",
+        "created_at": "2026-02-21T10:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T11:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025149204914708864"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025149204914708864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 655,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果出现心理问题可以私信我，我虽然无法帮到太大的忙，但是我会尽我的一份力♥️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8G5eD"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 389,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 464
+        },
+        "url": "https://t.co/29FUA8G5eD",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-12T15:18:26.000Z",
+        "description": "MtF🏳‍⚧ | 无证🍥 | INFP-T | 2010/5/4🎂 | 166cm | 45kg | 40码 | LGBT | 重庆 | 互fo | 不OD💊 | 不自残🔪 | 暂无心理以及身体疾病",
+        "id": "1889695481938448384",
+        "name": "東雪蓮🍥 🏳‍⚧Official",
+        "pinned_tweet_id": "2025149204914708864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024022645017382912/n0dFsnqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 267,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 174
+        },
+        "username": "PnKoZCN",
+        "verified": false
+      }
+    ]
+  }
+}

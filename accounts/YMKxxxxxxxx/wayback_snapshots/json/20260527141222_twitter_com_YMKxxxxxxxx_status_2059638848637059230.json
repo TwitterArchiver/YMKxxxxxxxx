@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2059626389243142261",
+    "created_at": "2026-05-27T14:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T15:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059638848637059230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1974380290031132672",
+          "start": 0,
+          "username": "kawail_Yachiyo"
+        },
+        {
+          "end": 25,
+          "id": "1763577841588056064",
+          "start": 16,
+          "username": "yxrchina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059638848637059230",
+    "in_reply_to_user_id": "1974380290031132672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059635400662999207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawail_Yachiyo @yxrchina 诶！？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059626389243142261",
+        "created_at": "2026-05-27T14:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T15:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059638848637059230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1974380290031132672",
+              "start": 0,
+              "username": "kawail_Yachiyo"
+            },
+            {
+              "end": 25,
+              "id": "1763577841588056064",
+              "start": 16,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059638848637059230",
+        "in_reply_to_user_id": "1974380290031132672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059635400662999207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawail_Yachiyo @yxrchina 诶！？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974380290031132672",
+        "conversation_id": "2059626389243142261",
+        "created_at": "2026-05-27T13:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059635400662999207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 22,
+              "id": "1763577841588056064",
+              "start": 13,
+              "username": "yxrchina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059635400662999207",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059626389243142261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx @yxrchina 我将用一生品鉴这个贴文。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 650,
+          "like_count": 8511,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 1873
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-04T07:45:32.000Z",
+        "description": "八年級初中生｜重度抑鬱症｜不一定即時互fo｜pepoyo粉絲｜成分正常可互fo｜全力支持LGBTQ+ 社區｜聯繫我：lzeyu2811@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@lzy-u4q",
+                "end": 23,
+                "expanded_url": "http://www.youtube.com/@lzy-u4q",
+                "start": 0,
+                "url": "https://t.co/uMYDt9cawl"
+              }
+            ]
+          }
+        },
+        "id": "1974380290031132672",
+        "location": "仮想空間＜ツクヨミ＞",
+        "name": "PPY@推八千代🍥（8964）",
+        "pinned_tweet_id": "2059264214229794831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050583838754025472/N2MYQSUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 548,
+          "like_count": 3449,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/uMYDt9cawl",
+        "username": "kawail_Yachiyo",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-01T14:52:04.000Z",
+        "description": "🏳️‍⚧️「重构时间线，再次重逢」\nINFP | MtFtX | oler转oder | 🎂08.15 | Vite | Cpp | HRT 25.08.11~25.11.30 26.04.17~ 26.05.19 | 已炸柜 | 碎碎念or日常 @syyann2026 | ❌ NSFW | 家长反对党 Ultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 124,
+                "username": "syyann2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "404yann.com",
+                "end": 23,
+                "expanded_url": "http://404yann.com",
+                "start": 0,
+                "url": "https://t.co/tx6gNy4Q6Z"
+              }
+            ]
+          }
+        },
+        "id": "1763577841588056064",
+        "location": "Lover @nyaepheia",
+        "name": "𝚂𝚢 𝚈𝚊𝚗𝚗",
+        "pinned_tweet_id": "2047317883089473860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986480358486122496/VZfOMdaB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1155,
+          "following_count": 2013,
+          "like_count": 27002,
+          "listed_count": 3,
+          "media_count": 273,
+          "tweet_count": 8372
+        },
+        "url": "https://t.co/tx6gNy4Q6Z",
+        "username": "yxrchina",
+        "verified": false
+      }
+    ]
+  }
+}

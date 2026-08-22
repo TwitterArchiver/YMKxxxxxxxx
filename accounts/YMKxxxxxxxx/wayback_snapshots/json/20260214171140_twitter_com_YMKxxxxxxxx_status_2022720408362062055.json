@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2022720408362062055",
+    "created_at": "2026-02-14T17:11:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T18:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022720408362062055"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2022200587589431759",
+          "start": 121,
+          "url": "https://t.co/nF49xAeRlT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022720408362062055",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022200587589431759",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出柜这种事情真的好累，和男人交流也好累，也庆幸能有这样的父亲，他的勤劳与付出我都看在眼里。虽然还没有说到正题上，那也袒露了好久。也不知道会不会相信，平时那个连话都不愿意说的孩子，论谁看都是不那么喜欢交流的孩子，脑袋里究竟装下了怎样的宇宙呢？ https://t.co/nF49xAeRlT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2022720408362062055",
+        "created_at": "2026-02-14T17:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022720408362062055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2022200587589431759",
+              "start": 121,
+              "url": "https://t.co/nF49xAeRlT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022720408362062055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022200587589431759",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出柜这种事情真的好累，和男人交流也好累，也庆幸能有这样的父亲，他的勤劳与付出我都看在眼里。虽然还没有说到正题上，那也袒露了好久。也不知道会不会相信，平时那个连话都不愿意说的孩子，论谁看都是不那么喜欢交流的孩子，脑袋里究竟装下了怎样的宇宙呢？ https://t.co/nF49xAeRlT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2022200587589431759",
+        "created_at": "2026-02-13T06:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T07:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022200587589431759"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022200587589431759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这几天估计会和我爸爸出柜\n大家也不用太担心我qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 342,
+          "like_count": 1140,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

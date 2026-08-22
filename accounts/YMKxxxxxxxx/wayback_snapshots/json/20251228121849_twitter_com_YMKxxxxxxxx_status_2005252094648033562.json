@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2005252092181795159",
+    "created_at": "2025-12-28T12:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005252094648033562"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005252094648033562",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005252092181795159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想说的是，我们可以不被治愈，也可以不原谅那段被吞噬的青春，但我们依然有权利带着这身无法修补的裂痕，在痛苦的缝隙里，用力地呼吸，去贪恋那一口薯条的温热与海风的微凉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2005252092181795159",
+        "created_at": "2025-12-28T12:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005252094648033562"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005252094648033562",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005252092181795159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想说的是，我们可以不被治愈，也可以不原谅那段被吞噬的青春，但我们依然有权利带着这身无法修补的裂痕，在痛苦的缝隙里，用力地呼吸，去贪恋那一口薯条的温热与海风的微凉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2005252092181795159",
+        "created_at": "2025-12-28T12:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005252092181795159"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005252092181795159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某些痛苦是根深蒂固在内心最深处且不可撼动的，爱能改变吗，也许也不能。这十几年的回忆，被吞噬的本应属于我的青春，已然是我人生的污点。灵魂的错位，心灵的创伤，既定的生物结构，无论怎样修补，都无法改变这最为本质的荒谬。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 237,
+          "like_count": 352,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 242
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

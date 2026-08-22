@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040356128018812928"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783335558466506752",
+          "name": "Online - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1273235683566432257",
+          "name": "FaceApp"
+        }
+      }
+    ],
+    "conversation_id": "2040361340355903936",
+    "created_at": "2026-04-04T09:30:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:30:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040361340355903936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DuE2BDkzh2",
+          "end": 70,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2040361340355903936/photo/1",
+          "media_key": "3_2040356128018812928",
+          "start": 47,
+          "url": "https://t.co/DuE2BDkzh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040361340355903936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "FaceApp白嫖了七天会员，虽然修得一点也不像我，被美哭了呜呜呜\n以后ffs想要这样的效果 https://t.co/DuE2BDkzh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2040356128018812928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDNFpHaUAAMpNL.jpg",
+        "width": 1454
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040356128018812928"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783335558466506752",
+              "name": "Online - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1273235683566432257",
+              "name": "FaceApp"
+            }
+          }
+        ],
+        "conversation_id": "2040361340355903936",
+        "created_at": "2026-04-04T09:30:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040361340355903936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DuE2BDkzh2",
+              "end": 70,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2040361340355903936/photo/1",
+              "media_key": "3_2040356128018812928",
+              "start": 47,
+              "url": "https://t.co/DuE2BDkzh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040361340355903936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "FaceApp白嫖了七天会员，虽然修得一点也不像我，被美哭了呜呜呜\n以后ffs想要这样的效果 https://t.co/DuE2BDkzh2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 815,
+          "following_count": 563,
+          "like_count": 5341,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1249
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

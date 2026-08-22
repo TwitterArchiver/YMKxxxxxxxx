@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2078374939892297963",
+    "created_at": "2026-07-18T16:42:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:42:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078520722281136616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028509490119864324",
+          "start": 0,
+          "username": "Yuhane_ZZZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078520722281136616",
+    "in_reply_to_user_id": "2028509490119864324",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078374939892297963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuhane_ZZZ 抱抱！！要好好的，真的，说过永远都在的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2078374939892297963",
+        "created_at": "2026-07-18T16:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078520722281136616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028509490119864324",
+              "start": 0,
+              "username": "Yuhane_ZZZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078520722281136616",
+        "in_reply_to_user_id": "2028509490119864324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078374939892297963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuhane_ZZZ 抱抱！！要好好的，真的，说过永远都在的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028509490119864324",
+        "conversation_id": "2078374939892297963",
+        "created_at": "2026-07-18T07:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T08:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078374939892297963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078374939892297963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呼吸困难…\n想要睡过去 再也不会醒来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 686,
+          "like_count": 9481,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 2067
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T16:38:24.000Z",
+        "description": "＝飘飘/友跨顺女/ESFP/最喜欢的宝宝@hydrogen_nya/喜欢可爱的说话方式和颜文字/舞萌/音击/珠洲岛有栖厨/emu厨/神秘小号@mione_awa/总是很困zzz/需要自杀干预请随时私信 梦羽永远都在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "hydrogen_nya"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "mione_awa"
+              }
+            ]
+          }
+        },
+        "id": "2028509490119864324",
+        "location": "奏坂学园",
+        "name": "星奏谷 夢羽_ほしかなや ゆはね🍥",
+        "pinned_tweet_id": "2029106548501524686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038873195089174528/FM2jiZGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 118,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 674
+        },
+        "url": "",
+        "username": "Yuhane_ZZZ",
+        "verified": false
+      }
+    ]
+  }
+}

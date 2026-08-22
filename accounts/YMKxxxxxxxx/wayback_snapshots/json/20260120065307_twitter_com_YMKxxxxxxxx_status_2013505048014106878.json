@@ -1,0 +1,381 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2013239025969352741",
+    "created_at": "2026-01-20T06:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T07:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013505048014106878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1802173168721043456",
+          "start": 0,
+          "username": "cmzy51577"
+        },
+        {
+          "end": 21,
+          "id": "1885154179922227200",
+          "start": 11,
+          "username": "Snow_Xue_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/status/20041…",
+          "end": 63,
+          "expanded_url": "https://x.com/i/status/2004145511977320517",
+          "start": 40,
+          "url": "https://t.co/d1oUNd2YQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013505048014106878",
+    "in_reply_to_user_id": "1802173168721043456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004145511977320517",
+        "type": "quoted"
+      },
+      {
+        "id": "2013329526303138276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmzy51577 @Snow_Xue_ 跨性别群体的性别认同是刻在大脑里的（https://t.co/d1oUNd2YQ5），基本都在胚胎发育时期、青春期之前就会形成了\n\n但身体的染色体、生殖器、激素与大脑的性别认同不符，称性别不一致。身心不符的这种体验是非常痛苦撕裂的。\n\n而HRT能拿回契合灵魂的身体体验，关于具体细节，多去AI问问了解一些吧。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2795,
+        "media_key": "3_2004143777133613056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9AmJZrb0AAPV53.jpg",
+        "width": 2120
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2013239025969352741",
+        "created_at": "2026-01-20T06:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T07:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013505048014106878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1802173168721043456",
+              "start": 0,
+              "username": "cmzy51577"
+            },
+            {
+              "end": 21,
+              "id": "1885154179922227200",
+              "start": 11,
+              "username": "Snow_Xue_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/status/20041…",
+              "end": 63,
+              "expanded_url": "https://x.com/i/status/2004145511977320517",
+              "start": 40,
+              "url": "https://t.co/d1oUNd2YQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013505048014106878",
+        "in_reply_to_user_id": "1802173168721043456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004145511977320517",
+            "type": "quoted"
+          },
+          {
+            "id": "2013329526303138276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmzy51577 @Snow_Xue_ 跨性别群体的性别认同是刻在大脑里的（https://t.co/d1oUNd2YQ5），基本都在胚胎发育时期、青春期之前就会形成了\n\n但身体的染色体、生殖器、激素与大脑的性别认同不符，称性别不一致。身心不符的这种体验是非常痛苦撕裂的。\n\n而HRT能拿回契合灵魂的身体体验，关于具体细节，多去AI问问了解一些吧。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004143777133613056"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1129067985451118593",
+              "name": "Physical Education"
+            }
+          }
+        ],
+        "conversation_id": "2004145511977320517",
+        "created_at": "2025-12-25T11:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T12:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004145511977320517"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "跨性别的神经生物学基础：性别认同真的刻在大脑里吗？在当今社会里，关于跨性别人群的讨论正逐渐走向主流。人们开始理解性别认同与出生时的生理性别并不总是相符。性别认同不仅仅是一种心理体验，越来越多的研究表明，其背后可能存在重要的神经生物学因素。本文将以一种通俗易懂的方式，结合学术研究，但尽量避开复杂的术语，揭开跨性",
+              "display_url": "m.baidu.com/bh/m/detail/ar…",
+              "end": 81,
+              "expanded_url": "https://m.baidu.com/bh/m/detail/ar_9194623067636324265",
+              "start": 58,
+              "status": 200,
+              "title": "跨性别的神经生物学基础：性别认同真的刻在大脑里吗？",
+              "unwound_url": "https://m.baidu.com/bh/m/detail/ar_9194623067636324265",
+              "url": "https://t.co/ZMxfosJ4qK"
+            },
+            {
+              "display_url": "zhuanlan.zhihu.com/p/511036061",
+              "end": 132,
+              "expanded_url": "https://zhuanlan.zhihu.com/p/511036061",
+              "start": 109,
+              "unwound_url": "https://zhuanlan.zhihu.com/p/511036061",
+              "url": "https://t.co/y5BYmkOjkN"
+            },
+            {
+              "display_url": "pic.x.com/046SUnAMWX",
+              "end": 156,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2004145511977320517/photo/1",
+              "media_key": "3_2004143777133613056",
+              "start": 133,
+              "url": "https://t.co/046SUnAMWX"
+            },
+            {
+              "display_url": "x.com/noname2095_/st…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/noname2095_/status/2003815226450514161",
+              "start": 157,
+              "url": "https://t.co/rNmQ26XlMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004145511977320517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4461,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003815226450514161",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也来发表自己的看法\n\n提到的BNST与跨性别相关的文章：\n1.跨性别的神经生物学基础：性别认同真的刻在大脑里吗？\nhttps://t.co/ZMxfosJ4qK\n2.科学家揭示雌激素受体决定大脑基因表达的性别差异性\nhttps://t.co/y5BYmkOjkN https://t.co/046SUnAMWX https://t.co/rNmQ26XlMU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802173168721043456",
+        "conversation_id": "2013239025969352741",
+        "created_at": "2026-01-19T19:15:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T20:15:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013329526303138276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1885154179922227200",
+              "start": 0,
+              "username": "Snow_Xue_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013329526303138276",
+        "in_reply_to_user_id": "1885154179922227200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013239025969352741",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_ 我很不明白，我无意冒犯\n你们这个群体为什么要吃这种药？为什么要去作贱你们自己的身体？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT:void | __ / SAN: 100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 305,
+          "like_count": 764,
+          "listed_count": 1,
+          "media_count": 53,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T02:56:00.000Z",
+        "description": "那是心理上的极致救赎和生理上的绝对堕落",
+        "id": "1802173168721043456",
+        "location": "Biei-cho, Hokkaidō",
+        "name": "白水鉴心",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013331632195825664/Ij-eN3Fd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 17,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 30
+        },
+        "username": "cmzy51577",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T02:32:51.000Z",
+        "description": "| 普通的上海入 | 生产日期2010.3.16 | 无证含糖 | 🍥hrt 2025.11 |\n| b站：屑冷雪 / 屑冷雪_ |\n提问箱 https://t.co/Z0xh9tLJZh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/snow_xue_",
+                "end": 94,
+                "expanded_url": "https://ngl.link/snow_xue_",
+                "start": 71,
+                "url": "https://t.co/Z0xh9tLJZh"
+              }
+            ]
+          }
+        },
+        "id": "1885154179922227200",
+        "location": "上海 ",
+        "name": "雪🍥",
+        "pinned_tweet_id": "2006664118678466579",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011071927880990725/RFlHroBA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1295,
+          "following_count": 1392,
+          "like_count": 39585,
+          "listed_count": 2,
+          "media_count": 498,
+          "tweet_count": 3813
+        },
+        "username": "Snow_Xue_",
+        "verified": false
+      }
+    ]
+  }
+}

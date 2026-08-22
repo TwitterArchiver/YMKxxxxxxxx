@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2061824272381976681",
+    "created_at": "2026-06-02T15:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T16:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061835786908311673"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2060010615700365500",
+          "start": 6,
+          "url": "https://t.co/CCVyCmp6DK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061835786908311673",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060010615700365500",
+        "type": "quoted"
+      },
+      {
+        "id": "2061824272381976681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "挚爱的时光 https://t.co/CCVyCmp6DK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2061824272381976681",
+        "created_at": "2026-06-02T15:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T16:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061835786908311673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2060010615700365500",
+              "start": 6,
+              "url": "https://t.co/CCVyCmp6DK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061835786908311673",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060010615700365500",
+            "type": "quoted"
+          },
+          {
+            "id": "2061824272381976681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "挚爱的时光 https://t.co/CCVyCmp6DK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2060010615700365500",
+        "created_at": "2026-05-28T14:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060010615700365500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2059124862736896073",
+              "start": 106,
+              "url": "https://t.co/ddqFEmhBuP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060010615700365500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 829,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059124862736896073",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忘不掉你，傻小孩\n你说最喜欢我了，可我却再也无法照顾你了\n你说我是救世主什么的，你说是那就是吧\n真想把世界线的变量再修改一下，再宠着你一会，就一会儿好不好？这次没有隔着距离了，只是在我怀里安静的待一会好吗\n在哭 https://t.co/ddqFEmhBuP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2061824272381976681",
+        "created_at": "2026-06-02T14:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T15:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061824272381976681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xvliowo/status…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/xvliowo/status/2060080100595642613",
+              "start": 118,
+              "url": "https://t.co/xdikEHV3os"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061824272381976681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我好心疼璃羽，明明一切都在往好的方向发展，她的精神状态始终在变好。可是前段时间再次被家庭糟践，环境压抑的痛苦和伤口全部裂开。我明明完全有能力让这件事不发生的，偏偏那阵子就没有好好陪着。\n\n她的世界里明明只有我了。\n我好痛。没能保护好。\n\n        在这个宇宙中，物质产生了第一视角，产生了生命。原本只有一瞬的因果规律，被这唯一的视角拉长了——得以存在，观察，产生体验。\n一切明明没有意义，但感知存在，感知存在的全部，本身就是意义。\n\n        “没关系哦，等到都化为了星辰往后，在那片花海中，与花再次相遇吧。”\n        ——至最心疼的璃羽，小傻瓜。\n\n—— · 碎碎念 · ——\n哎我现在好懒好没力气，一阵一阵的难过，每天都会流眼泪。\n心里空落落的，思绪好乱，又好想哭。。\n和人保持连接才行，物理空间内也要有活人，至少有猫咪陪着也好，不然真的会很难受，胸口发酸。\n我想和喜欢的人在一个安静的地方待在一起，一起休息，什么也不做，或者一起走走，在充满花香和阳光的地方\n\n我不需要谁自责，不需要谁付出多少，我只要你存在着。如果可以的话，我也会潜入你的生命体验，保持连接，和你一起存在着，让时空翻起涟漪，在这个冰冷的世界里捂热，绚丽。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 150,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060080100595642613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我好心疼璃羽，明明一切都在往好的方向发展，她的精神状态始终在变好。可是前段时间再次被家庭糟践，环境压抑的痛苦和伤口全部裂开。我明明完全有能力让这件事不发生的，偏偏那阵子就没有好好陪着。\n\n她的世界里明明只有我了。\n我好痛。没能保护好。 https://t.co/xdikEHV3os"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1037,
+          "following_count": 664,
+          "like_count": 8829,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 1944
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

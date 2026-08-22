@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048308333107658752"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2048032993642774831",
+    "created_at": "2026-04-26T07:48:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T08:48:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048308336123433430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EHP2FaLxkL",
+          "end": 57,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2048308336123433430/photo/1",
+          "media_key": "3_2048308333107658752",
+          "start": 34,
+          "url": "https://t.co/EHP2FaLxkL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048308336123433430",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048032993642774831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 还是存在上下文污染的gemini 3.1 pro https://t.co/EHP2FaLxkL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2048308333107658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG0Nk5lawAA6zhQ.png",
+        "width": 1263
+      },
+      {
+        "height": 1107,
+        "media_key": "3_2048032949925449729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGwTHfSaEAEhAub.jpg",
+        "width": 1204
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048308333107658752"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2048032993642774831",
+        "created_at": "2026-04-26T07:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T08:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048308336123433430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EHP2FaLxkL",
+              "end": 57,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2048308336123433430/photo/1",
+              "media_key": "3_2048308333107658752",
+              "start": 34,
+              "url": "https://t.co/EHP2FaLxkL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048308336123433430",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048032993642774831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 还是存在上下文污染的gemini 3.1 pro https://t.co/EHP2FaLxkL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048032949925449729"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2048032993642774831",
+        "created_at": "2026-04-25T13:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T14:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048032993642774831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/otelsw9KL9",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086/status/2048032993642774831/photo/1",
+              "media_key": "3_2048032949925449729",
+              "start": 0,
+              "url": "https://t.co/otelsw9KL9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048032993642774831",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 188,
+          "impression_count": 474465,
+          "like_count": 3482,
+          "quote_count": 4,
+          "reply_count": 32,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/otelsw9KL9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 608,
+          "like_count": 7201,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1621
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐, 真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2038599257599713310",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039156167285538816/Ica6XIlY_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118537,
+          "following_count": 1124,
+          "like_count": 52500,
+          "listed_count": 281,
+          "media_count": 20916,
+          "tweet_count": 31336
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

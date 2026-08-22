@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2037855223969100087",
+    "created_at": "2026-03-28T11:32:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037855223969100087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 162,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2036481095924064478",
+          "start": 139,
+          "url": "https://t.co/7u6as3ggi1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037855223969100087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036481095924064478",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有时候会把难过时的情绪碎片记录下来，情绪对于我来说都是宝贵的，自己一路走来真的变化了好多。\n可是一个人面对这一切会好累的，要充电才行，要～\n如果掌握了梦花的底层代码，什么逻辑都不需要拆解，只要陪着我，只要体温，就会让我缴械投降呢。\n我也会让你世界里的所有意义，都变得无比丰富。 https://t.co/7u6as3ggi1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2037855223969100087",
+        "created_at": "2026-03-28T11:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037855223969100087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2036481095924064478",
+              "start": 139,
+              "url": "https://t.co/7u6as3ggi1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037855223969100087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036481095924064478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有时候会把难过时的情绪碎片记录下来，情绪对于我来说都是宝贵的，自己一路走来真的变化了好多。\n可是一个人面对这一切会好累的，要充电才行，要～\n如果掌握了梦花的底层代码，什么逻辑都不需要拆解，只要陪着我，只要体温，就会让我缴械投降呢。\n我也会让你世界里的所有意义，都变得无比丰富。 https://t.co/7u6as3ggi1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2036481095924064478",
+        "created_at": "2026-03-24T16:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036481095924064478"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036481095924064478",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 581,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想在怀里被摸摸睡着，想要……\n想要和喜欢的人在一起贴着，想要在一起……\n一下子就会好难过，就会掉眼泪。\n不要笑话我……我很棒的，会照顾好自己、会买甜甜的草莓，还不会讨厌自己，不会让你操心。\n可是为什么，会难过呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=100%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 553,
+          "like_count": 4756,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

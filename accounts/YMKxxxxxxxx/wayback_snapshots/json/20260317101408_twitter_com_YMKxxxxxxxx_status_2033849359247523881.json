@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2033536623078424886",
+    "created_at": "2026-03-17T10:14:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T11:14:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033849359247523881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1453575590729162758",
+          "start": 0,
+          "username": "obe_ZX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033849359247523881",
+    "in_reply_to_user_id": "1453575590729162758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033536623078424886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obe_ZX 看不懂，顺直这个词可能印象不那么好，但是顺女顺男跨女跨男这些词也没有问题啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2033536623078424886",
+        "created_at": "2026-03-17T10:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033849359247523881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1453575590729162758",
+              "start": 0,
+              "username": "obe_ZX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033849359247523881",
+        "in_reply_to_user_id": "1453575590729162758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033536623078424886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obe_ZX 看不懂，顺直这个词可能印象不那么好，但是顺女顺男跨女跨男这些词也没有问题啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1453575590729162758",
+        "conversation_id": "2033536623078424886",
+        "created_at": "2026-03-16T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T14:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033536623078424886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033536623078424886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2020,
+          "like_count": 47,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觉得顺女不是好词的人何意味\n觉得别人说一句“其实也有挺多顺女买鱼板挂件”是在用“顺女”这个词汇去骂人/辱女的人是何意味\n我怎么有点看不懂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 654,
+          "following_count": 476,
+          "like_count": 3226,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968682872530944001/nLXyaJYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 521,
+          "like_count": 17920,
+          "listed_count": 4,
+          "media_count": 306,
+          "tweet_count": 1839
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

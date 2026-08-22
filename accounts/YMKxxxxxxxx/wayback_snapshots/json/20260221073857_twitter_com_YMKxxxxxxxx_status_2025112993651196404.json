@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025112982372638720"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025112993651196404",
+    "created_at": "2026-02-21T07:38:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025112993651196404"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 20,
+          "start": 14,
+          "tag": "双極性障害"
+        },
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "双相情感障碍"
+        },
+        {
+          "end": 33,
+          "start": 29,
+          "tag": "跨性别"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8Sa0cb5GbW",
+          "end": 57,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2025112993651196404/photo/1",
+          "media_key": "3_2025112982372638720",
+          "start": 34,
+          "url": "https://t.co/8Sa0cb5GbW"
+        },
+        {
+          "display_url": "x.com/hsgmxz/status/…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/hsgmxz/status/2024977755281260725",
+          "start": 58,
+          "url": "https://t.co/TBT8DSS2jq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025112993651196404",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024977755281260725",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RIP…\n睡吧…不会再痛了 #双極性障害 #双相情感障碍 #跨性别 https://t.co/8Sa0cb5GbW https://t.co/TBT8DSS2jq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2025112982372638720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqlhyhaYAACbGL.jpg",
+        "width": 1067
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025112982372638720"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025112993651196404",
+        "created_at": "2026-02-21T07:38:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025112993651196404"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 20,
+              "start": 14,
+              "tag": "双極性障害"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "双相情感障碍"
+            },
+            {
+              "end": 33,
+              "start": 29,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8Sa0cb5GbW",
+              "end": 57,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2025112993651196404/photo/1",
+              "media_key": "3_2025112982372638720",
+              "start": 34,
+              "url": "https://t.co/8Sa0cb5GbW"
+            },
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/hsgmxz/status/2024977755281260725",
+              "start": 58,
+              "url": "https://t.co/TBT8DSS2jq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025112993651196404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024977755281260725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RIP…\n睡吧…不会再痛了 #双極性障害 #双相情感障碍 #跨性别 https://t.co/8Sa0cb5GbW https://t.co/TBT8DSS2jq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "2024977755281260725",
+        "created_at": "2026-02-20T22:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T23:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024977755281260725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1919963459279888384",
+              "start": 4,
+              "username": "sinhrkP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024977755281260725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 58366,
+          "like_count": 284,
+          "quote_count": 21,
+          "reply_count": 97,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n@sinhrkP 于今日凌晨0:00—0:20期间吞服20t佐匹克隆 20t普瑞巴林及亚硝酸钠，被发现时已离世。\n\n祝愿在那个世界过的幸福🕯️\n万分沉痛，深切缅怀。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=86%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "pinned_tweet_id": "2024797293615169662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 533,
+          "following_count": 384,
+          "like_count": 1464,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 447
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」可以叫咱honoka。|永远14🏳️‍⚧️|🍥2025.7.26|初音ミク大好き。🥰|2011.1.24|同类互fo|极度社恐|重焦重郁|intp-t||匿名提问箱https://t.co/eJ9r7NqD38|老婆：@chao_ching_i",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "chao_ching_i"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/hsgmxz1",
+                "end": 129,
+                "expanded_url": "http://ngl.link/hsgmxz1",
+                "start": 106,
+                "url": "https://t.co/eJ9r7NqD38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mx_honoka",
+                "end": 23,
+                "expanded_url": "http://t.me/mx_honoka",
+                "start": 0,
+                "url": "https://t.co/Xrx6CgHM4p"
+              }
+            ]
+          }
+        },
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2024977755281260725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010288262104088577/1zvRCsQg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 1225,
+          "like_count": 9627,
+          "listed_count": 4,
+          "media_count": 158,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/Xrx6CgHM4p",
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

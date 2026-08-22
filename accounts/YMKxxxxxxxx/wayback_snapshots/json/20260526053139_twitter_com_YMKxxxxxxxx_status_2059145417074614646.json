@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2059144851325878378",
+    "created_at": "2026-05-26T05:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T06:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059145417074614646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1510447851507261445",
+          "start": 0,
+          "username": "LanziiLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059145417074614646",
+    "in_reply_to_user_id": "1510447851507261445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059144851325878378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanziiLove 我是一直在慢慢调整日雌的剂量，一开始七天一次10mg，后来7mg，现在又改成了6天一次6mg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059144851325878378",
+        "created_at": "2026-05-26T05:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059145417074614646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1510447851507261445",
+              "start": 0,
+              "username": "LanziiLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059145417074614646",
+        "in_reply_to_user_id": "1510447851507261445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059144851325878378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanziiLove 我是一直在慢慢调整日雌的剂量，一开始七天一次10mg，后来7mg，现在又改成了6天一次6mg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1510447851507261445",
+        "conversation_id": "2059144851325878378",
+        "created_at": "2026-05-26T05:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T06:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059144851325878378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lanziilove/sta…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/lanziilove/status/2059137060821401820",
+              "start": 77,
+              "url": "https://t.co/Qe6NGWKt1t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059144851325878378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059137060821401820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "开始HRT之前天天刷到雌爆步兵\n扎日雌就不说了\n我就纳闷光吃补到底是怎么吃出来雌爆的（？\n我小心翼翼地加量结果反而还变低了🫠\n只能等周五让刘烨姐姐救我了 https://t.co/Qe6NGWKt1t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 646,
+          "like_count": 8452,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1855
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T02:43:33.000Z",
+        "description": "你好～ 可以叫我小雫！本名杜澄溪 She/Her🏳️‍⚧️是女孩子！💕账号纯绿日常向 无任何盈利/色情内容 仅B站推特本人 tg上的是骗子！🏠我的纯爱男友然然@dexy0306❤️ 祝你生活愉快～☀️10r任意公益慈善捐款可加粉丝群",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 79,
+                "username": "dexy0306"
+              }
+            ]
+          }
+        },
+        "id": "1510447851507261445",
+        "location": "然然的心里",
+        "name": "星野雫丶Shizuku✨",
+        "pinned_tweet_id": "2052452001582317618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981816759138033665/JwkHNEt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24865,
+          "following_count": 1216,
+          "like_count": 2868,
+          "listed_count": 77,
+          "media_count": 441,
+          "tweet_count": 2593
+        },
+        "username": "LanziiLove",
+        "verified": false
+      }
+    ]
+  }
+}

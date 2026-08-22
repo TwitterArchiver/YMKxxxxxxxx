@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1972180429366251852",
+    "created_at": "2025-09-29T15:27:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T16:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972684700675137722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1946598569747894273",
+          "start": 0,
+          "username": "xmin240286"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972684700675137722",
+    "in_reply_to_user_id": "1946598569747894273",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972180429366251852",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmin240286 摸摸！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1972180429366251852",
+        "created_at": "2025-09-29T15:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T16:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972684700675137722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972684700675137722",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972180429366251852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 摸摸！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946598569747894273",
+        "conversation_id": "1972180429366251852",
+        "created_at": "2025-09-28T06:03:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:03:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972180429366251852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/IN_LIFE_D/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/IN_LIFE_D/status/1972175452140982542",
+              "start": 34,
+              "url": "https://t.co/OzMn40IOPD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972180429366251852",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2613,
+          "like_count": 23,
+          "quote_count": 6,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972175452140982542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "摸摸头，给所有人都摸摸头，路过的都摸摸头(´•ω•)ﾉ(._.`) https://t.co/OzMn40IOPD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "pinned_tweet_id": "1968365380684103829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 109,
+          "like_count": 179,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "中国劳动党中央委员会总书记｜含糖MtF｜INFP-T｜社会化程度极低的AS｜重度BPD｜重度抑郁｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜Telegram https://t.co/fUGMj5xj0K 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 137,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 114,
+                "url": "https://t.co/fUGMj5xj0K"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962693560345731072/TE63EXWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 191,
+          "like_count": 2720,
+          "listed_count": 1,
+          "media_count": 164,
+          "tweet_count": 2180
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

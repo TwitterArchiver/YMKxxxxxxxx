@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2042844810613264387"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2042847964272726321",
+    "created_at": "2026-04-11T06:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T07:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042847964272726321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EfJcpuRI69",
+          "end": 48,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2042847964272726321/video/1",
+          "media_key": "13_2042844810613264387",
+          "start": 25,
+          "url": "https://t.co/EfJcpuRI69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042847964272726321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "坏了这个鼠标特效搭配 Neovide 有一点点酷 https://t.co/EfJcpuRI69"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19166,
+        "height": 782,
+        "media_key": "13_2042844810613264387",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2042844810613264387/img/Jrxd72G_z5cdEYjW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042844810613264387/vid/avc1/282x270/OFLkD6klXvUAP-tv.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042844810613264387/vid/avc1/376x360/_SDYf7UlN96rAvLk.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2042844810613264387/vid/avc1/754x720/3xCDlOmiNFXXQxh2.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2042844810613264387/pl/InIyZgg3UDgD1zOt.m3u8?tag=14"
+          }
+        ],
+        "width": 820
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2042844810613264387"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2042847964272726321",
+        "created_at": "2026-04-11T06:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T07:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042847964272726321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EfJcpuRI69",
+              "end": 48,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2042847964272726321/video/1",
+              "media_key": "13_2042844810613264387",
+              "start": 25,
+              "url": "https://t.co/EfJcpuRI69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042847964272726321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坏了这个鼠标特效搭配 Neovide 有一点点酷 https://t.co/EfJcpuRI69"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 859,
+          "following_count": 588,
+          "like_count": 6227,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 1435
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

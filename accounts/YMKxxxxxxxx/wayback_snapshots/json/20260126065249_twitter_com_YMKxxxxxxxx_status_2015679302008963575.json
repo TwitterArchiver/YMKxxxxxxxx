@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2015679302008963575",
+    "created_at": "2026-01-26T06:52:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T07:52:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2015679302008963575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 189,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/1982861350214017292",
+          "start": 166,
+          "url": "https://t.co/06p6EDcNR7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015679302008963575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982861350214017292",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "之前纯粹是瞎折腾，不过也学到了很多很多知识。刚刚用cf pages托管了两个页面，几分钟就好了，特别方便，还有了giscus搭建的评论区\n\n用平板跑服务器不稳定，还要解决一堆问题，虽然现在server(4).yumeka.blog依旧指向我的平板，跑一些基础设施或者整活，甚至还可以用ssh穿透adbd使用scrcpy远程控制屏幕 https://t.co/06p6EDcNR7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1982861331477811200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4SJ4BWX0AA34Ol.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2015679302008963575",
+        "created_at": "2026-01-26T06:52:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T07:52:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015679302008963575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/1982861350214017292",
+              "start": 166,
+              "url": "https://t.co/06p6EDcNR7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015679302008963575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982861350214017292",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前纯粹是瞎折腾，不过也学到了很多很多知识。刚刚用cf pages托管了两个页面，几分钟就好了，特别方便，还有了giscus搭建的评论区\n\n用平板跑服务器不稳定，还要解决一堆问题，虽然现在server(4).yumeka.blog依旧指向我的平板，跑一些基础设施或者整活，甚至还可以用ssh穿透adbd使用scrcpy远程控制屏幕 https://t.co/06p6EDcNR7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982861331477811200"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "1982861350214017292",
+        "created_at": "2025-10-27T17:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T18:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982861350214017292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "yumeka.blog",
+              "end": 31,
+              "expanded_url": "http://yumeka.blog/",
+              "start": 8,
+              "unwound_url": "http://yumeka.blog/",
+              "url": "https://t.co/qIwJjzXJ3q"
+            },
+            {
+              "display_url": "pic.x.com/Cd4meIr8fJ",
+              "end": 177,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/1982861350214017292/photo/1",
+              "media_key": "3_1982861331477811200",
+              "start": 154,
+              "url": "https://t.co/Cd4meIr8fJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982861350214017292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2221,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次建网站！\nhttps://t.co/qIwJjzXJ3q\n上面光秃秃的什么都没有，因为光忙着弄别的了QAQ\n用的是安卓板子当做服务器，刚好在学校里面又有公网IPv6，所以配置一下DDNS就可以访问了。\n说起来这个域名第一年只有不到一美元诶，第二年续费要20美元，在那之前应该能取消续费吧，应该吧qwq https://t.co/Cd4meIr8fJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 315,
+          "like_count": 876,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 322
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

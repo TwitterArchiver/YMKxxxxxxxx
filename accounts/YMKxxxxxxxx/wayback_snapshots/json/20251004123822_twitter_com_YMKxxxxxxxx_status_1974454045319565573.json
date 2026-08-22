@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1974329131665068099",
+    "created_at": "2025-10-04T12:38:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T13:38:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974454045319565573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974454045319565573",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974449427453751625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 deepseek 都好久没更新了，免费模型可以试一下 kimi k2 写代码很强"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1974329131665068099",
+        "created_at": "2025-10-04T12:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974454045319565573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974454045319565573",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974449427453751625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 deepseek 都好久没更新了，免费模型可以试一下 kimi k2 写代码很强"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965351173872820224",
+        "conversation_id": "1974329131665068099",
+        "created_at": "2025-10-04T12:20:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T13:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974449427453751625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974449427453751625",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974448480686157926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 问了一下午ai（\n我是deepseek最佳使用者，现在就差字幕群不会动的问题了，但是好难搞😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 113,
+          "like_count": 199,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 178
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "hi～我是zzz，喜欢听音乐，还是个手游fps大高玩，希望和你交朋友！我什么都懂一点~关注“#今日歌单À”话题，每天都会置顶好听的音乐！\n前世@BT4273  再也不玩地狱笑话了555。世界是由冰红茶构成的 没回fo就是没看到，抱歉了",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 46,
+                "tag": "今日歌单À"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 78,
+                "start": 71,
+                "username": "BT4273"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "1818181818181818181818181818km",
+        "name": "zzz",
+        "pinned_tweet_id": "1974142814482280560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965361798934081536/PkPS05YU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 1147,
+          "like_count": 2090,
+          "listed_count": 0,
+          "media_count": 723,
+          "tweet_count": 2379
+        },
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

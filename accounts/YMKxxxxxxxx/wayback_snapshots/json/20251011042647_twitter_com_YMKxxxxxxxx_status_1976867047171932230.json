@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1976867047171932230",
+    "created_at": "2025-10-11T04:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T05:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1976867047171932230"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/horizon_tem/st…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/horizon_tem/status/1976325147780104519",
+          "start": 17,
+          "url": "https://t.co/3YpMhoWmFT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976867047171932230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976325147780104519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建模丑的转 如果看到乱转的扣问号 https://t.co/3YpMhoWmFT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1976867047171932230",
+        "created_at": "2025-10-11T04:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T05:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976867047171932230"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/horizon_tem/st…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/horizon_tem/status/1976325147780104519",
+              "start": 17,
+              "url": "https://t.co/3YpMhoWmFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976867047171932230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976325147780104519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建模丑的转 如果看到乱转的扣问号 https://t.co/3YpMhoWmFT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1976325147780104519",
+        "created_at": "2025-10-09T16:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T17:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976325147780104519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dustswallo1580…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/dustswallo15805/status/1976218702736654496",
+              "start": 17,
+              "url": "https://t.co/PNA5B1EAMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976325147780104519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4444,
+          "like_count": 14,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976218702736654496",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建模丑的转 如果看到乱转的扣问号 https://t.co/PNA5B1EAMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 116,
+          "like_count": 211,
+          "listed_count": 1,
+          "media_count": 32,
+          "tweet_count": 188
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Завтра домой, завтра в эту реальность， 明天就回家 明天就回到现实， Завтра темно, я так хочу здесь остаться， 明天是那样黑暗 我好想留在这。 同班同学 @KunaAkem1 逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 116,
+                "username": "KunaAkem1"
+              },
+              {
+                "end": 147,
+                "start": 131,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "旧丧和欧润吉🍊",
+        "pinned_tweet_id": "1976319223787078052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972168698518818817/JF7bY-i-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6126,
+          "following_count": 2570,
+          "like_count": 53247,
+          "listed_count": 13,
+          "media_count": 1055,
+          "tweet_count": 13405
+        },
+        "username": "horizon_tem",
+        "verified": false
+      }
+    ]
+  }
+}

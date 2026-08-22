@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2006879514291482738",
+    "created_at": "2026-01-03T02:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T03:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007273630397542665"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462315671237365761",
+          "start": 0,
+          "username": "qsxhh0013"
+        },
+        {
+          "end": 20,
+          "id": "1589809419822329857",
+          "start": 11,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007273630397542665",
+    "in_reply_to_user_id": "1462315671237365761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007134151661760744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qsxhh0013 @jianlvup 笨蛋大学生只知道硬算）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2006879514291482738",
+        "created_at": "2026-01-03T02:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T03:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007273630397542665"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462315671237365761",
+              "start": 0,
+              "username": "qsxhh0013"
+            },
+            {
+              "end": 20,
+              "id": "1589809419822329857",
+              "start": 11,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007273630397542665",
+        "in_reply_to_user_id": "1462315671237365761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007134151661760744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qsxhh0013 @jianlvup 笨蛋大学生只知道硬算）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462315671237365761",
+        "conversation_id": "2006879514291482738",
+        "created_at": "2026-01-02T16:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T17:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007134151661760744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 22,
+              "id": "1589809419822329857",
+              "start": 13,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007134151661760744",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 320,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007082153939767324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx @jianlvup 其实就是24*24/8=72"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT:void | __ / SAN: 100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKfyp"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 277,
+          "like_count": 493,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/WkTezDKfyp",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-21T07:03:28.000Z",
+        "description": "1122",
+        "id": "1462315671237365761",
+        "location": "Americana, Brasil",
+        "name": "其实雪很好",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623320808885035009/xFuyZKMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 193,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 73
+        },
+        "username": "qsxhh0013",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "逃生：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2006879514291482738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14985,
+          "following_count": 1234,
+          "like_count": 68733,
+          "listed_count": 53,
+          "media_count": 2406,
+          "tweet_count": 5346
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

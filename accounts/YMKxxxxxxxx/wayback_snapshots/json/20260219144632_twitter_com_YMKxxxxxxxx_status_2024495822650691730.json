@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024495812655693824"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2024374869153239527",
+    "created_at": "2026-02-19T14:46:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T15:46:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024495822650691730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999360558223831040",
+          "start": 0,
+          "username": "Zerstoorer23__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ozZXolejaN",
+          "end": 69,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2024495822650691730/photo/1",
+          "media_key": "3_2024495812655693824",
+          "start": 46,
+          "url": "https://t.co/ozZXolejaN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024495822650691730",
+    "in_reply_to_user_id": "1999360558223831040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024374869153239527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23__ 我记得有一个ksu模块，能模拟微信指纹，从酷安上面可以找到 https://t.co/ozZXolejaN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 657,
+        "media_key": "3_2024495812655693824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh0NyKbwAAaSw5.jpg",
+        "width": 1263
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024374865193795585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBgGNtwbAAEnmk2.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024495812655693824"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2024374869153239527",
+        "created_at": "2026-02-19T14:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T15:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024495822650691730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999360558223831040",
+              "start": 0,
+              "username": "Zerstoorer23__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ozZXolejaN",
+              "end": 69,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2024495822650691730/photo/1",
+              "media_key": "3_2024495812655693824",
+              "start": 46,
+              "url": "https://t.co/ozZXolejaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024495822650691730",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024374869153239527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23__ 我记得有一个ksu模块，能模拟微信指纹，从酷安上面可以找到 https://t.co/ozZXolejaN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024374865193795585"
+          ]
+        },
+        "author_id": "1999360558223831040",
+        "conversation_id": "2024374869153239527",
+        "created_at": "2026-02-19T06:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024374869153239527"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T19QNqfe2c",
+              "end": 36,
+              "expanded_url": "https://x.com/Zerstoorer23__/status/2024374869153239527/photo/1",
+              "media_key": "3_2024374865193795585",
+              "start": 13,
+              "url": "https://t.co/T19QNqfe2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024374869153239527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3535,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解bl锁后不能用指纹支付 https://t.co/T19QNqfe2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 374,
+          "like_count": 1387,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "17/高中生/中国人/ACGN爱好者\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Zerstoorer23"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007828185292189696/ngv3Dz7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 146,
+          "like_count": 6001,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 880
+        },
+        "username": "Zerstoorer23__",
+        "verified": false
+      }
+    ]
+  }
+}

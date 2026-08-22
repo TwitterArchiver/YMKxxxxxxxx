@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2029941691642503615",
+    "created_at": "2026-03-06T16:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T17:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029953982173732885"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1271278454537744384",
+          "start": 0,
+          "username": "Rabbit_Pussy"
+        },
+        {
+          "end": 29,
+          "id": "1882563916632666112",
+          "start": 14,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029953982173732885",
+    "in_reply_to_user_id": "1271278454537744384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029942991570505798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rabbit_Pussy @hhjnjkoguyunmo 抱抱～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2029941691642503615",
+        "created_at": "2026-03-06T16:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T17:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029953982173732885"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1271278454537744384",
+              "start": 0,
+              "username": "Rabbit_Pussy"
+            },
+            {
+              "end": 29,
+              "id": "1882563916632666112",
+              "start": 14,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029953982173732885",
+        "in_reply_to_user_id": "1271278454537744384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029942991570505798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rabbit_Pussy @hhjnjkoguyunmo 抱抱～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "conversation_id": "2029941691642503615",
+        "created_at": "2026-03-06T15:31:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:31:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029942991570505798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029942991570505798",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029942778873213266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 抱抱🐰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2027717967153344552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 429,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "一只兔子和一只猫的故事",
+        "id": "1271278454537744384",
+        "location": "Niger",
+        "name": "兔毛Meow",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024655426030358528/ZGS0eBgS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4235,
+          "following_count": 2109,
+          "like_count": 27455,
+          "listed_count": 7,
+          "media_count": 1062,
+          "tweet_count": 7654
+        },
+        "username": "Rabbit_Pussy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "说出来的“善良”绝非善良，讲出来“正义”断非正义，人生最重要的是把握当下，你的善恶不需要你自己证明。🍵😋",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2029749097486504376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 838,
+          "like_count": 476647,
+          "listed_count": 8,
+          "media_count": 332,
+          "tweet_count": 39762
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

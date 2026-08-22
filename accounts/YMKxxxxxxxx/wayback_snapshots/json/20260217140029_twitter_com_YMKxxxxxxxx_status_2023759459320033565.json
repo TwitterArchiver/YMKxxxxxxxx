@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2023759459320033565",
+    "created_at": "2026-02-17T14:00:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T15:00:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023759459320033565"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 165,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2023281589841797590",
+          "start": 142,
+          "url": "https://t.co/rMHUZIea2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023759459320033565",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023281589841797590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不行，聊天倾诉的时候很委婉，父亲也看不出来到底是怎么了。\n花了几天时间铺垫了那么多，也知道了我外表那么封闭的部分原因，但还不知道根源是什么，就只能以认知里最大的痛苦来形容我的感受。\n但不算白忙乎，即使隔着一堵墙，也能感到那份沉厚重而又朴素的爱\n过几天亲戚来我家走访完了，再最终出柜吧 https://t.co/rMHUZIea2v"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023759459320033565",
+        "created_at": "2026-02-17T14:00:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T15:00:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023759459320033565"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2023281589841797590",
+              "start": 142,
+              "url": "https://t.co/rMHUZIea2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023759459320033565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023281589841797590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不行，聊天倾诉的时候很委婉，父亲也看不出来到底是怎么了。\n花了几天时间铺垫了那么多，也知道了我外表那么封闭的部分原因，但还不知道根源是什么，就只能以认知里最大的痛苦来形容我的感受。\n但不算白忙乎，即使隔着一堵墙，也能感到那份沉厚重而又朴素的爱\n过几天亲戚来我家走访完了，再最终出柜吧 https://t.co/rMHUZIea2v"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2023281589841797590",
+        "created_at": "2026-02-16T06:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023281589841797590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2023262860525363572",
+              "start": 133,
+              "url": "https://t.co/mxTGtcM10V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023281589841797590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6240,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023262860525363572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有些迷茫，青春期晚期已经被睾酮摧残过头了，不含糖没pass，只有rle长头发。看到wiki上面要求好像还蛮多的，如果顺利的开出小证之后需要做什么呢？还是先去内分泌查激素六项、肝功肾功什么的？我爸爸应该不会阻止我HRT吧...\n有没有老师愿意教教我应该怎样做www https://t.co/mxTGtcM10V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/N8izQKySuT"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 363,
+          "like_count": 1310,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 390
+        },
+        "url": "https://t.co/N8izQKySuT",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

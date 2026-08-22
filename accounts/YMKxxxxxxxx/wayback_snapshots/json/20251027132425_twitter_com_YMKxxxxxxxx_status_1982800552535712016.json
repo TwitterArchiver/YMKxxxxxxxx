@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1982667081977065886",
+    "created_at": "2025-10-27T13:24:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982800552535712016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1631490280997412864",
+          "start": 0,
+          "username": "meho37371461"
+        },
+        {
+          "end": 29,
+          "id": "1314388633869152259",
+          "start": 14,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982800552535712016",
+    "in_reply_to_user_id": "1631490280997412864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982740973332709421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meho37371461 @Swathy17531761 对，就是！不要给自己贴标签，就是女孩子嘛！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1982667081977065886",
+        "created_at": "2025-10-27T13:24:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982800552535712016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1631490280997412864",
+              "start": 0,
+              "username": "meho37371461"
+            },
+            {
+              "end": 29,
+              "id": "1314388633869152259",
+              "start": 14,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982800552535712016",
+        "in_reply_to_user_id": "1631490280997412864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982740973332709421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meho37371461 @Swathy17531761 对，就是！不要给自己贴标签，就是女孩子嘛！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631490280997412864",
+        "conversation_id": "1982667081977065886",
+        "created_at": "2025-10-27T09:27:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982740973332709421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982740973332709421",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 227,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982667081977065886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 如果真的实在痛苦的话，那想清楚吧，这种事我也想过尊重每个人对自己生命的决定权吧。还有！什么药娘小药娘雌堕的？你是mtf是女孩子，勇敢的追逐你心理灵魂的真实性别，并不是在堕落，很多同类都跟你站在一起。不要再给自己加这种伤害性标签🏷️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 174,
+          "like_count": 227,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 202
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-03T03:03:24.000Z",
+        "description": "深柜中的mtx.....",
+        "id": "1631490280997412864",
+        "name": "Thank you my friend",
+        "pinned_tweet_id": "1976386427165290648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979388917116735488/aV7JH8fp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 364,
+          "like_count": 86,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 259
+        },
+        "username": "meho37371461",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是紫汐~ !可以叫咱小汐或者汐宝~?身高162cm/体重135唉😮‍💨~有点胖。。。嘴巴很笨不会说话，没有社交生活(因为现实根本没有朋友T^T)，重度社恐，梦想是成为可爱的女孩子~新来的一个药娘。没(⊙o⊙)啥会的。找不到工作。一直在流浪喵。两天后是我的生日喵，想要咱的🚪给个心意就可以啦＋q/v，",
+        "id": "1314388633869152259",
+        "name": "紫汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1978813582495064514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 57,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 62
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

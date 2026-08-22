@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2084677630234873931",
+    "created_at": "2026-08-04T16:54:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084684418200072582"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1844926832967286785",
+          "start": 0,
+          "username": "ZX65535plus1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084684418200072582",
+    "in_reply_to_user_id": "1844926832967286785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084677630234873931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZX65535plus1 吓哭了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084677568222117891",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5DNAUawAMnQKY.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2084677630234873931",
+        "created_at": "2026-08-04T16:54:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084684418200072582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084684418200072582",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084677630234873931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 吓哭了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084677568222117891"
+          ]
+        },
+        "author_id": "1844926832967286785",
+        "conversation_id": "2084677630234873931",
+        "created_at": "2026-08-04T16:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084677630234873931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jlNkbNK3L7",
+              "end": 42,
+              "expanded_url": "https://x.com/ZX65535plus1/status/2084677630234873931/photo/1",
+              "media_key": "3_2084677568222117891",
+              "start": 19,
+              "url": "https://t.co/jlNkbNK3L7"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01ca92e1561dcd0f"
+        },
+        "id": "2084677630234873931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我嘞个草啊这几天连着下雨墙上长蘑菇了 https://t.co/jlNkbNK3L7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 698,
+          "like_count": 9712,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 2096
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \nMSCS |\n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营 |\n我族长兴 天佑跨儿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 1438,
+          "like_count": 83116,
+          "listed_count": 12,
+          "media_count": 1217,
+          "tweet_count": 24513
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025385199367082075",
+    "created_at": "2026-02-22T01:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T02:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025385199367082075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "petal-note.vercel.app",
+          "end": 101,
+          "expanded_url": "http://petal-note.vercel.app",
+          "start": 78,
+          "status": 200,
+          "unwound_url": "https://petal-note.vercel.app/",
+          "url": "https://t.co/4kq8mA7psN"
+        },
+        {
+          "description": "🌸 极简、唯美、无需构建的纯前端碎碎念日记框架. Contribute to miniyu157/petal-note development by creating an account on GitHub.",
+          "display_url": "github.com/miniyu157/peta…",
+          "end": 130,
+          "expanded_url": "http://github.com/miniyu157/petal-note",
+          "images": [
+            {
+              "height": 600,
+              "url": "https://pbs.twimg.com/news_img/2024371060372885505/fGETyALN?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2024371060372885505/fGETyALN?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 107,
+          "status": 200,
+          "title": "GitHub - miniyu157/petal-note: 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架",
+          "unwound_url": "https://github.com/miniyu157/petal-note",
+          "url": "https://t.co/k44MKZhZ5N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025385199367082075",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给 petal-note 添加了一个秘密时间线的功能，看起来很不错！密码支持任意字符🐰✨，交互起来也很舒服，原生 AES-GCM 驱动的密码门\n\n快速体验：https://t.co/4kq8mA7psN\n仓库地址：https://t.co/k44MKZhZ5N\n还没更新文档，懒懒的QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025385199367082075",
+        "created_at": "2026-02-22T01:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T02:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025385199367082075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "petal-note.vercel.app",
+              "end": 101,
+              "expanded_url": "http://petal-note.vercel.app",
+              "start": 78,
+              "status": 200,
+              "unwound_url": "https://petal-note.vercel.app/",
+              "url": "https://t.co/4kq8mA7psN"
+            },
+            {
+              "description": "🌸 极简、唯美、无需构建的纯前端碎碎念日记框架. Contribute to miniyu157/petal-note development by creating an account on GitHub.",
+              "display_url": "github.com/miniyu157/peta…",
+              "end": 130,
+              "expanded_url": "http://github.com/miniyu157/petal-note",
+              "images": [
+                {
+                  "height": 600,
+                  "url": "https://pbs.twimg.com/news_img/2024371060372885505/fGETyALN?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2024371060372885505/fGETyALN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 107,
+              "status": 200,
+              "title": "GitHub - miniyu157/petal-note: 🌸 极简、唯美、无需构建的纯前端碎碎念日记框架",
+              "unwound_url": "https://github.com/miniyu157/petal-note",
+              "url": "https://t.co/k44MKZhZ5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025385199367082075",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给 petal-note 添加了一个秘密时间线的功能，看起来很不错！密码支持任意字符🐰✨，交互起来也很舒服，原生 AES-GCM 驱动的密码门\n\n快速体验：https://t.co/4kq8mA7psN\n仓库地址：https://t.co/k44MKZhZ5N\n还没更新文档，懒懒的QAQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=89%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8G5eD"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 389,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 468
+        },
+        "url": "https://t.co/29FUA8G5eD",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

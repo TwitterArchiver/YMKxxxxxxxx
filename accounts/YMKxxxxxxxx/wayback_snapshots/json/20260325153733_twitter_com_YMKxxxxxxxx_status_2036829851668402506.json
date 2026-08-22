@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2036645547986313628",
+    "created_at": "2026-03-25T15:37:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T16:37:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036829851668402506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 71,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2024883591835250828?s=20",
+          "start": 48,
+          "url": "https://t.co/7teGYgaPIK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036829851668402506",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024883591835250828",
+        "type": "quoted"
+      },
+      {
+        "id": "2036645547986313628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 去年和今年都测了一遍，虽然看起来差不多，但是感觉自己变化了许多\nhttps://t.co/7teGYgaPIK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036645537676754944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOeU26bgAAxPLP.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2036645547986313628",
+        "created_at": "2026-03-25T15:37:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:37:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036829851668402506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 71,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2024883591835250828?s=20",
+              "start": 48,
+              "url": "https://t.co/7teGYgaPIK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036829851668402506",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024883591835250828",
+            "type": "quoted"
+          },
+          {
+            "id": "2036645547986313628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 去年和今年都测了一遍，虽然看起来差不多，但是感觉自己变化了许多\nhttps://t.co/7teGYgaPIK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2024834669200753148",
+        "created_at": "2026-02-20T16:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024883591835250828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992038421318205440",
+              "start": 0,
+              "username": "tingxinzhongyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024883591835250828",
+        "in_reply_to_user_id": "1992038421318205440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024834669200753148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tingxinzhongyu 半年前和现在好像没什么变化诶，又好像变化许多\n6月15日 INFP-A (调停者) 内向 – 97%, 天马行空 – 56%, 情感细腻 – 87%, 随机应变 – 57%, 自信果断 – 56%\n2月20日 INFP-A (调停者) 内向 – 86%, 天马行空 – 69%, 情感细腻 – 82%, 随机应变 – 63%, 自信果断 – 83%; 角色: 外交家; 策略: 自信个人主义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036645537676754944"
+          ]
+        },
+        "author_id": "1847835560175685635",
+        "conversation_id": "2036645547986313628",
+        "created_at": "2026-03-25T03:25:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:25:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036645547986313628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dkf0jPLflw",
+              "end": 83,
+              "expanded_url": "https://x.com/OPPOFANS114514/status/2036645547986313628/photo/1",
+              "media_key": "3_2036645537676754944",
+              "start": 60,
+              "url": "https://t.co/dkf0jPLflw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036645547986313628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 587,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "又测了一次MBTI\n果然又是INFP(  ⩌ - ⩌ )\n前年测了是INFP，去年测了是INFP，今年还是INFP（） https://t.co/dkf0jPLflw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=100%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 532,
+          "like_count": 4419,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 1050
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n我可能粉红，我也可能反贼\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2310,
+          "following_count": 2210,
+          "like_count": 20952,
+          "listed_count": 7,
+          "media_count": 676,
+          "tweet_count": 20225
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

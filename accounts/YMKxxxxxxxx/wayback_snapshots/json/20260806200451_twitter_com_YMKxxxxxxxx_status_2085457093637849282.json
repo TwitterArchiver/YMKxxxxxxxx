@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2085329609625936050",
+    "created_at": "2026-08-06T20:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T21:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085457093637849282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1064704803069026304",
+          "start": 0,
+          "username": "sadsadsadseal"
+        },
+        {
+          "end": 28,
+          "id": "1906595429162299392",
+          "start": 15,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085457093637849282",
+    "in_reply_to_user_id": "1064704803069026304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085348782364115000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sadsadsadseal @Dream_Shards 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2085329609625936050",
+        "created_at": "2026-08-06T20:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T21:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085457093637849282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1064704803069026304",
+              "start": 0,
+              "username": "sadsadsadseal"
+            },
+            {
+              "end": 28,
+              "id": "1906595429162299392",
+              "start": 15,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085457093637849282",
+        "in_reply_to_user_id": "1064704803069026304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085348782364115000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sadsadsadseal @Dream_Shards 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1064704803069026304",
+        "conversation_id": "2085329609625936050",
+        "created_at": "2026-08-06T12:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085348782364115000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085348782364115000",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085329609625936050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 吃醋很正常，但她这样就是非常缺爱的表现，很没有安全感，需要你多关心，一遍又一遍用语言和行为重复爱她。自杀干预没有能力（时间，金钱）不要太投入，现实因素比心理因素重要，除非用自己的人生去交换否则你拯救不了他人的人生。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 710,
+          "like_count": 9926,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 2125
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-20T02:19:41.000Z",
+        "description": "",
+        "id": "1064704803069026304",
+        "name": "sadsadsadseal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1064706124635561984/0HpOOjc9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 2014,
+          "like_count": 49907,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 26582
+        },
+        "url": "",
+        "username": "sadsadsadseal",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "hrt：26.2.18/家暴党·天残党·非资深oder\n舞萌重度依赖♡｜同类友跨互fo\n想聊天倾诉想被抱抱都可以来找我喵♡/地雷系重力系警告\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2082938278714703944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 597,
+          "like_count": 1353,
+          "listed_count": 2,
+          "media_count": 45,
+          "tweet_count": 742
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

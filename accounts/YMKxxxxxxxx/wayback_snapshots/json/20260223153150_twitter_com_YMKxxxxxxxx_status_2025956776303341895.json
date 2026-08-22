@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025956768103485440"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2025956776303341895",
+    "created_at": "2026-02-23T15:31:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:31:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025956776303341895"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6xCtd2rDlb",
+          "end": 38,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2025956776303341895/photo/1",
+          "media_key": "3_2025956768103485440",
+          "start": 15,
+          "url": "https://t.co/6xCtd2rDlb"
+        },
+        {
+          "display_url": "x.com/JkyDex/status/…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/JkyDex/status/2025522624072200666",
+          "start": 39,
+          "url": "https://t.co/6LVKiyr4L9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025956776303341895",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025522624072200666",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个圈子确实整体来看糟糕透了 https://t.co/6xCtd2rDlb https://t.co/6LVKiyr4L9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 738,
+        "media_key": "3_2025956768103485440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2k8lUbUAAV3sW.jpg",
+        "width": 1108
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025956768103485440"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2025956776303341895",
+        "created_at": "2026-02-23T15:31:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:31:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025956776303341895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6xCtd2rDlb",
+              "end": 38,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2025956776303341895/photo/1",
+              "media_key": "3_2025956768103485440",
+              "start": 15,
+              "url": "https://t.co/6xCtd2rDlb"
+            },
+            {
+              "display_url": "x.com/JkyDex/status/…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/JkyDex/status/2025522624072200666",
+              "start": 39,
+              "url": "https://t.co/6LVKiyr4L9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025956776303341895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025522624072200666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个圈子确实整体来看糟糕透了 https://t.co/6xCtd2rDlb https://t.co/6LVKiyr4L9"
+      },
+      {
+        "article": {
+          "title": "是时候了, 让我们一起把社群拉回正轨 ---- 关于重塑社群风气的倡议书"
+        },
+        "attachments": {},
+        "author_id": "1379609664938143744",
+        "conversation_id": "2025522624072200666",
+        "created_at": "2026-02-22T10:46:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T11:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025522624072200666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2025…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2025517578979020800",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2025517578979020800",
+              "url": "https://t.co/W3VYL0j1VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025522624072200666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17072,
+          "like_count": 62,
+          "quote_count": 24,
+          "reply_count": 24,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/W3VYL0j1VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=98%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 395,
+          "like_count": 1610,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-07T01:39:59.000Z",
+        "description": "非二元 | 23岁 | 含糖🍥 | 行星级二阶\n贴子成分: 日常/经验/段子/梗图/吵架\n永不投降, 永不放弃. 我们不只是生存, 我们要胜利!\n\n(不常在线, 若想问我问题, 可回帖或私信)",
+        "id": "1379609664938143744",
+        "location": "银河系-猎户座旋臂",
+        "name": "银河仙子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1841026277396135936/MV3p-LDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 68,
+          "like_count": 3546,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 390
+        },
+        "username": "JkyDex",
+        "verified": true
+      }
+    ]
+  }
+}

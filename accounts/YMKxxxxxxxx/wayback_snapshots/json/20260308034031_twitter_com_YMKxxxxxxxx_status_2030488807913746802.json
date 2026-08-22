@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2030482797065056725",
+    "created_at": "2026-03-08T03:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T04:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030488807913746802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1759787246587379712",
+          "start": 0,
+          "username": "Luckilyzixaun"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030488807913746802",
+    "in_reply_to_user_id": "1759787246587379712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030482797065056725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Luckilyzixaun x炸了，用网页版可以回复"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 655,
+        "media_key": "3_2030482788999479296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC25VrDbwAAq-Y5.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2030482797065056725",
+        "created_at": "2026-03-08T03:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030488807913746802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1759787246587379712",
+              "start": 0,
+              "username": "Luckilyzixaun"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030488807913746802",
+        "in_reply_to_user_id": "1759787246587379712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030482797065056725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Luckilyzixaun x炸了，用网页版可以回复"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030482788999479296"
+          ]
+        },
+        "author_id": "1759787246587379712",
+        "conversation_id": "2030482797065056725",
+        "created_at": "2026-03-08T03:16:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T04:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030482797065056725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h58Q2tCgIS",
+              "end": 36,
+              "expanded_url": "https://x.com/Luckilyzixaun/status/2030482797065056725/photo/1",
+              "media_key": "3_2030482788999479296",
+              "start": 13,
+              "url": "https://t.co/h58Q2tCgIS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030482797065056725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我服了怎么什么都发不出去 https://t.co/h58Q2tCgIS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 436,
+          "like_count": 2433,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T03:49:18.000Z",
+        "description": "MTF｜INFP-T｜07 English/日本語/简繁中文 \nXiaomi Promoter/Xiaomi Fan UTC+8\n独立思考，明辨是非｜\n做自己而不是解释自己｜\n真诚是必杀技｜\n产品经理、公关部总经理｜数码玩家、乐子人、自由左",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mi.com",
+                "end": 23,
+                "expanded_url": "http://mi.com",
+                "start": 0,
+                "url": "https://t.co/8NnopKeAgF"
+              }
+            ]
+          }
+        },
+        "id": "1759787246587379712",
+        "location": "IP 属地:沙特阿拉伯",
+        "name": "夏日重现🍥",
+        "pinned_tweet_id": "2030231432388599814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027376561813594113/GHdKm-Dy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 912,
+          "like_count": 969,
+          "listed_count": 3,
+          "media_count": 125,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/8NnopKeAgF",
+        "username": "Luckilyzixaun",
+        "verified": false
+      }
+    ]
+  }
+}

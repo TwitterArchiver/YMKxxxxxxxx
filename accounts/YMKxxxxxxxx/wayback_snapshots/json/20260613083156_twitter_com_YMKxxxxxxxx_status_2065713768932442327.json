@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065713680705339392"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2065446395029364747",
+    "created_at": "2026-06-13T08:31:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T09:31:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065713768932442327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1025439374148886531",
+          "start": 0,
+          "username": "artikbisaIin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W2M8YbvsXV",
+          "end": 37,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2065713768932442327/photo/1",
+          "media_key": "3_2065713680705339392",
+          "start": 14,
+          "url": "https://t.co/W2M8YbvsXV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065713768932442327",
+    "in_reply_to_user_id": "1025439374148886531",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065446395029364747",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@artikbisaIin https://t.co/W2M8YbvsXV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2065713680705339392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrjpeIbQAAWoSt.jpg",
+        "width": 1236
+      },
+      {
+        "height": 987,
+        "media_key": "3_2065446389920702464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnwjGXWIAAfxVO.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065713680705339392"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2065446395029364747",
+        "created_at": "2026-06-13T08:31:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T09:31:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065713768932442327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1025439374148886531",
+              "start": 0,
+              "username": "artikbisaIin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2M8YbvsXV",
+              "end": 37,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2065713768932442327/photo/1",
+              "media_key": "3_2065713680705339392",
+              "start": 14,
+              "url": "https://t.co/W2M8YbvsXV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065713768932442327",
+        "in_reply_to_user_id": "1025439374148886531",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065446395029364747",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@artikbisaIin https://t.co/W2M8YbvsXV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065446389920702464"
+          ]
+        },
+        "author_id": "1025439374148886531",
+        "conversation_id": "2065446395029364747",
+        "created_at": "2026-06-12T14:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065446395029364747"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yZqcKY9og9",
+              "end": 164,
+              "expanded_url": "https://x.com/artikbisaIin/status/2065446395029364747/photo/1",
+              "media_key": "3_2065446389920702464",
+              "start": 141,
+              "url": "https://t.co/yZqcKY9og9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065446395029364747",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 178,
+          "impression_count": 227213,
+          "like_count": 748,
+          "quote_count": 37,
+          "reply_count": 3459,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "Hangi sayıyı görüyorsunuz?\n\nZORLUK SEVİYESİ - ÇOK ZOR Henüz kimse sayıyı bulamadı \n\nDoğru cevap 7.500 $ kazandırır! \n\n 24 saat sonunda biter https://t.co/yZqcKY9og9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 668,
+          "like_count": 8994,
+          "listed_count": 2,
+          "media_count": 190,
+          "tweet_count": 1976
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-03T17:52:53.000Z",
+        "description": "Ücretli rt, reklam ve iş birliği için dm 💌 Kahve falında benden iyisi yok - İSTANBUL AYDIN ÜNİVERSİTESİ 🎓",
+        "id": "1025439374148886531",
+        "location": "İstanbul, Türkiye",
+        "name": "EftalBey",
+        "pinned_tweet_id": "1205449068555776006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928981030288916480/SlB4qUqK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379773,
+          "following_count": 376557,
+          "like_count": 1635382,
+          "listed_count": 189,
+          "media_count": 2046,
+          "tweet_count": 126155
+        },
+        "username": "artikbisaIin",
+        "verified": true
+      }
+    ]
+  }
+}

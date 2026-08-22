@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038921559205941248"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2038924174832615502",
+    "created_at": "2026-03-31T10:19:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T11:19:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038924174832615502"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 160,
+          "start": 156,
+          "tag": "HRT"
+        }
+      ],
+      "urls": [
+        {
+          "description": "个人 HRT 实践记录与指南",
+          "display_url": "hrt.yumeka.blog",
+          "end": 155,
+          "expanded_url": "https://hrt.yumeka.blog/",
+          "images": [
+            {
+              "height": 1024,
+              "url": "https://pbs.twimg.com/news_img/2036442807326613511/TBXp1ADt?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2036442807326613511/TBXp1ADt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 132,
+          "status": 200,
+          "title": "梦花的 HRT 笔记",
+          "unwound_url": "https://hrt.yumeka.blog/",
+          "url": "https://t.co/hcLZMJH6Fl"
+        },
+        {
+          "display_url": "pic.x.com/5WeowVDWD7",
+          "end": 184,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2038924174832615502/photo/1",
+          "media_key": "3_2038921559205941248",
+          "start": 161,
+          "url": "https://t.co/5WeowVDWD7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038924174832615502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "梦花的HRT笔记网站更新了！欢迎大家收藏和访问～\n这次更新了很多东西：\nim-ev页面添加了一个便捷的针头匹配计算器；任何人都可以讨论的评论区；添加了修订历史，可以查看页面所有的改动；网站可以安装到桌面上；优化了打印PDF的外观；内容做了一些追加和优化。\n传送门：https://t.co/hcLZMJH6Fl\n#HRT https://t.co/5WeowVDWD7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1992,
+        "media_key": "3_2038921559205941248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEu0Wv1bEAA5HQd.jpg",
+        "width": 1973
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038921559205941248"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2038924174832615502",
+        "created_at": "2026-03-31T10:19:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T11:19:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038924174832615502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 160,
+              "start": 156,
+              "tag": "HRT"
+            }
+          ],
+          "urls": [
+            {
+              "description": "个人 HRT 实践记录与指南",
+              "display_url": "hrt.yumeka.blog",
+              "end": 155,
+              "expanded_url": "https://hrt.yumeka.blog/",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/2036442807326613511/TBXp1ADt?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2036442807326613511/TBXp1ADt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 132,
+              "status": 200,
+              "title": "梦花的 HRT 笔记",
+              "unwound_url": "https://hrt.yumeka.blog/",
+              "url": "https://t.co/hcLZMJH6Fl"
+            },
+            {
+              "display_url": "pic.x.com/5WeowVDWD7",
+              "end": 184,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2038924174832615502/photo/1",
+              "media_key": "3_2038921559205941248",
+              "start": 161,
+              "url": "https://t.co/5WeowVDWD7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038924174832615502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "梦花的HRT笔记网站更新了！欢迎大家收藏和访问～\n这次更新了很多东西：\nim-ev页面添加了一个便捷的针头匹配计算器；任何人都可以讨论的评论区；添加了修订历史，可以查看页面所有的改动；网站可以安装到桌面上；优化了打印PDF的外观；内容做了一些追加和优化。\n传送门：https://t.co/hcLZMJH6Fl\n#HRT https://t.co/5WeowVDWD7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=98%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 556,
+          "like_count": 5058,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1189
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

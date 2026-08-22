@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2015264917344116927",
+    "created_at": "2026-01-26T01:13:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T02:13:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015593804552962168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1703762928",
+          "start": 0,
+          "username": "1965chich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015593804552962168",
+    "in_reply_to_user_id": "1703762928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015264917344116927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1965chich 老一辈眼里的结婚，往往意味着找个物质条件合适的人凑合过一辈子，遇到事情能处理、不逃避且有担当。就是这样。他们可能都没有经历过真正的高质量的爱，所以无法理解那对于一个女孩来说有多重要。当缺少爱时，婚姻反而是最大的麻烦和心神浪费，哪怕仅仅是去面对对方的存在，都是在透支自己的精力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2015264917344116927",
+        "created_at": "2026-01-26T01:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T02:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015593804552962168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1703762928",
+              "start": 0,
+              "username": "1965chich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015593804552962168",
+        "in_reply_to_user_id": "1703762928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015264917344116927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1965chich 老一辈眼里的结婚，往往意味着找个物质条件合适的人凑合过一辈子，遇到事情能处理、不逃避且有担当。就是这样。他们可能都没有经历过真正的高质量的爱，所以无法理解那对于一个女孩来说有多重要。当缺少爱时，婚姻反而是最大的麻烦和心神浪费，哪怕仅仅是去面对对方的存在，都是在透支自己的精力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703762928",
+        "conversation_id": "2015264917344116927",
+        "created_at": "2026-01-25T03:26:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T04:26:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015264917344116927"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2015264917344116927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1006,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "家里人催我回去结婚了，说要给我介绍一个有钱的人家的男生在一起，幸福一辈子就完事了🙂有钱真的能幸福吗？和一个见都没见过的人在一起，然后结婚。真是荒谬，为什么他们总是这样？为什么家里人就那么自以为我就配得上好家庭的男生呢？我觉得他们只是着急想把我卖了，因为他们也没看得起我过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 315,
+          "like_count": 857,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-27T05:20:31.000Z",
+        "description": "🇨🇳爱中国 145/44kg 欢迎来到互联网上的大王KFC的内心世界 带学生 有点社恐 喜欢看帅帅的女孩子/非跨/不会尊重人的关小黑屋/敌蜜@akui1121/宝宝@xjnpng51506/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 70,
+                "username": "akui1121"
+              },
+              {
+                "end": 94,
+                "start": 82,
+                "username": "xjnpng51506"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b1.达蒙.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://b1.xn--hv1a41u.com/#/register?code=wrqf2yAk",
+                "start": 0,
+                "url": "https://t.co/9z3XsgbI49"
+              }
+            ]
+          }
+        },
+        "id": "1703762928",
+        "name": "Kentucky Fried Chicken",
+        "pinned_tweet_id": "1945242862133686301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948921286530662400/Gmt9Tblq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8891,
+          "following_count": 1219,
+          "like_count": 23750,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 8009
+        },
+        "url": "https://t.co/9z3XsgbI49",
+        "username": "1965chich",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2046577702711566336",
+    "created_at": "2026-04-21T13:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T14:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046577833200505043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1243446871667793920",
+          "start": 0,
+          "username": "miaqwqmia"
+        },
+        {
+          "end": 27,
+          "id": "774108963465891840",
+          "start": 11,
+          "username": "SakurazawaRyoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046577833200505043",
+    "in_reply_to_user_id": "1243446871667793920",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046577702711566336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaqwqmia @SakurazawaRyoko 恭喜！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2046576856946929664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGbmzuPbcAAI_jH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2046577702711566336",
+        "created_at": "2026-04-21T13:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046577833200505043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1243446871667793920",
+              "start": 0,
+              "username": "miaqwqmia"
+            },
+            {
+              "end": 27,
+              "id": "774108963465891840",
+              "start": 11,
+              "username": "SakurazawaRyoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046577833200505043",
+        "in_reply_to_user_id": "1243446871667793920",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046577702711566336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaqwqmia @SakurazawaRyoko 恭喜！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046576856946929664"
+          ]
+        },
+        "author_id": "1243446871667793920",
+        "conversation_id": "2046577702711566336",
+        "created_at": "2026-04-21T13:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T14:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046577702711566336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1797120101419999232",
+              "start": 2,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 31,
+              "id": "774108963465891840",
+              "start": 15,
+              "username": "SakurazawaRyoko"
+            }
+          ],
+          "urls": [
+            {
+              "description": "注射雌二醇的基线评估、前置血检、药品针具、起始剂量、首周监测红线、首次复查与剂量调整。",
+              "display_url": "hrtyaku.com/zh/guides/firs…",
+              "end": 55,
+              "expanded_url": "https://hrtyaku.com/zh/guides/first-injection/",
+              "start": 32,
+              "status": 200,
+              "title": "首次注射完整指南",
+              "unwound_url": "https://hrtyaku.com/zh/guides/first-injection/",
+              "url": "https://t.co/whwyYAYCHm"
+            },
+            {
+              "description": "安全、有效地给自己打针",
+              "display_url": "mtf.wiki/zh-cn/docs/med…",
+              "end": 79,
+              "expanded_url": "https://mtf.wiki/zh-cn/docs/medicine/estrogen/injection/at-home-injection/at-home-injection",
+              "start": 56,
+              "status": 200,
+              "title": "自我注射",
+              "unwound_url": "https://mtf.wiki/zh-cn/docs/medicine/estrogen/injection/at-home-injection/at-home-injection",
+              "url": "https://t.co/vOumyNtAVi"
+            },
+            {
+              "display_url": "pic.x.com/IPOWMIF1VL",
+              "end": 135,
+              "expanded_url": "https://x.com/miaqwqmia/status/2046577702711566336/photo/1",
+              "media_key": "3_2046576856946929664",
+              "start": 112,
+              "url": "https://t.co/IPOWMIF1VL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046577702711566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@YMKxxxxxxxx、@SakurazawaRyoko、https://t.co/whwyYAYCHm和https://t.co/vOumyNtAVi提供的教程，完美完成了人生第一次自行注射。\n感谢推u提供的图片。 https://t.co/IPOWMIF1VL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n    HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 597,
+          "like_count": 6746,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 1543
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T07:56:58.000Z",
+        "description": "MTF/INFP/家长党",
+        "id": "1243446871667793920",
+        "location": "世界尽头",
+        "name": "miamiamia",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026853935005446144/thjQx4nD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 305,
+          "like_count": 1693,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "username": "miaqwqmia",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-09T04:55:33.000Z",
+        "description": "纵使这一切都无法改变, 你也依然要与命运为敌吗?  \n着ぐるみ初心者 / BeatSaber爱好者 / 清水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "liangying.eu.org",
+                "end": 23,
+                "expanded_url": "https://liangying.eu.org",
+                "start": 0,
+                "url": "https://t.co/JQxn0dsPBj"
+              }
+            ]
+          }
+        },
+        "id": "774108963465891840",
+        "location": "Singapore",
+        "name": "是凉樱呀🌸",
+        "pinned_tweet_id": "1662340152856051712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676440559484026880/o3-dbkm0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 822,
+          "following_count": 707,
+          "like_count": 29254,
+          "listed_count": 3,
+          "media_count": 202,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/JQxn0dsPBj",
+        "username": "SakurazawaRyoko",
+        "verified": false
+      }
+    ]
+  }
+}

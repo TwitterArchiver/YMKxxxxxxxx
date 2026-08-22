@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2027537596466008380",
+    "created_at": "2026-02-28T10:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T11:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027689612580401599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1819394939354316800",
+          "start": 0,
+          "username": "joyfulframes"
+        },
+        {
+          "end": 25,
+          "id": "207903314",
+          "start": 14,
+          "username": "shadouyoua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027689612580401599",
+    "in_reply_to_user_id": "1819394939354316800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027540372310856024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@joyfulframes @shadouyoua 电费至少还能用钱买，精神值都掉光了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2027537596466008380",
+        "created_at": "2026-02-28T10:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T11:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027689612580401599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1819394939354316800",
+              "start": 0,
+              "username": "joyfulframes"
+            },
+            {
+              "end": 25,
+              "id": "207903314",
+              "start": 14,
+              "username": "shadouyoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027689612580401599",
+        "in_reply_to_user_id": "1819394939354316800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027540372310856024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@joyfulframes @shadouyoua 电费至少还能用钱买，精神值都掉光了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1819394939354316800",
+        "conversation_id": "2027537596466008380",
+        "created_at": "2026-02-28T00:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027540372310856024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "207903314",
+              "start": 0,
+              "username": "shadouyoua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027540372310856024",
+        "in_reply_to_user_id": "207903314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1174,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027537596466008380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadouyoua 建议把这种人纳入 “家庭一级能耗品”，比冰箱还费电。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=100%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 413,
+          "like_count": 1802,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T15:29:43.000Z",
+        "description": "用文字与镜头，拾取人间最细碎的微光：普通人的喜悦、疲惫、坚持，和那些转瞬即逝的小确幸。愿你在这里，寻得温暖、快乐、释然与力量。",
+        "id": "1819394939354316800",
+        "location": "Earth",
+        "name": "一帧人间",
+        "pinned_tweet_id": "2026986602829128177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013597846205784064/GzFx_FlD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6917,
+          "following_count": 2874,
+          "like_count": 2227,
+          "listed_count": 9,
+          "media_count": 237,
+          "tweet_count": 2383
+        },
+        "username": "joyfulframes",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-26T08:05:35.000Z",
+        "description": "收集和分享好东西：🌍泛互联网 + 💻科技 + 🤖Al + 📃学习 + 🤑Crypto 我常用的AI效率工具Flowith ：https://t.co/TGpE7YgyV2 每天赚个小鸡腿：https://t.co/NxnGRPz4Pr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "flowith.io/?inv=5VA0HF9AE…",
+                "end": 85,
+                "expanded_url": "https://flowith.io?inv=5VA0HF9AE9SKP4WL",
+                "start": 62,
+                "url": "https://t.co/TGpE7YgyV2"
+              },
+              {
+                "display_url": "t.me/jisou?start=a_…",
+                "end": 117,
+                "expanded_url": "https://t.me/jisou?start=a_5636465068",
+                "start": 94,
+                "url": "https://t.co/NxnGRPz4Pr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbshare.site",
+                "end": 23,
+                "expanded_url": "https://bbshare.site",
+                "start": 0,
+                "url": "https://t.co/7spZCJlj9s"
+              }
+            ]
+          }
+        },
+        "id": "207903314",
+        "name": "bbshare",
+        "pinned_tweet_id": "2016876968449560723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861627847343058944/CJLGJ_-__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44834,
+          "following_count": 784,
+          "like_count": 9367,
+          "listed_count": 231,
+          "media_count": 3906,
+          "tweet_count": 10036
+        },
+        "url": "https://t.co/7spZCJlj9s",
+        "username": "shadouyoua",
+        "verified": true
+      }
+    ]
+  }
+}

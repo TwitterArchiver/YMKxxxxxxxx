@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2030619239175123088",
+    "created_at": "2026-03-08T13:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T14:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030637885028995238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030637885028995238",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030624477512695928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 会辣的胃痛的ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2030619239175123088",
+        "created_at": "2026-03-08T13:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030637885028995238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030637885028995238",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030624477512695928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 会辣的胃痛的ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847835560175685635",
+        "conversation_id": "2030619239175123088",
+        "created_at": "2026-03-08T12:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030624477512695928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030624477512695928",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030619239175123088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 给我吃喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=void / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 438,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 698
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n我可能粉红，我也可能反贼\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n我的安格斯🍔——麦当劳还我安格斯🍔——😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2077,
+          "following_count": 2150,
+          "like_count": 19709,
+          "listed_count": 7,
+          "media_count": 632,
+          "tweet_count": 19168
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      }
+    ]
+  }
+}

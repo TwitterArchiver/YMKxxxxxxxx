@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2088379193742471612",
+    "created_at": "2026-08-15T05:03:30.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T06:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088491750449139786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1601549039287566336",
+          "start": 0,
+          "username": "mmmammm_a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088491750449139786",
+    "in_reply_to_user_id": "1601549039287566336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088379193742471612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmammm_a 可是你真的会因为焦虑而难受，又不是你的错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2088379193742471612",
+        "created_at": "2026-08-15T05:03:30.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T06:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088491750449139786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1601549039287566336",
+              "start": 0,
+              "username": "mmmammm_a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088491750449139786",
+        "in_reply_to_user_id": "1601549039287566336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088379193742471612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmammm_a 可是你真的会因为焦虑而难受，又不是你的错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1601549039287566336",
+        "conversation_id": "2088379193742471612",
+        "created_at": "2026-08-14T21:36:14.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T22:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088379193742471612"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088379193742471612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我完全不希望自己的焦虑会成为伴侣的压力……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2088491750449139786",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 711,
+          "like_count": 10063,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-10T12:07:11.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️She / They / Transfeminist",
+        "id": "1601549039287566336",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088408631389687928",
+        "name": "北雁沐风🏳️‍🌈🏳️‍⚧️",
+        "pinned_tweet_id": "2076655834193711354",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1601549039287566336/1677903150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072900186695987200/mkZMR6a3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 298,
+          "like_count": 18710,
+          "listed_count": 2,
+          "media_count": 349,
+          "tweet_count": 8063
+        },
+        "url": "",
+        "username": "mmmammm_a",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

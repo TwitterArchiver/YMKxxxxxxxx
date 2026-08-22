@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "1980536466968097119",
+    "created_at": "2025-10-22T11:58:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T12:58:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980966949137105111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1935719415175372801",
+          "start": 0,
+          "username": "qikiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980966949137105111",
+    "in_reply_to_user_id": "1935719415175372801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980536466968097119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qikiqwq 一加ace3pro，用一年了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "1980536466968097119",
+        "created_at": "2025-10-22T11:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T12:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980966949137105111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1935719415175372801",
+              "start": 0,
+              "username": "qikiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980966949137105111",
+        "in_reply_to_user_id": "1935719415175372801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980536466968097119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qikiqwq 一加ace3pro，用一年了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935719415175372801",
+        "conversation_id": "1980536466968097119",
+        "created_at": "2025-10-21T07:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T08:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980536466968097119"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980536466968097119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 46488,
+          "like_count": 288,
+          "quote_count": 1,
+          "reply_count": 334,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "快说，泥们现在都用的什么手机（我还在用苦逼k50）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "这里是魔法少女梦花酱！「萝花 / infp-A / archlinux / 🏳‍⚧」「想要拯救世界～想要变得可可爱爱的～」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "miniyu157.github.io",
+                "end": 23,
+                "expanded_url": "https://miniyu157.github.io/",
+                "start": 0,
+                "url": "https://t.co/WkTezDKNnX"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 170,
+          "like_count": 223,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 198
+        },
+        "url": "https://t.co/WkTezDKNnX",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T15:21:07.000Z",
+        "description": "| MTF🍥 | hrt:25.5.16 | 暂时还没那么想死 | 音游 | 欧美电音 术力口 | oder | 自暴自弃 | 不想在学校营业 | 抑郁焦虑易性症心境情感障碍 |里推:@qikiowo| 最爱的人:@yysukiqiki | puppy :@cirn039 | 亲友:@liang080423 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 92,
+                "username": "qikiowo"
+              },
+              {
+                "end": 118,
+                "start": 107,
+                "username": "yysukiqiki"
+              },
+              {
+                "end": 136,
+                "start": 128,
+                "username": "cirn039"
+              },
+              {
+                "end": 154,
+                "start": 142,
+                "username": "liang080423"
+              }
+            ]
+          }
+        },
+        "id": "1935719415175372801",
+        "location": "Japantown, San Francisco",
+        "name": "qiki🏳️‍⚧🍥",
+        "pinned_tweet_id": "1936111039776534570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942107708976488448/ijqrPhOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 319,
+          "like_count": 484,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 749
+        },
+        "username": "qikiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

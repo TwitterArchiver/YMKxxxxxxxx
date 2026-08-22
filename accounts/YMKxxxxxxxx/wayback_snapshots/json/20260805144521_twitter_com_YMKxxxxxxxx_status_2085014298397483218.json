@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2084996242707493230",
+    "created_at": "2026-08-05T14:45:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T15:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085014298397483218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085014298397483218",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084996242707493230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 那也要对自己好一点好不好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2084996242707493230",
+        "created_at": "2026-08-05T14:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T15:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085014298397483218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085014298397483218",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084996242707493230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 那也要对自己好一点好不好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906595429162299392",
+        "conversation_id": "2084996242707493230",
+        "created_at": "2026-08-05T13:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084996242707493230"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084996242707493230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "hrt五个多月了，花了很多钱，学习了hrt方案，有好好吃药，在极其恐针和疼痛敏感的情况下也有尝试自己给自己扎针，也有向rle穿搭改善，尝试rle出门，但是还是一点也不pass，还不如某个我认识的顺直男朋友pass，五个月来胸还完全是平的，有的姐妹两个月就B了，超大的额头和发际线，下巴凸起，脸上鼻子上全是被睾酮摧残的痕迹，全是痘坑痘印和黑头留下的痕迹，还被别的mtf说“你男相太重了”“为什么xyn不想怎么打扮自己呢”“我第一眼想叫哥们”，比起那些已经不在的姐姐们，也许我才是该消失的那个"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt五个多月了，花了很多钱，学习了hrt方案，有好好吃药，在极其恐针和疼痛敏感的情况下也有尝试自己给自己扎针，也有向rle穿搭改善，尝试rle出门，但是还是一点也不pass，还不如某个我认识的顺直男朋友pass，五个月来胸还完全是平的，有的姐妹两个月就B了，超大的额头和发际线，下巴凸起，脸上鼻子上"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1075,
+          "following_count": 705,
+          "like_count": 9797,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 2109
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "hrt：26.2.18/家暴党·天残党·非资深oder\n舞萌重度依赖♡｜同类友跨互fo\n想聊天倾诉想被抱抱都可以来找我喵♡/地雷系重力系警告\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 74,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥（色商版）",
+        "pinned_tweet_id": "2082938278714703944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 570,
+          "following_count": 589,
+          "like_count": 1307,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": true
+      }
+    ]
+  }
+}

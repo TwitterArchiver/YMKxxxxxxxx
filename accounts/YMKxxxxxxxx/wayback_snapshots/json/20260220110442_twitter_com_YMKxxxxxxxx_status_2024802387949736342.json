@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2024520456695664654",
+    "created_at": "2026-02-20T11:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T12:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024802387949736342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1978725677131309056",
+          "start": 0,
+          "username": "2574688239Max"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024802387949736342",
+    "in_reply_to_user_id": "1978725677131309056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024766364704289159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2574688239Max 想吃烤面筋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2024520456695664654",
+        "created_at": "2026-02-20T11:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T12:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024802387949736342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1978725677131309056",
+              "start": 0,
+              "username": "2574688239Max"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024802387949736342",
+        "in_reply_to_user_id": "1978725677131309056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024766364704289159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2574688239Max 想吃烤面筋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978725677131309056",
+        "conversation_id": "2024520456695664654",
+        "created_at": "2026-02-20T08:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T09:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024766364704289159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024766364704289159",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024520456695664654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 宇宙的终极问题就是，晚上吃啥和明早吃啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙「梦花 / infp-A / linux / 🏳‍⚧ / Les」「喜欢这个世界、宇宙和物理」「HRT=void / SAN=82%」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog/",
+                "start": 0,
+                "url": "https://t.co/29FUA8GD4b"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🍀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926903971890802688/SD245t0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 379,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/29FUA8GD4b",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-16T07:32:26.000Z",
+        "description": "友跨，很闲，找我聊天，谢谢",
+        "id": "1978725677131309056",
+        "name": "MAX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978745251402776576/j0DmA-av_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 26,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "2574688239Max",
+        "verified": false
+      }
+    ]
+  }
+}

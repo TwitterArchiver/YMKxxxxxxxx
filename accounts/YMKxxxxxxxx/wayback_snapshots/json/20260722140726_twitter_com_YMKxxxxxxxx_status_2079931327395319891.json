@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2079925590774432022",
+    "created_at": "2026-07-22T14:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079931327395319891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079931327395319891",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079930616456593714",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 一般来讲都要标记y = f(x)，f(x) = x + 1的。\nf(x)表示固定的运算逻辑，所以y等于经过运算后的输出，可以把x带入进去求y"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2079925590774432022",
+        "created_at": "2026-07-22T14:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079931327395319891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079931327395319891",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079930616456593714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 一般来讲都要标记y = f(x)，f(x) = x + 1的。\nf(x)表示固定的运算逻辑，所以y等于经过运算后的输出，可以把x带入进去求y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2079925590774432022",
+        "created_at": "2026-07-22T14:04:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:04:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079930616456593714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079930616456593714",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079927481356919044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 没标f(x)的话应该x是定义域，y是值域。因为有x还有y，而且y还在等号左边"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com",
+                "start": 0,
+                "url": "https://t.co/qfCCXiCrb3"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1070,
+          "following_count": 689,
+          "like_count": 9522,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2084
+        },
+        "url": "https://t.co/qfCCXiCrb3",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "pinned_tweet_id": "2077404107611205678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 155,
+          "like_count": 2235,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 561
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

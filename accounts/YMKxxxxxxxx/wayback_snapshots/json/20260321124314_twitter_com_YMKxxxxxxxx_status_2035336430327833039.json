@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2035307026042298683",
+    "created_at": "2026-03-21T12:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T13:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035336430327833039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1993628897645408256",
+          "start": 0,
+          "username": "Pr0mis3_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035336430327833039",
+    "in_reply_to_user_id": "1993628897645408256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035336015754428680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pr0mis3_c 可以哦，还打算写个超级超级详细的教程呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2035307026042298683",
+        "created_at": "2026-03-21T12:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035336430327833039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1993628897645408256",
+              "start": 0,
+              "username": "Pr0mis3_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035336430327833039",
+        "in_reply_to_user_id": "1993628897645408256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035336015754428680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pr0mis3_c 可以哦，还打算写个超级超级详细的教程呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993628897645408256",
+        "conversation_id": "2035307026042298683",
+        "created_at": "2026-03-21T12:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T13:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035336015754428680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035336015754428680",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035307026042298683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 浇浇我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les」「喜欢这个世界、宇宙和物理」「HRT(trans)🍥=0d / SAN=100%🍀」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2033839358680437225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 514,
+          "like_count": 3921,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 927
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2 | 无证含糖 | 持续深柜中 | 喜欢xnn&xyn | 精神健康稳定，无不良嗜好 | 梦想srs | 同类互fo | 想交友版~\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 125,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 102,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "Pr0mis3🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031661442714497024/2TU5OjbE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 210,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 130
+        },
+        "username": "Pr0mis3_c",
+        "verified": true
+      }
+    ]
+  }
+}

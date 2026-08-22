@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2068302325106495653",
+    "created_at": "2026-06-20T16:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T17:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068373027872805251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1882563916632666112",
+          "start": 0,
+          "username": "hhjnjkoguyunmo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068373027872805251",
+    "in_reply_to_user_id": "1882563916632666112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068302325106495653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hhjnjkoguyunmo 吃点好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068302318118858752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLQV__-XcAAypSL.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2068302325106495653",
+        "created_at": "2026-06-20T16:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T17:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068373027872805251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1882563916632666112",
+              "start": 0,
+              "username": "hhjnjkoguyunmo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068373027872805251",
+        "in_reply_to_user_id": "1882563916632666112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068302325106495653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hhjnjkoguyunmo 吃点好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068302318118858752"
+          ]
+        },
+        "author_id": "1882563916632666112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068302325106495653",
+        "created_at": "2026-06-20T11:57:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T12:57:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068302325106495653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8pNUoaCOD",
+              "end": 150,
+              "expanded_url": "https://x.com/hhjnjkoguyunmo/status/2068302325106495653/photo/1",
+              "media_key": "3_2068302318118858752",
+              "start": 127,
+              "url": "https://t.co/l8pNUoaCOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068302325106495653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 240,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃个烤冷面，今天我又看见精神小伙在买烤冷面了，我本来想看一看他的t恤背后写的是什么，但是由于今天是阴天，再加上我视力不好，一直看看不清，之后那个精神小伙突然回头看我，我也只好若无其事的像街道看了，幸好他在拿到他的烤冷面后骑着他的小电驴什么都不说的走了🥹 https://t.co/l8pNUoaCOD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  HRTing🍥  能量: 温和",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1068,
+          "following_count": 685,
+          "like_count": 9233,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 2026
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "人生的真理是什么？我追寻了半辈子，得到的答案是做自己，做自己，不要做别人。",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1159,
+          "following_count": 965,
+          "like_count": 579347,
+          "listed_count": 8,
+          "media_count": 581,
+          "tweet_count": 46990
+        },
+        "url": "",
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

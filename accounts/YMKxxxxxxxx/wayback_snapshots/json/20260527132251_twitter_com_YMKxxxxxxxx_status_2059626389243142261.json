@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2059626389243142261",
+    "created_at": "2026-05-27T13:22:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T14:22:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059626389243142261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YMKxxxxxxxx/st…",
+          "end": 156,
+          "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2047679953127514569",
+          "start": 133,
+          "url": "https://t.co/NeQVgRpywL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059626389243142261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 232,
+            "start": 226,
+            "tag": "LGBTQ"
+          },
+          {
+            "end": 236,
+            "start": 233,
+            "tag": "le"
+          },
+          {
+            "end": 241,
+            "start": 237,
+            "tag": "les"
+          },
+          {
+            "end": 246,
+            "start": 242,
+            "tag": "wiw"
+          },
+          {
+            "end": 251,
+            "start": 247,
+            "tag": "MtF"
+          },
+          {
+            "end": 256,
+            "start": 252,
+            "tag": "HRT"
+          }
+        ]
+      },
+      "text": "一定要体验一下，被催产素包裹下的欲望——身体和情绪共鸣，完全放松下来，真的会很治愈很舒服的。\n\n不用 SRS 就可以体验到，只要身体处于雌激素模式下运转，还不完全受性激素波动限制。\n\n整个人都会变得晕乎乎、暖洋洋的，难受的事情和坏心情都被赶走了，像奶油一样化开了。\n\n被温柔的刺激，爱抚，因为太舒服而流出眼泪。眼睛雾蒙蒙的，一点也没有力气，凌乱的发丝散落在红彤彤的脸颊上，在怀里说话发出的声音都是软软的。\n\n没有结束的概念，只有融化到不想动了的状态。\n#LGBTQ #le #les #wiw #MtF #HRT"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047679953127514569",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一定要体验一下，被催产素包裹下的欲望——身体和情绪共鸣，完全放松下来，真的会很治愈很舒服的。\n\n不用 SRS 就可以体验到，只要身体处于雌激素模式下运转，还不完全受性激素波动限制。\n\n整个人都会变得晕乎乎、暖洋洋的，难受的事情和坏心情都被赶走了，像奶油一样化开了。 https://t.co/NeQVgRpywL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2059626389243142261",
+        "created_at": "2026-05-27T13:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T14:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059626389243142261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 156,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2047679953127514569",
+              "start": 133,
+              "url": "https://t.co/NeQVgRpywL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059626389243142261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 232,
+                "start": 226,
+                "tag": "LGBTQ"
+              },
+              {
+                "end": 236,
+                "start": 233,
+                "tag": "le"
+              },
+              {
+                "end": 241,
+                "start": 237,
+                "tag": "les"
+              },
+              {
+                "end": 246,
+                "start": 242,
+                "tag": "wiw"
+              },
+              {
+                "end": 251,
+                "start": 247,
+                "tag": "MtF"
+              },
+              {
+                "end": 256,
+                "start": 252,
+                "tag": "HRT"
+              }
+            ]
+          },
+          "text": "一定要体验一下，被催产素包裹下的欲望——身体和情绪共鸣，完全放松下来，真的会很治愈很舒服的。\n\n不用 SRS 就可以体验到，只要身体处于雌激素模式下运转，还不完全受性激素波动限制。\n\n整个人都会变得晕乎乎、暖洋洋的，难受的事情和坏心情都被赶走了，像奶油一样化开了。\n\n被温柔的刺激，爱抚，因为太舒服而流出眼泪。眼睛雾蒙蒙的，一点也没有力气，凌乱的发丝散落在红彤彤的脸颊上，在怀里说话发出的声音都是软软的。\n\n没有结束的概念，只有融化到不想动了的状态。\n#LGBTQ #le #les #wiw #MtF #HRT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047679953127514569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一定要体验一下，被催产素包裹下的欲望——身体和情绪共鸣，完全放松下来，真的会很治愈很舒服的。\n\n不用 SRS 就可以体验到，只要身体处于雌激素模式下运转，还不完全受性激素波动限制。\n\n整个人都会变得晕乎乎、暖洋洋的，难受的事情和坏心情都被赶走了，像奶油一样化开了。 https://t.co/NeQVgRpywL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2047679953127514569",
+        "created_at": "2026-04-24T14:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047679953127514569"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YMKxxxxxxxx/st…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/YMKxxxxxxxx/status/2047349612550488117",
+              "start": 84,
+              "url": "https://t.co/dCpAnZ4BXM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047679953127514569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 572,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047349612550488117",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花花只有真的感到安全感的时候\n才会露出软软的肚皮\n然后，一步一步地\n缴械投降……融化掉……\n眼睛也变得雾蒙蒙的\n被藏起来的粉红色泡泡全都跑了出来\n呜啊……\n好喜欢…… https://t.co/dCpAnZ4BXM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花、花花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "梦花 𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 650,
+          "like_count": 8510,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 1872
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}

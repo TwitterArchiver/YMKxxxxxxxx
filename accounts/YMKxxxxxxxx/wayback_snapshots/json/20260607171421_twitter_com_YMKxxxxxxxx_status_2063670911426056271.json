@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2063616589845729731",
+    "created_at": "2026-06-07T17:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T18:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063670911426056271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1981307673795842048",
+          "start": 0,
+          "username": "_Safolour_"
+        },
+        {
+          "end": 22,
+          "id": "1993628897645408256",
+          "start": 12,
+          "username": "Pr0mis3_c"
+        },
+        {
+          "end": 37,
+          "id": "1598557374046179328",
+          "start": 23,
+          "username": "huihui_mikumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063670911426056271",
+    "in_reply_to_user_id": "1981307673795842048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063661532052099582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Safolour_ @Pr0mis3_c @huihui_mikumi 环境是第一位的，容貌只能算其中一个性别焦虑的因素，更多还是因为被环境的压力和痛苦糟践。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2063616589845729731",
+        "created_at": "2026-06-07T17:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063670911426056271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1981307673795842048",
+              "start": 0,
+              "username": "_Safolour_"
+            },
+            {
+              "end": 22,
+              "id": "1993628897645408256",
+              "start": 12,
+              "username": "Pr0mis3_c"
+            },
+            {
+              "end": 37,
+              "id": "1598557374046179328",
+              "start": 23,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063670911426056271",
+        "in_reply_to_user_id": "1981307673795842048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063661532052099582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Safolour_ @Pr0mis3_c @huihui_mikumi 环境是第一位的，容貌只能算其中一个性别焦虑的因素，更多还是因为被环境的压力和痛苦糟践。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1981307673795842048",
+        "conversation_id": "2063616589845729731",
+        "created_at": "2026-06-07T16:37:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:37:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063661532052099582"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1598557374046179328",
+              "start": 0,
+              "username": "huihui_mikumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063661532052099582",
+        "in_reply_to_user_id": "1598557374046179328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063616589845729731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huihui_mikumi 因为长得不好看，她们从心底知道自己不能变成真正的女孩子（或是拥有正常女孩子的生活），然后逃避绝望导致的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ 想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n  喜欢这个世界、宇宙和物理。\n→ SAN: 97%🍀  HRTing🍥  能量: 温和较低💫\n\n下面说不定有宝藏 ✨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.m31flower.com",
+                "end": 23,
+                "expanded_url": "https://blog.m31flower.com/",
+                "start": 0,
+                "url": "https://t.co/yl6lD17MBA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1040,
+          "following_count": 666,
+          "like_count": 8903,
+          "listed_count": 3,
+          "media_count": 185,
+          "tweet_count": 1955
+        },
+        "url": "https://t.co/yl6lD17MBA",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-23T10:32:42.000Z",
+        "description": "MTF？顺转算吗？不知道｜现世界（#375，已死号）转至 #284-2114/06/14｜PS：世界转移（关键词Shifting Realities）｜出生日期 #375 2007/01/11 & #284 2096/07/22 ｜fo我必回（",
+        "id": "1981307673795842048",
+        "location": "#284 Daylight 临汐市",
+        "name": "✨沐白awa✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043616259078791168/dWXYzEqT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 33,
+          "like_count": 1429,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 97
+        },
+        "username": "_Safolour_",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-26T10:32:43.000Z",
+        "description": "🍥06 xyn/mtf 🏳️‍⚧️hrt: 2025.12.2| en/zh | 无证含糖 | 持续深柜中 | 无不良嗜好 | 梦想srs | 同类互fo | 渴望交友...\ntg: https://t.co/yl6WM4V5Sw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Pr0m1s3",
+                "end": 115,
+                "expanded_url": "http://t.me/Pr0m1s3",
+                "start": 92,
+                "url": "https://t.co/yl6WM4V5Sw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "czxh.top",
+                "end": 23,
+                "expanded_url": "https://czxh.top",
+                "start": 0,
+                "url": "https://t.co/mt7U160VHA"
+              }
+            ]
+          }
+        },
+        "id": "1993628897645408256",
+        "location": "Antarctica",
+        "name": "诗雨.𝘗𝘳𝘰𝘮𝘪𝘴𝘦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2039290189093519707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063083323459825664/tzQOYIMI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 580,
+          "following_count": 488,
+          "like_count": 2088,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 732
+        },
+        "url": "https://t.co/mt7U160VHA",
+        "username": "Pr0mis3_c",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-02T05:59:21.000Z",
+        "description": "|21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|自残|重抑|同类互fo\n\n恋人@NekoSukiXoX  主人@Air_Yukiha 妹妹@qiancongxyn @yuerQwQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "NekoSukiXoX"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "Air_Yukiha"
+              },
+              {
+                "end": 116,
+                "start": 104,
+                "username": "qiancongxyn"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "username": "yuerQwQ"
+              }
+            ]
+          }
+        },
+        "id": "1598557374046179328",
+        "location": "广州海珠",
+        "name": "惠惠🍥🏳️‍⚧️（中二病也要mtf）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038850222680633345/r8zG5Gc1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 736,
+          "like_count": 728,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1759
+        },
+        "username": "huihui_mikumi",
+        "verified": false
+      }
+    ]
+  }
+}

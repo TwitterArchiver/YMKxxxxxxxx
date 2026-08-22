@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2052235137925144693",
+    "created_at": "2026-05-07T10:05:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:05:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052329057728217315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052329057728217315",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052327453041869140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 豪，谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2052235137925144693",
+        "created_at": "2026-05-07T10:05:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:05:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052329057728217315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052329057728217315",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052327453041869140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 豪，谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108737084301307904",
+        "conversation_id": "2052235137925144693",
+        "created_at": "2026-05-07T09:59:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:59:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052327453041869140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052327453041869140",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052324869006659881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 饱饱可以试试几种洗发水换着用，一方面测试哪个更适合自己，另一方面听说这样养头发快一点（毕竟多种功效都占到了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 635,
+          "like_count": 8126,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 1782
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 1072,
+          "like_count": 21680,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      }
+    ]
+  }
+}

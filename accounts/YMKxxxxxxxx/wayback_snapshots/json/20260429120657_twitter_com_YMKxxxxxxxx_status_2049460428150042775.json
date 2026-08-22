@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2049459624315887927",
+    "created_at": "2026-04-29T12:06:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T13:06:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049460428150042775"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 15,
+          "start": 10,
+          "tag": "音乐游戏"
+        },
+        {
+          "end": 24,
+          "start": 16,
+          "tag": "Phigros"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049460428150042775",
+    "in_reply_to_user_id": "1797120101419999232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049459624315887927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完蛋了忘记打标签了\n#音乐游戏 #Phigros"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 65410,
+        "height": 1080,
+        "media_key": "13_2049459407462039552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049459407462039552/img/YQpJ_kRLFJMkGQT7.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049459407462039552/vid/avc1/360x270/IRI7z13h6_h7j-UO.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049459407462039552/vid/avc1/480x360/RoO5kySsZarkWEZ3.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049459407462039552/vid/avc1/960x720/5oWHhIFwDwyOdgDG.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049459407462039552/pl/C6LWJM2CbJ_UDb8N.m3u8?tag=14"
+          }
+        ],
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2049459624315887927",
+        "created_at": "2026-04-29T12:06:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:06:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049460428150042775"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 10,
+              "tag": "音乐游戏"
+            },
+            {
+              "end": 24,
+              "start": 16,
+              "tag": "Phigros"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049460428150042775",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049459624315887927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完蛋了忘记打标签了\n#音乐游戏 #Phigros"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049459407462039552"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2049459624315887927",
+        "created_at": "2026-04-29T12:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049459624315887927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oj8iFrHnCK",
+              "end": 52,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2049459624315887927/video/1",
+              "media_key": "13_2049459407462039552",
+              "start": 29,
+              "url": "https://t.co/Oj8iFrHnCK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049459624315887927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "12.1寸大平板 一分钟展示超绝位移力\n这次录的手手好看 https://t.co/Oj8iFrHnCK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "想要拯救世界的笨蛋，脑袋里装下了整个宇宙 🌌\n「梦花🌸 / infp-A / linux / Les\n    喜欢这个世界、宇宙和物理\n  HRT(trans)🍥 --running / SAN=96%🍀」\n\n这里有宝藏！真的不往下翻翻嘛？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "petal.yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://petal.yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/kPAQPSHymu"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "location": "本星系群 • 仙女座星系",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "pinned_tweet_id": "2036365506190647792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 610,
+          "like_count": 7422,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1663
+        },
+        "url": "https://t.co/kPAQPSHymu",
+        "username": "YMKxxxxxxxx",
+        "verified": false
+      }
+    ]
+  }
+}
