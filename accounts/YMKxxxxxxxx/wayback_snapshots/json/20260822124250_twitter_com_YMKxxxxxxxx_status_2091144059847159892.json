@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2091144035599798272"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2091144059847159892",
+    "created_at": "2026-08-22T12:42:50.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T13:42:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091144059847159892"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QsRVck77TY",
+          "end": 47,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2091144059847159892/video/1",
+          "media_key": "13_2091144035599798272",
+          "start": 24,
+          "url": "https://t.co/QsRVck77TY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091144059847159892",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2091144035599798272"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一次焖大米饭，比我奶奶做的大碴粥都黏，笨死了 https://t.co/QsRVck77TY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3733,
+        "height": 720,
+        "media_key": "13_2091144035599798272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091144035599798272/img/_1tmdBmqQqc3Ed08.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091144035599798272/vid/avc1/320x320/DjZRSz3XUWWCsj30.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091144035599798272/vid/avc1/540x540/NdC_skjlhwobK_oB.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091144035599798272/vid/avc1/720x720/cQdvuMTTLYzSKJKA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091144035599798272/pl/2cSQqTJhda6YwWFf.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091144035599798272"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2091144059847159892",
+        "created_at": "2026-08-22T12:42:50.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T13:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091144059847159892"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QsRVck77TY",
+              "end": 47,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2091144059847159892/video/1",
+              "media_key": "13_2091144035599798272",
+              "start": 24,
+              "url": "https://t.co/QsRVck77TY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091144059847159892",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2091144035599798272"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次焖大米饭，比我奶奶做的大碴粥都黏，笨死了 https://t.co/QsRVck77TY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2091144059847159892",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 710,
+          "like_count": 10161,
+          "listed_count": 2,
+          "media_count": 218,
+          "tweet_count": 2180
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
