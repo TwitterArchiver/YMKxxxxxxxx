@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2096268027457061045",
+    "created_at": "2026-09-05T16:28:10.000Z",
+    "display_text_range": [
+      12,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T17:28:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096274199367352639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991306862038544384",
+          "start": 0,
+          "username": "Wanda12300"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096274199367352639",
+    "in_reply_to_user_id": "1991306862038544384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096268027457061045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wanda12300 你真的很重要很重要，真的不是你的错，不要因为这个世界该死就去惩罚自己好不好。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2096268027457061045",
+        "created_at": "2026-09-05T16:28:10.000Z",
+        "display_text_range": [
+          12,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096274199367352639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991306862038544384",
+              "start": 0,
+              "username": "Wanda12300"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096274199367352639",
+        "in_reply_to_user_id": "1991306862038544384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096268027457061045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wanda12300 你真的很重要很重要，真的不是你的错，不要因为这个世界该死就去惩罚自己好不好。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991306862038544384",
+        "conversation_id": "2096268027457061045",
+        "created_at": "2026-09-05T16:03:39.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T17:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096268027457061045"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096268027457061045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 401,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "提前发个讣告吧...\n本人于2026年9月6日00:00服用过量亚硝酸钠+奥沙西泮\n如果该帖子三天之内没有删除，即代表本人已经离世\n晚安，大家..."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低    //碎碎念//\n→ 架构师 ₊˚⊹ 花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2096274199367352639",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 737,
+          "like_count": 10953,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2399
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-20T00:45:48.000Z",
+        "description": "185+超大只天残党/家长党MtF，已出柜，不pass，攒钱SRS中\n出厂日期：2006.10.26 HRT时间：2026.4.1\n欢迎同类互fo，私信可能来不及回复，抱歉喵\nGitHub(正在建设)：https://t.co/kdNOs6dwBr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Wanda12300",
+                "end": 124,
+                "expanded_url": "https://github.com/Wanda12300",
+                "start": 101,
+                "url": "https://t.co/kdNOs6dwBr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/wanda123001",
+                "end": 23,
+                "expanded_url": "http://t.me/wanda123001",
+                "start": 0,
+                "url": "https://t.co/naMzEL3fAG"
+              }
+            ]
+          }
+        },
+        "id": "1991306862038544384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096273876221100394",
+        "name": "🍥柔情猫娘QAQ🍥",
+        "pinned_tweet_id": "2092199790276669858",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991306862038544384/1779329289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091643930781847552/EqPfK0A7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885,
+          "following_count": 1143,
+          "like_count": 715,
+          "listed_count": 4,
+          "media_count": 20,
+          "tweet_count": 474
+        },
+        "url": "https://t.co/naMzEL3fAG",
+        "username": "Wanda12300",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

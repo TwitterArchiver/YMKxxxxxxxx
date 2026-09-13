@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092085409341992960"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2091746373381366028",
+    "created_at": "2026-08-25T03:03:27.000Z",
+    "display_text_range": [
+      10,
+      153
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T04:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092085418896540144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374724817119772674",
+          "start": 0,
+          "username": "Mimiaomc"
+        }
+      ],
+      "urls": [
+        {
+          "description": "-, 视频播放量 1179191、弹幕量 996、点赞数 121222、投硬币枚数 6758、收藏人数 51363、转发人数 6966, 视频作者 弗太taiii, 作者简介 【一直做自己也很厲害口牙】 全平台同名（无外网账号） 粉条➕? 3116649771 不要ky和打扰我的朋友家人！ ，相关视频：【日系反翘】一分钟教会！从修剪到打理全过程～，「盛大的夢呀」…，长头发男生平常在家不打理就是这个样子，不要上课！！！，「咕嚕哇哈～」，三明治店但玩剪刀版，点击查看此女子长大−☆，快走 上课了。#宅，喂。笨死了啦～，解答：男娘的头发怎么留？",
+          "display_url": "b23.tv/fxqmaxw",
+          "end": 153,
+          "expanded_url": "https://b23.tv/fxqmaxw",
+          "start": 130,
+          "status": 200,
+          "title": "一期十分吵闹的头发打理教程_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1h7hmeREax/?buvid=XU0842E00784559F683EDE743D14C289E08DD&from_spmid=search.search-result.0.0&is_story_h5=false&mid=RMDwkNThptyegewvfzQg0w%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e6b4731e-ce07-46b5-8646-319090d0fbd7&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1787626750&unique_k=fxqmaxw&up_id=1206651023",
+          "url": "https://t.co/i5SRy3SkRf"
+        },
+        {
+          "display_url": "pic.x.com/UpixWUy4WB",
+          "end": 177,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2092085418896540144/photo/1",
+          "media_key": "3_2092085409341992960",
+          "start": 154,
+          "url": "https://t.co/UpixWUy4WB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092085418896540144",
+    "in_reply_to_user_id": "1374724817119772674",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092085409341992960"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092083936159818227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mimiaomc 前段时间是看到这个视频才想买的，虽然是大沙发金毛狮王效果会很有限，但出个门打理还是很有用的。担心伤头发的话可以用护发精油，一定要带热防护的那种。然后产品的话，推荐lena 大概159元紫色的那一款\n【一期十分吵闹的头发打理教程-哔哩哔哩】 https://t.co/i5SRy3SkRf https://t.co/UpixWUy4WB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2940,
+        "media_key": "3_2092085409341992960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQiUmG-bcAATTC5.jpg",
+        "width": 2064
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092085409341992960"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2091746373381366028",
+        "created_at": "2026-08-25T03:03:27.000Z",
+        "display_text_range": [
+          10,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T04:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092085418896540144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1374724817119772674",
+              "start": 0,
+              "username": "Mimiaomc"
+            }
+          ],
+          "urls": [
+            {
+              "description": "-, 视频播放量 1179191、弹幕量 996、点赞数 121222、投硬币枚数 6758、收藏人数 51363、转发人数 6966, 视频作者 弗太taiii, 作者简介 【一直做自己也很厲害口牙】 全平台同名（无外网账号） 粉条➕? 3116649771 不要ky和打扰我的朋友家人！ ，相关视频：【日系反翘】一分钟教会！从修剪到打理全过程～，「盛大的夢呀」…，长头发男生平常在家不打理就是这个样子，不要上课！！！，「咕嚕哇哈～」，三明治店但玩剪刀版，点击查看此女子长大−☆，快走 上课了。#宅，喂。笨死了啦～，解答：男娘的头发怎么留？",
+              "display_url": "b23.tv/fxqmaxw",
+              "end": 153,
+              "expanded_url": "https://b23.tv/fxqmaxw",
+              "start": 130,
+              "status": 200,
+              "title": "一期十分吵闹的头发打理教程_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1h7hmeREax/?buvid=XU0842E00784559F683EDE743D14C289E08DD&from_spmid=search.search-result.0.0&is_story_h5=false&mid=RMDwkNThptyegewvfzQg0w%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=e6b4731e-ce07-46b5-8646-319090d0fbd7&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1787626750&unique_k=fxqmaxw&up_id=1206651023",
+              "url": "https://t.co/i5SRy3SkRf"
+            },
+            {
+              "display_url": "pic.x.com/UpixWUy4WB",
+              "end": 177,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2092085418896540144/photo/1",
+              "media_key": "3_2092085409341992960",
+              "start": 154,
+              "url": "https://t.co/UpixWUy4WB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092085418896540144",
+        "in_reply_to_user_id": "1374724817119772674",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092085409341992960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092083936159818227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mimiaomc 前段时间是看到这个视频才想买的，虽然是大沙发金毛狮王效果会很有限，但出个门打理还是很有用的。担心伤头发的话可以用护发精油，一定要带热防护的那种。然后产品的话，推荐lena 大概159元紫色的那一款\n【一期十分吵闹的头发打理教程-哔哩哔哩】 https://t.co/i5SRy3SkRf https://t.co/UpixWUy4WB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1374724817119772674",
+        "conversation_id": "2091746373381366028",
+        "created_at": "2026-08-25T02:57:34.000Z",
+        "display_text_range": [
+          13,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092083936159818227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092083936159818227",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092083498337304840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 猫猫之前想用，但听说伤头发然后产品参差不齐就没买"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2092085418896540144",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 713,
+          "like_count": 10365,
+          "listed_count": 2,
+          "media_count": 227,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-24T14:08:43.000Z",
+        "description": "就是家猫/猫猫啦！不可以打我哟！钟楼！\n渴望被爱 | 会尽力去爱朋友 | 温柔大姐姐 | 2009 | MtF |\n西安高新 | 邮政 | 卡组织 | 钟楼系列维基 | 红帽 Linux |\n嵌入式 | 铁路 | 公交 | 最爱的姐姐：@Mimiaomc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 118,
+                "username": "Mimiaomc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "classnote.top",
+                "end": 23,
+                "expanded_url": "http://classnote.top",
+                "start": 0,
+                "url": "https://t.co/zTJhnu1Gjv"
+              }
+            ]
+          }
+        },
+        "id": "1374724817119772674",
+        "is_identity_verified": false,
+        "location": "CLOUDFLARE.COM",
+        "most_recent_tweet_id": "2092084815411773943",
+        "name": "MM 喵了个",
+        "pinned_tweet_id": "2091520242300428575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1374724817119772674/1783492251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074742430805704704/YQCCc8tK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 282,
+          "like_count": 2940,
+          "listed_count": 5,
+          "media_count": 460,
+          "tweet_count": 1649
+        },
+        "url": "https://t.co/zTJhnu1Gjv",
+        "username": "Mimiaomc",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

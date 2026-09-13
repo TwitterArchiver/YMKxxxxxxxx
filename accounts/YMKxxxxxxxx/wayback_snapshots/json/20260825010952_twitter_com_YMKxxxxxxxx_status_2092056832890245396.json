@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2091892907250966844",
+    "created_at": "2026-08-25T01:09:52.000Z",
+    "display_text_range": [
+      30,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T02:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092056832890245396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061110627977121792",
+          "start": 0,
+          "username": "aEthnicAvenger"
+        },
+        {
+          "end": 29,
+          "id": "2041449853213974528",
+          "start": 16,
+          "username": "xiaojiangnie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092056832890245396",
+    "in_reply_to_user_id": "2061110627977121792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091915243182244011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aEthnicAvenger @xiaojiangnie 饿啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2091892907250966844",
+        "created_at": "2026-08-25T01:09:52.000Z",
+        "display_text_range": [
+          30,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T02:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092056832890245396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061110627977121792",
+              "start": 0,
+              "username": "aEthnicAvenger"
+            },
+            {
+              "end": 29,
+              "id": "2041449853213974528",
+              "start": 16,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092056832890245396",
+        "in_reply_to_user_id": "2061110627977121792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091915243182244011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aEthnicAvenger @xiaojiangnie 饿啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061110627977121792",
+        "conversation_id": "2091892907250966844",
+        "created_at": "2026-08-24T15:47:14.000Z",
+        "display_text_range": [
+          14,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091915243182244011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449853213974528",
+              "start": 0,
+              "username": "xiaojiangnie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091915243182244011",
+        "in_reply_to_user_id": "2041449853213974528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091892907250966844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojiangnie 对于你们这些跨🐶要重拳出击消灭你们！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2092056832890245396",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 713,
+          "like_count": 10357,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2245
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-31T15:44:33.000Z",
+        "description": "忠诚的民族主义和保守主义战士，坚信中华民族是世界上最纯洁、最伟大的民族，我建议伟大光荣、神圣，纯洁的中华民族不可战胜！中华民族高于一切，高于世间万物！铲除一切企图分裂祖国的境外，境内势力，让中华再次伟大！消灭lgbt反动的新自由左派！以中华之名，消灭世上一切牛鬼蛇神！为国家而生，为国家而死！我存国亡，国存我亡！",
+        "id": "2061110627977121792",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2091917269509222646",
+        "name": "An Ethnic Avenger",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2061110627977121792/1787565501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061112063548956673/Yz3V3-2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 34,
+          "like_count": 12,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "aEthnicAvenger",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-07T09:36:14.000Z",
+        "description": "咱其实不爱吃小孩呀喵/hrt🍥2026.3.28 已炸柜（第三天炸柜极速版)/出厂日期2009.12.17/偏天赋一点天生雌高喵～/蓄发中喵/出院开心ing喵/互fo私信喵/神经病学研究ing喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaojiangnie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaojiangnie",
+                "start": 0,
+                "url": "https://t.co/GQwOKrlE1c"
+              }
+            ]
+          }
+        },
+        "id": "2041449853213974528",
+        "is_identity_verified": false,
+        "location": "青岛市",
+        "most_recent_tweet_id": "2091892907250966844",
+        "name": "小蒋吃小孩🍥🏳️‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2041449853213974528/1777889048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041457265644036096/RG8FA8Lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 373,
+          "like_count": 5267,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 299
+        },
+        "url": "https://t.co/GQwOKrlE1c",
+        "username": "xiaojiangnie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

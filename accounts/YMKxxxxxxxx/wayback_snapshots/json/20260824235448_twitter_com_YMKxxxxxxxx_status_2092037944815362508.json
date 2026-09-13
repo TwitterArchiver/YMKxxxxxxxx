@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2092037944815362508",
+    "created_at": "2026-08-24T23:54:48.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T00:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092037944815362508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1086364922399862784",
+          "start": 3,
+          "username": "princess_decon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092037944815362508",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091899492807106978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @princess_decon: ◝✩・*。\n　　・゜+.\n　　°。+ *´¨)\n　　　　.· ´¸.·*´¨) ¸.·*¨)\n　　　　　　(¸.·´ (¸.·'*   ◝✩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2092037944815362508",
+        "created_at": "2026-08-24T23:54:48.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T00:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092037944815362508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1086364922399862784",
+              "start": 3,
+              "username": "princess_decon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092037944815362508",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091899492807106978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @princess_decon: ◝✩・*。\n　　・゜+.\n　　°。+ *´¨)\n　　　　.· ´¸.·*´¨) ¸.·*¨)\n　　　　　　(¸.·´ (¸.·'*   ◝✩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1086364922399862784",
+        "conversation_id": "2091899492807106978",
+        "created_at": "2026-08-24T14:44:39.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091899492807106978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091899492807106978",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 118,
+          "impression_count": 12363,
+          "like_count": 304,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "◝✩・*。\n　　・゜+.\n　　°。+ *´¨)\n　　　　.· ´¸.·*´¨) ¸.·*¨)\n　　　　　　(¸.·´ (¸.·'*   ◝✩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2092037944815362508",
+        "name": "𝘠𝘶𝘮𝘦𝘬𝘢 ✨🐰",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1085,
+          "following_count": 713,
+          "like_count": 10333,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 2236
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-18T20:49:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/prince…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/princess-decon.bsky.social",
+                "start": 0,
+                "url": "https://t.co/32lOgNSGBN"
+              }
+            ]
+          }
+        },
+        "id": "1086364922399862784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091899492807106978",
+        "name": "‎絵文字 ( ᴜ ˶. ̫. )っ𖹭ｃ( . ̫.˶ ᴜ ) .𖥔 ݁ ˖๋ ࣭♡",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1086364922399862784/1548491397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1089077900463218688/GCUg3nDY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118468,
+          "following_count": 14,
+          "like_count": 6029,
+          "listed_count": 773,
+          "media_count": 0,
+          "tweet_count": 1290
+        },
+        "url": "https://t.co/32lOgNSGBN",
+        "username": "princess_decon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

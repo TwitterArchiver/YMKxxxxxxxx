@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2094427123985633525",
+    "created_at": "2026-08-31T14:08:33.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094427123985633525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1481914707539677185",
+          "start": 3,
+          "username": "KanoYumoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094427123985633525",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094301645891100809",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KanoYumoe: 哭泣并不是什么丢人的事，让情绪顺着眼泪流出来很多时候是对自己的一种负责哦。所谓的“哭不能解决问题”是多么傲慢又高高在上的一句话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2094427123985633525",
+        "created_at": "2026-08-31T14:08:33.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094427123985633525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1481914707539677185",
+              "start": 3,
+              "username": "KanoYumoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094427123985633525",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094301645891100809",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KanoYumoe: 哭泣并不是什么丢人的事，让情绪顺着眼泪流出来很多时候是对自己的一种负责哦。所谓的“哭不能解决问题”是多么傲慢又高高在上的一句话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481914707539677185",
+        "conversation_id": "2094301645891100809",
+        "created_at": "2026-08-31T05:49:57.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T06:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094301645891100809"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094301645891100809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 486,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "哭泣并不是什么丢人的事，让情绪顺着眼泪流出来很多时候是对自己的一种负责哦。所谓的“哭不能解决问题”是多么傲慢又高高在上的一句话…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低\n→ 架构师 ₊˚⊹\r花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2094427123985633525",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 723,
+          "like_count": 10720,
+          "listed_count": 2,
+          "media_count": 245,
+          "tweet_count": 2354
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-14T09:03:05.000Z",
+        "description": "MTF，药跨。经常深夜出没，头像是自设。因为有稳定工作，所以想为大家提供力所能及的帮助，也想成为大家生活中意外的小确幸。\n会及时的互关哦，每一条友善的私信都会认真回复哦。\n早上好，中午好，晚上好。在这个世界上总有人喜欢你，只是你还未曾遇见，和我一起再等等好吗？\n\n联系方式（企鹅）：752771872（风铃🎐）",
+        "id": "1481914707539677185",
+        "is_identity_verified": false,
+        "location": "兰山区",
+        "most_recent_tweet_id": "2094426870817448091",
+        "name": "今天也要吃饱🍥🎐",
+        "pinned_tweet_id": "2088789739663208812",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1481914707539677185/1786579000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092787604756582400/40GT1Iq6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 200,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 401
+        },
+        "url": "",
+        "username": "KanoYumoe",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2095131980136620474",
+    "created_at": "2026-09-03T09:27:40.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T10:27:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095443599160992236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1821482741319557120",
+          "start": 0,
+          "username": "Tonarii_itoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095443599160992236",
+    "in_reply_to_user_id": "1821482741319557120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095428502489383376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonarii_itoko 抱抱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2095131980136620474",
+        "created_at": "2026-09-03T09:27:40.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T10:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095443599160992236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1821482741319557120",
+              "start": 0,
+              "username": "Tonarii_itoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095443599160992236",
+        "in_reply_to_user_id": "1821482741319557120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095428502489383376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonarii_itoko 抱抱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821482741319557120",
+        "conversation_id": "2095131980136620474",
+        "created_at": "2026-09-03T08:27:40.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:27:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095428502489383376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095428502489383376",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095131980136620474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 愿你痛苦早日冲淡......抱抱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低    //碎碎念//\n→ 架构师 ₊˚⊹ 花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2095443599160992236",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 739,
+          "like_count": 10913,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2394
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-08T09:45:13.000Z",
+        "description": "生活在蓝色星球上的疑似少女生物，目前已定居16公历年，渴望传递与邂逅独特的电波（?）",
+        "id": "1821482741319557120",
+        "is_identity_verified": false,
+        "location": "隣",
+        "most_recent_tweet_id": "2095428502489383376",
+        "name": "Tonarii糸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821482741319557120/1784569876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084656962051112960/mAwzAeB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 268,
+          "like_count": 736,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "Tonarii_itoko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

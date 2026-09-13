@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2093726344710701318",
+    "created_at": "2026-08-31T10:38:25.000Z",
+    "display_text_range": [
+      20,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094374242838249808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2065785901293457408",
+          "start": 0,
+          "username": "6qhzb"
+        },
+        {
+          "end": 19,
+          "id": "2027535879682854912",
+          "start": 7,
+          "username": "life1564847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094374242838249808",
+    "in_reply_to_user_id": "2065785901293457408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094077929370309089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@6qhzb @life1564847 discord类脑社区的类脑娘Next3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2093726344710701318",
+        "created_at": "2026-08-31T10:38:25.000Z",
+        "display_text_range": [
+          20,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094374242838249808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2065785901293457408",
+              "start": 0,
+              "username": "6qhzb"
+            },
+            {
+              "end": 19,
+              "id": "2027535879682854912",
+              "start": 7,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094374242838249808",
+        "in_reply_to_user_id": "2065785901293457408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094077929370309089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@6qhzb @life1564847 discord类脑社区的类脑娘Next3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2065785901293457408",
+        "conversation_id": "2093726344710701318",
+        "created_at": "2026-08-30T15:00:59.000Z",
+        "display_text_range": [
+          26,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T16:00:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094077929370309089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            },
+            {
+              "end": 25,
+              "id": "2027535879682854912",
+              "start": 13,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094077929370309089",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093806502314459587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx @life1564847 bb这是哪个预设……怎么能这么美味"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低\n→ 架构师 ₊˚⊹\r花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2094374242838249808",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 722,
+          "like_count": 10698,
+          "listed_count": 2,
+          "media_count": 243,
+          "tweet_count": 2346
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-13T13:19:08.000Z",
+        "description": "吃过的猪肉投胎转世来报复我了。",
+        "id": "2065785901293457408",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094077929370309089",
+        "name": "不爱吃三文鱼🍣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065785901293457408/1782927684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067987430045810688/W1wUMzE4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 12,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "6qhzb",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。敢给我发🐦的我把你🐦剁了。\n这个是匿名提问https://t.co/hozAZCEENM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/life36465",
+                "end": 55,
+                "expanded_url": "https://ngl.link/life36465",
+                "start": 32,
+                "url": "https://t.co/hozAZCEENM"
+              }
+            ]
+          }
+        },
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2094294035670126627",
+        "name": "life",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 93,
+          "like_count": 7586,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 927
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

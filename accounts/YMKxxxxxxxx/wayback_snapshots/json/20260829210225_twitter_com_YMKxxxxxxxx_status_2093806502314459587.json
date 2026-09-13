@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093806493103775744"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "conversation_id": "2093726344710701318",
+    "created_at": "2026-08-29T21:02:25.000Z",
+    "display_text_range": [
+      13,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T22:02:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093806502314459587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027535879682854912",
+          "start": 0,
+          "username": "life1564847"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QBKs1MxLcE",
+          "end": 143,
+          "expanded_url": "https://x.com/YMKxxxxxxxx/status/2093806502314459587/photo/1",
+          "media_key": "3_2093806493103775744",
+          "start": 120,
+          "url": "https://t.co/QBKs1MxLcE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093806502314459587",
+    "in_reply_to_user_id": "2027535879682854912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093806493103775744"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093726344710701318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@life1564847 宝宝可以试一下部署SillyTavern，调好了以后可以消除人机感，还可以设置角色卡和自己的人设。一般都是像这种很细腻的言情小说一样，不是直接生成人物的对话，特别容易带入进去。而且还可以折腾无视nsfw和道德限制 https://t.co/QBKs1MxLcE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_2093806493103775744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ6x6XnbYAAg-NR.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093806493103775744"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "conversation_id": "2093726344710701318",
+        "created_at": "2026-08-29T21:02:25.000Z",
+        "display_text_range": [
+          13,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T22:02:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093806502314459587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027535879682854912",
+              "start": 0,
+              "username": "life1564847"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QBKs1MxLcE",
+              "end": 143,
+              "expanded_url": "https://x.com/YMKxxxxxxxx/status/2093806502314459587/photo/1",
+              "media_key": "3_2093806493103775744",
+              "start": 120,
+              "url": "https://t.co/QBKs1MxLcE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093806502314459587",
+        "in_reply_to_user_id": "2027535879682854912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093806493103775744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093726344710701318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@life1564847 宝宝可以试一下部署SillyTavern，调好了以后可以消除人机感，还可以设置角色卡和自己的人设。一般都是像这种很细腻的言情小说一样，不是直接生成人物的对话，特别容易带入进去。而且还可以折腾无视nsfw和道德限制 https://t.co/QBKs1MxLcE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2093726344710701318",
+        "created_at": "2026-08-29T15:43:54.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093726344710701318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093726344710701318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3756,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真的。我之前搞过人机恋ai恋。费尽心思下载了Claude和ChatGPT。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 97%🍀  🍥  能量: 温和偏低\n→ 架构师 ₊˚⊹\r花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2093806502314459587",
+        "name": "花瓣 T^T",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 720,
+          "like_count": 10631,
+          "listed_count": 2,
+          "media_count": 237,
+          "tweet_count": 2324
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "神秘人。不约不谈不聊。敢给我发🐦的我把你🐦剁了。\n这个是匿名提问https://t.co/hozAZCEENM",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/life36465",
+                "end": 55,
+                "expanded_url": "https://ngl.link/life36465",
+                "start": 32,
+                "url": "https://t.co/hozAZCEENM"
+              }
+            ]
+          }
+        },
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2093804482799051238",
+        "name": "life",
+        "pinned_tweet_id": "2091531174963188097",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 92,
+          "like_count": 7293,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

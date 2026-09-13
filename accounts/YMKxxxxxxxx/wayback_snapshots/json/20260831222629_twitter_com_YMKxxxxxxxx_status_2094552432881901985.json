@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094312631071129600",
+        "13_2094312631092056064"
+      ],
+      "media_source_tweet_id": [
+        "2094312681314656692",
+        "2094312681314656692"
+      ]
+    },
+    "author_id": "1797120101419999232",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094552432881901985",
+    "created_at": "2026-08-31T22:26:29.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T23:26:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094552432881901985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1196567249370271744",
+          "start": 3,
+          "username": "berburushopee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/20BH6ikmAa",
+          "end": 116,
+          "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+          "media_key": "3_2094312631071129600",
+          "start": 93,
+          "url": "https://t.co/20BH6ikmAa"
+        },
+        {
+          "display_url": "pic.x.com/20BH6ikmAa",
+          "end": 116,
+          "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+          "media_key": "13_2094312631092056064",
+          "start": 93,
+          "url": "https://t.co/20BH6ikmAa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094552432881901985",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2094312631071129600"
+      },
+      {
+        "media_key": "13_2094312631092056064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4076
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094312681314656692",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @berburushopee: gw rasa mainan ini target pasarnya buat bocil umur 20 tahun keatas deh😭🙏🏻 https://t.co/20BH6ikmAa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1462,
+        "media_key": "3_2094312631071129600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRB-PeebwAAif9U.jpg",
+        "width": 1170
+      },
+      {
+        "duration_ms": 8795,
+        "height": 1350,
+        "media_key": "13_2094312631092056064",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094312631092056064/img/iG_dMXHe2PurPUpN.jpg",
+        "public_metrics": {
+          "view_count": 747119
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094312631092056064/pl/NkNJ6xYOYZQiQ6Bx.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094312631092056064/vid/avc1/720x900/RPN4ZcGUWCWBT09o.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094312631092056064/vid/avc1/320x400/eg6F5NibZMkXXOKU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094312631092056064/vid/avc1/480x600/VLlu0zrXiVVkPEMW.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094312631092056064/vid/avc1/1080x1350/caylADAXidI8lF2b.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094312631071129600",
+            "13_2094312631092056064"
+          ],
+          "media_source_tweet_id": [
+            "2094312681314656692",
+            "2094312681314656692"
+          ]
+        },
+        "author_id": "1797120101419999232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094552432881901985",
+        "created_at": "2026-08-31T22:26:29.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T23:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094552432881901985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1196567249370271744",
+              "start": 3,
+              "username": "berburushopee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/20BH6ikmAa",
+              "end": 116,
+              "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+              "media_key": "3_2094312631071129600",
+              "start": 93,
+              "url": "https://t.co/20BH6ikmAa"
+            },
+            {
+              "display_url": "pic.x.com/20BH6ikmAa",
+              "end": 116,
+              "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+              "media_key": "13_2094312631092056064",
+              "start": 93,
+              "url": "https://t.co/20BH6ikmAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094552432881901985",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2094312631071129600"
+          },
+          {
+            "media_key": "13_2094312631092056064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4076
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094312681314656692",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @berburushopee: gw rasa mainan ini target pasarnya buat bocil umur 20 tahun keatas deh😭🙏🏻 https://t.co/20BH6ikmAa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094312631071129600",
+            "13_2094312631092056064"
+          ]
+        },
+        "author_id": "1196567249370271744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094312681314656692",
+        "created_at": "2026-08-31T06:33:48.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094312681314656692"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/20BH6ikmAa",
+              "end": 97,
+              "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+              "media_key": "3_2094312631071129600",
+              "start": 74,
+              "url": "https://t.co/20BH6ikmAa"
+            },
+            {
+              "display_url": "pic.x.com/20BH6ikmAa",
+              "end": 97,
+              "expanded_url": "https://x.com/berburushopee/status/2094312681314656692/video/1",
+              "media_key": "13_2094312631092056064",
+              "start": 74,
+              "url": "https://t.co/20BH6ikmAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094312681314656692",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2094312631071129600"
+          },
+          {
+            "media_key": "13_2094312631092056064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3978,
+          "impression_count": 1318353,
+          "like_count": 31757,
+          "quote_count": 566,
+          "reply_count": 90,
+          "retweet_count": 4076
+        },
+        "reply_settings": "everyone",
+        "text": "gw rasa mainan ini target pasarnya buat bocil umur 20 tahun keatas deh😭🙏🏻 https://t.co/20BH6ikmAa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低\n→ 架构师 ₊˚⊹\r花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2094552432881901985",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 725,
+          "like_count": 10767,
+          "listed_count": 2,
+          "media_count": 246,
+          "tweet_count": 2363
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-18T23:14:10.000Z",
+        "description": "fashion • cute stuff • lifestyle || info promo dan diskon shopee",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/racunku_shopee",
+                "end": 23,
+                "expanded_url": "http://t.me/racunku_shopee",
+                "start": 0,
+                "url": "https://t.co/eHTK1YYMPB"
+              }
+            ]
+          }
+        },
+        "id": "1196567249370271744",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094447578410799603",
+        "name": "Kiaaa🕊️",
+        "pinned_tweet_id": "2094312681314656692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1196567249370271744/1774855719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038518286464483328/xLm5gqrR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123939,
+          "following_count": 390,
+          "like_count": 28110,
+          "listed_count": 693,
+          "media_count": 15627,
+          "tweet_count": 48051
+        },
+        "url": "https://t.co/eHTK1YYMPB",
+        "username": "berburushopee",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

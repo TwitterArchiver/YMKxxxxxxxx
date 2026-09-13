@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1797120101419999232",
+    "conversation_id": "2095131980136620474",
+    "created_at": "2026-09-02T22:37:37.000Z",
+    "display_text_range": [
+      15,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T23:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095280010903146765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823854145977376770",
+          "start": 0,
+          "username": "Fantasia_0715"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095280010903146765",
+    "in_reply_to_user_id": "1823854145977376770",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095203515065127064",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fantasia_0715 如果站在你的方向，我会这样说：\n治愈哀伤的创可贴有两种：一种叫时间，另一种是自己亲手为自己贴上的。它们唯一的作用，是让伤口慢慢恢复，或者让自己碰触时不那么疼，而不是去遮掩那无法逆转的结局。(..)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797120101419999232",
+        "conversation_id": "2095131980136620474",
+        "created_at": "2026-09-02T22:37:37.000Z",
+        "display_text_range": [
+          15,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T23:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095280010903146765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823854145977376770",
+              "start": 0,
+              "username": "Fantasia_0715"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095280010903146765",
+        "in_reply_to_user_id": "1823854145977376770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095203515065127064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fantasia_0715 如果站在你的方向，我会这样说：\n治愈哀伤的创可贴有两种：一种叫时间，另一种是自己亲手为自己贴上的。它们唯一的作用，是让伤口慢慢恢复，或者让自己碰触时不那么疼，而不是去遮掩那无法逆转的结局。(..)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823854145977376770",
+        "conversation_id": "2095131980136620474",
+        "created_at": "2026-09-02T17:33:39.000Z",
+        "display_text_range": [
+          13,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095203515065127064"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1797120101419999232",
+              "start": 0,
+              "username": "YMKxxxxxxxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095203515065127064",
+        "in_reply_to_user_id": "1797120101419999232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 251,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095131980136620474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YMKxxxxxxxx 人死了，就像水消失在水里，她死了，而你还活着，暂时如此。有时候这就是我们能够给予死者最后的尊重：不替他们编造一个美好的结局。\n记住他曾经活过，然后继续走，不是因为悲伤已经结束，而是因为它会跟着你走很久。总之，要向前看，加油。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-06-02T04:17:04.000Z",
+        "description": "在这个冰冷的宇宙里，花的眼泪会绽放出一朵一朵。\n→ 梦花 🌸 𝒊𝒏𝒇𝒑-𝒂  she/her  les  linux\n→ SAN: 96%🍀  🍥  能量: 温和偏低    //碎碎念//\n→ 架构师 ₊˚⊹ 花海 · 虚无 · 唯美 · 存在 · 哲学 · 爱\n可以喜欢我吗？希望能有更多的连接^^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yumeka.blog",
+                "end": 23,
+                "expanded_url": "https://yumeka.blog",
+                "start": 0,
+                "url": "https://t.co/DN5NCsNQVA"
+              }
+            ]
+          }
+        },
+        "id": "1797120101419999232",
+        "is_identity_verified": false,
+        "location": "本星系群 • 仙女座星系",
+        "most_recent_tweet_id": "2095280010903146765",
+        "name": "夢花（ゆめか）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1797120101419999232/1749745222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030601786961412096/WH4xCv0P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 738,
+          "like_count": 10894,
+          "listed_count": 2,
+          "media_count": 251,
+          "tweet_count": 2391
+        },
+        "url": "https://t.co/DN5NCsNQVA",
+        "username": "YMKxxxxxxxx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-14T22:48:16.000Z",
+        "description": "Fantasía von Amalfitano Baudelaire，叫我幻想集就好。",
+        "id": "1823854145977376770",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095232878158454920",
+        "name": "Fantasía",
+        "pinned_tweet_id": "2074900800976158957",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1823854145977376770/1785283486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094048513797902336/c266LFbn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 377,
+          "like_count": 1267,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "Fantasia_0715",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
